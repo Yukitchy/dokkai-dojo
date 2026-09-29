@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dokkai Dojo</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='8' fill='%23B5121B'/%3E%3Ctext x='32' y='46' font-size='40' text-anchor='middle' fill='%23F3EEE4' font-family='serif' font-weight='700'%3E読%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Zen+Kaku+Gothic+New:wght@500;700;900&family=Zen+Old+Mincho:wght@500;700&family=Inconsolata:wght@500;700&display=swap">
+<link rel="stylesheet" href="engine/style.css">
+</head><body class="noruby">
+<div class="top"><div class="wrap">
+  <span class="brand" id="brand">Dokkai Dojo</span>
+  <select class="lv" id="tabs" aria-label="レベル"></select>
+  <label class="sw"><input type="checkbox" id="ruby"> ふりがな</label>
+  <label class="sw"><input type="checkbox" id="exam"> 本番モード</label>
+</div></div>
+<div class="wrap">
+  <div class="hero"><span class="eyebrow" id="eyebrow">JLPT 読解</span><h1 id="title">Dokkai Dojo</h1>
+    <p class="note"><button class="btn ghost sm" id="print">このレベルを印刷・PDF</button> <button class="btn ghost sm" id="ankiLv">このレベルの単語をAnkiへ</button></p></div>
+  <div id="list"></div>
+  <div id="view" hidden></div>
+  <div class="foot" id="foot"></div>
+</div>
+<div id="printout"></div>
+<script src="engine/app.js"></script>
+<script src="engine/devbar.js"></script>
+</body></html>

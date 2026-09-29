@@ -1,0 +1,30 @@
+{
+ "name": "Anime Sensei",
+ "title": "Dokkai Dojo",
+ "lead": "JLPT reading drills N5–N1. Original texts, answers with the reason for every choice.",
+ "levels": [
+  "n5",
+  "n4",
+  "n3",
+  "n2",
+  "n1"
+ ],
+ "allow": [
+  "喫茶",
+  "ねこまど",
+  "ねこむ",
+  "紅茶",
+  "ケーキ",
+  "パンケーキ",
+  "カレーライス",
+  "秋葉原",
+  "招き猫",
+  "映画祭",
+  "聖地巡礼",
+  "推し",
+  "神保町",
+  "字幕",
+  "吹き替え",
+  "店長"
+ ]
+}

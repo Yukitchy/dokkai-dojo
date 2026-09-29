@@ -1,0 +1,168 @@
+{
+ "level": "n5",
+ "passages": [
+  {
+   "id": "n5-01",
+   "type": "short",
+   "genre": "お知{し}らせ",
+   "title": "新{あたら}しいラノベのコーナー",
+   "lead": "本屋{ほんや}に新{あたら}しいラノベが来{き}ましたが、どこにあるでしょう？",
+   "text": "新{あたら}しいラノベのお知{し}らせ\n\nきょう、新{あたら}しいラノベが十冊{じゅっさつ}来{き}ました。新{あたら}しい本{ほん}は、入{い}り口{ぐち}の右{みぎ}の棚{たな}にあります。古{ふる}い本{ほん}は、奥{おく}の棚{たな}にあります。新{あたら}しい本{ほん}の隣{となり}に、いすがあります。そこで本{ほん}を読{よ}んでください。",
+   "questions": [
+    {
+     "q": "「そこ」は、どこですか。",
+     "c": [
+      "入{い}り口{ぐち}の右{みぎ}の棚{たな}の上{うえ}",
+      "店{みせ}の外{そと}のいす",
+      "古{ふる}い本{ほん}の隣{となり}のいす",
+      "新{あたら}しい本{ほん}の隣{となり}のいす"
+     ],
+     "a": 3,
+     "ev": "新しい本の隣に、いすがあります。そこで本を読んでください。",
+     "why": "そこ refers to the chair next to the new books, mentioned immediately before it.",
+     "ng": [
+      "The shelf on the right holds the new books; readers are directed to the chair.",
+      "The notice does not mention a chair outside the shop.",
+      "The chair is next to the new books, not the old books.",
+      ""
+     ]
+    }
+   ],
+   "words": [
+    [
+     "棚",
+     "たな",
+     "shelf"
+    ],
+    [
+     "奥",
+     "おく",
+     "back; inner part"
+    ],
+    [
+     "隣",
+     "となり",
+     "next to"
+    ]
+   ]
+  },
+  {
+   "id": "n5-02",
+   "type": "mid",
+   "genre": "日記{にっき}",
+   "title": "はじめての一{いち}ページ",
+   "lead": "はじめて日本語{にほんご}でラノベを読{よ}みましたが、知{し}らない言葉{ことば}が……。",
+   "text": "きょう、ラノベを読{よ}みました。ラノベはライトノベルです。わたしは、日本語{にほんご}のラノベを一冊{いっさつ}持{も}っています。表紙{ひょうし}の絵{え}がきれいです。\n夜{よる}、机{つくえ}の上{うえ}に本{ほん}と辞書{じしょ}を置{お}きました。はじめて日本語{にほんご}で一{いち}ページ読{よ}みました。知{し}らない言葉{ことば}がありました。辞書{じしょ}で言葉{ことば}の意味{いみ}を調{しら}べました。でも、時間{じかん}がかかりました。\nそのページには、男{おとこ}の人{ひと}と小{ちい}さい犬{いぬ}がいました。男{おとこ}の人{ひと}は、犬{いぬ}と空{そら}を飛{と}びました。絵{え}にも犬{いぬ}がいました。わたしはその絵{え}を見{み}て、もう一度{いちど}同{おな}じページを読{よ}みました。今度{こんど}は少{すこ}しわかりました。うれしかったです。\nあしたは、次{つぎ}のページを読{よ}みたいです。",
+   "questions": [
+    {
+     "q": "「わたし」は、どうして辞書{じしょ}で調{しら}べましたか。",
+     "c": [
+      "知{し}らない言葉{ことば}がありましたから。",
+      "本{ほん}の値段{ねだん}を知{し}りたかったですから。",
+      "時間{じかん}がかかりましたから。",
+      "犬{いぬ}の絵{え}を見{み}たかったですから。"
+     ],
+     "a": 0,
+     "ev": "知らない言葉がありました。辞書で言葉の意味を調べました。",
+     "why": "The writer found unfamiliar words and used a dictionary to look up their meanings.",
+     "ng": [
+      "",
+      "The diary does not say the writer wanted to know the price.",
+      "It took time because of the dictionary — that is the result, not the reason for looking words up.",
+      "The dog appears in an illustration in the novel, but the dictionary was used for word meanings."
+     ]
+    },
+    {
+     "q": "「わたし」は、あした何{なに}をしたいですか。",
+     "c": [
+      "新{あたら}しい辞書{じしょ}を買{か}いたいです。",
+      "次{つぎ}のページを読{よ}みたいです。",
+      "同{おな}じページをもう一度{いちど}読{よ}みたいです。",
+      "日本語{にほんご}の本{ほん}を全部{ぜんぶ}読{よ}みたいです。"
+     ],
+     "a": 1,
+     "ev": "あしたは、次のページを読みたいです。",
+     "why": "The final sentence says the writer wants to read the next page tomorrow.",
+     "ng": [
+      "The diary does not mention buying a new dictionary.",
+      "",
+      "Rereading the same page happened today.",
+      "The writer mentions only the next page, not finishing the whole book."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "ラノベ",
+     "らのべ",
+     "light novel"
+    ],
+    [
+     "辞書",
+     "じしょ",
+     "dictionary"
+    ],
+    [
+     "意味",
+     "いみ",
+     "meaning"
+    ],
+    [
+     "もう一度",
+     "もういちど",
+     "once more"
+    ]
+   ]
+  },
+  {
+   "id": "n5-03",
+   "type": "info",
+   "genre": "案内{あんない}",
+   "title": "本屋{ほんや}のサイン会{かい}とフェア",
+   "lead": "本屋{ほんや}でラノベのフェアがありますが、プレゼントは何{なん}でしょう？",
+   "text": "本屋{ほんや}のお知{し}らせ\n\n今週{こんしゅう}はラノベのフェアです。新{あたら}しい本{ほん}がたくさんあります。\n\n【サイン会{かい}】\n本{ほん}の作者{さくしゃ}が来{き}ます。作者{さくしゃ}が本{ほん}に名前{なまえ}を書{か}きます。\n曜日{ようび}　時間{じかん}　場所{ばしょ}\n土曜日{どようび}　午後{ごご}二時{にじ}〜三時{さんじ}　二階{にかい}\nサイン会{かい}の本{ほん}は千円{せんえん}です。一階{いっかい}でその本{ほん}を買{か}ってから、二階{にかい}へ来{き}てください。\n\n【フェアのプレゼント】\n曜日{ようび}　プレゼント　買{か}う本{ほん}の数{かず}\n土曜日{どようび}　カード　一冊{いっさつ}\n日曜日{にちようび}　小{ちい}さいノート　二冊{にさつ}\n一階{いっかい}でラノベを買{か}ってください。プレゼントも一階{いっかい}でもらってください。\n店{みせ}は朝{あさ}十時{じゅうじ}から夜{よる}八時{はちじ}までです。",
+   "questions": [
+    {
+     "q": "フェアで小{ちい}さいノートがほしいです。いつ、ラノベを何冊{なんさつ}買{か}いますか。",
+     "c": [
+      "月曜日{げつようび}に二冊{にさつ}買{か}います。",
+      "土曜日{どようび}に一冊{いっさつ}買{か}います。",
+      "日曜日{にちようび}に二冊{にさつ}買{か}います。",
+      "日曜日{にちようび}に一冊{いっさつ}買{か}います。"
+     ],
+     "a": 2,
+     "ev": "日曜日　小さいノート　二冊",
+     "why": "The table lists a small notebook as the gift for buying two light novels on Sunday.",
+     "ng": [
+      "The notice lists no gift for Monday.",
+      "Buying one book on Saturday gives you a card.",
+      "",
+      "Sunday is correct, but the notebook requires two books."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "作者",
+     "さくしゃ",
+     "author"
+    ],
+    [
+     "サイン会",
+     "さいんかい",
+     "book signing event"
+    ],
+    [
+     "一冊",
+     "いっさつ",
+     "one book"
+    ],
+    [
+     "二冊",
+     "にさつ",
+     "two books"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "name": "Isekai & Light Novels",
+ "title": "Dokkai Dojo",
+ "lead": "JLPT reading drills N5–N1 for fans of light novels and other-world stories. Original texts only.",
+ "levels": [
+  "n5",
+  "n4",
+  "n3",
+  "n2",
+  "n1"
+ ],
+ "allow": [
+  "ラノベ",
+  "異世界",
+  "本屋"
+ ]
+}

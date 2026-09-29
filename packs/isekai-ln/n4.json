@@ -1,0 +1,209 @@
+{
+ "level": "n4",
+ "passages": [
+  {
+   "id": "n4-01",
+   "type": "short",
+   "genre": "メール",
+   "title": "本{ほん}を貸{か}す日{ひ}",
+   "lead": "友{とも}だちにライトノベルを貸{か}す約束{やくそく}をしましたが、まだ読{よ}み終{お}わっていなくて……。",
+   "text": "日曜日{にちようび}に貸{か}す約束{やくそく}をしたライトノベルですが、まだ最後{さいご}まで読{よ}んでいません。あと少{すこ}しなので、月曜日{げつようび}には貸{か}せます。月曜日{げつようび}の授業{じゅぎょう}の後{あと}、図書館{としょかん}の入{い}り口{ぐち}で会{あ}いませんか。その日{ひ}は五時{ごじ}から用事{ようじ}があるので、四時半{よじはん}に来{き}てください。難{むずか}しかったら、火曜日{かようび}に学校{がっこう}へ持{も}っていきます。どちらがいいか、日曜日{にちようび}の夜{よる}までに返事{へんじ}をください。本{ほん}は二週間{にしゅうかん}ぐらい借{か}りていても大丈夫{だいじょうぶ}です。",
+   "questions": [
+    {
+     "q": "本{ほん}を貸{か}す日{ひ}を変{か}えたいのは、どうしてですか。",
+     "c": [
+      "日曜日{にちようび}の五時{ごじ}から用事{ようじ}があるからです。",
+      "貸{か}す人{ひと}が、まだ本{ほん}を全部{ぜんぶ}読{よ}んでいないからです。",
+      "借{か}りる人{ひと}が、二週間{にしゅうかん}で本{ほん}を読{よ}めないからです。",
+      "図書館{としょかん}が日曜日{にちようび}は休{やす}みだからです。"
+     ],
+     "a": 1,
+     "ev": "日曜日に貸す約束をしたライトノベルですが、まだ最後まで読んでいません。",
+     "why": "The sender has not finished reading the book, so they want to lend it on Monday or Tuesday instead of Sunday.",
+     "ng": [
+      "The sender's appointment is on Monday, not Sunday.",
+      "",
+      "Two weeks is the suggested borrowing period, not a reason for changing the day.",
+      "The email gives no information about the library's closing days."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "貸す",
+     "かす",
+     "to lend"
+    ],
+    [
+     "約束",
+     "やくそく",
+     "promise; arrangement"
+    ],
+    [
+     "用事",
+     "ようじ",
+     "something to do; an appointment"
+    ],
+    [
+     "返事",
+     "へんじ",
+     "reply"
+    ]
+   ]
+  },
+  {
+   "id": "n4-02",
+   "type": "mid",
+   "genre": "創作{そうさく}",
+   "title": "もう一度{いちど}、宿{やど}の朝{あさ}",
+   "lead": "知{し}らない世界{せかい}の宿{やど}で目{め}がさめ、家{いえ}に帰{かえ}る道{みち}を探{さが}しに出{で}ると……。",
+   "text": "目{め}がさめると、知{し}らない部屋{へや}にいました。窓{まど}の外{そと}には、空{そら}を飛{と}ぶ魚{さかな}が見{み}えました。ここは、わたしが住{す}んでいた世界{せかい}ではありません。\nドアが開{あ}いて、宿{やど}の主人{しゅじん}が入{はい}ってきました。「朝{あさ}ご飯{はん}ですよ。テーブルのパンを食{た}べてください。今日{きょう}は橋{はし}を渡{わた}らないでください。橋{はし}が古{ふる}くなっていて、危{あぶ}ないですから」\nパンを食{た}べた後{あと}、家{いえ}に帰{かえ}る道{みち}を探{さが}しに出{で}ました。川{かわ}の向{む}こうに駅{えき}のような建物{たてもの}が見{み}えました。そこへ行{い}けば、何{なに}かわかるかもしれません。橋{はし}を渡{わた}ろうとすると、大{おお}きな音{おと}がしました。\n気{き}がつくと、また宿{やど}のベッドにいました。主人{しゅじん}が入{はい}ってきて、さっきと同{おな}じことを言{い}いました。テーブルのパンも、まだ食{た}べていません。朝{あさ}に戻{もど}ってしまったようです。\n今度{こんど}は、外{そと}へ出{で}る前{まえ}に主人{しゅじん}に川{かわ}の向{む}こうへ行{い}く方法{ほうほう}を聞{き}きました。「船{ふね}で行{い}けますよ。わたしも行{い}くので、一緒{いっしょ}に乗{の}りましょう」\n船{ふね}から見{み}ると、橋{はし}の真{ま}ん中{なか}に大{おお}きな穴{あな}がありました。先{さき}に聞{き}いてよかったです。まだ家{いえ}には帰{かえ}れませんが、今日{きょう}は少{すこ}し先{さき}へ進{すす}めそうです。",
+   "questions": [
+    {
+     "q": "「そこへ行{い}けば」の「そこ」は、どこですか。",
+     "c": [
+      "川{かわ}の向{む}こうにある、駅{えき}のような建物{たてもの}",
+      "わたしが前{まえ}に住{す}んでいた家{いえ}",
+      "宿{やど}の主人{しゅじん}が働{はたら}いている駅{えき}",
+      "空{そら}を飛{と}ぶ魚{さかな}を売{う}っている店{みせ}"
+     ],
+     "a": 0,
+     "ev": "川の向こうに駅のような建物が見えました。そこへ行けば、何かわかるかもしれません。",
+     "why": "The place mentioned immediately before 'there' is the building across the river that looks like a station.",
+     "ng": [
+      "",
+      "The narrator's former home is the eventual destination, not the building just noticed.",
+      "The building looks like a station, but the text does not say the innkeeper works there.",
+      "No shop selling flying fish appears in the story."
+     ]
+    },
+    {
+     "q": "朝{あさ}に戻{もど}った後{あと}、わたしは最初{さいしょ}の朝{あさ}と違{ちが}うことをしました。それは何{なん}ですか。",
+     "c": [
+      "主人{しゅじん}に橋{はし}を渡{わた}らないように言{い}いました。",
+      "家{いえ}に帰{かえ}る道{みち}を探{さが}すのをやめました。",
+      "出{で}かける前{まえ}に、川{かわ}の向{む}こうへ行{い}く方法{ほうほう}を聞{き}きました。",
+      "朝{あさ}ご飯{はん}のパンを全部{ぜんぶ}主人{しゅじん}にあげました。"
+     ],
+     "a": 2,
+     "ev": "今度は、外へ出る前に主人に川の向こうへ行く方法を聞きました。",
+     "why": "On the repeated morning, the narrator asks the innkeeper how to cross the river before going out.",
+     "ng": [
+      "The innkeeper warns the narrator about the bridge, not the other way around.",
+      "The narrator changes the route but does not give up trying to get home.",
+      "",
+      "The story never says the narrator gives the bread to the innkeeper."
+     ]
+    },
+    {
+     "q": "「先{さき}に聞{き}いてよかった」と思{おも}ったのは、どうしてですか。",
+     "c": [
+      "主人{しゅじん}が橋{はし}の穴{あな}を直{なお}してくれたからです。",
+      "最初{さいしょ}の朝{あさ}に、船{ふね}で家{いえ}に帰{かえ}れたからです。",
+      "主人{しゅじん}が家{いえ}までの道{みち}を全部{ぜんぶ}教{おし}えてくれたからです。",
+      "危{あぶ}ない橋{はし}を渡{わた}らずに、船{ふね}で行{い}けたからです。"
+     ],
+     "a": 3,
+     "ev": "船から見ると、橋の真ん中に大きな穴がありました。先に聞いてよかったです。",
+     "why": "The narrator sees a large hole in the bridge from the boat and realizes that asking first helped them avoid the dangerous crossing.",
+     "ng": [
+      "The story never says the innkeeper repairs the bridge.",
+      "The boat journey happens after the morning repeats, and the narrator has not reached home.",
+      "The innkeeper explains how to cross the river, not the entire route home.",
+      ""
+     ]
+    }
+   ],
+   "words": [
+    [
+     "宿",
+     "やど",
+     "inn; lodging"
+    ],
+    [
+     "渡る",
+     "わたる",
+     "to cross"
+    ],
+    [
+     "戻る",
+     "もどる",
+     "to return; to go back"
+    ],
+    [
+     "穴",
+     "あな",
+     "hole"
+    ]
+   ]
+  },
+  {
+   "id": "n4-03",
+   "type": "info",
+   "genre": "案内{あんない}",
+   "title": "アニメ化{か}記念{きねん}フェア",
+   "lead": "ライトノベルのアニメ化{か}を記念{きねん}したフェアでは、どんな条件{じょうけん}でプレゼントがもらえるでしょう？",
+   "text": "アニメ化{か}記念{きねん}フェア\n人気{にんき}のライトノベルがアニメになりました。これを記念{きねん}して、本{ほん}を買{か}った方{かた}にプレゼントをあげます。\n\n場所{ばしょ}　本屋{ほんや}の二階{にかい}\n期間{きかん}　十月{じゅうがつ}一日{ついたち}〜十月{じゅうがつ}十四日{じゅうよっか}\n時間{じかん}　午前{ごぜん}十時{じゅうじ}〜午後{ごご}八時{はちじ}\n\n【プレゼントの条件{じょうけん}】\n買{か}う物{もの}　　　　　　　　　もらえる物{もの}\nライトノベル一冊{いっさつ}　　　　しおり一枚{いちまい}\nライトノベル二冊{にさつ}以上{いじょう}　　しおり一枚{いちまい}とカード一枚{いちまい}\n漫画{まんが}や雑誌{ざっし}　　　　　　　プレゼントなし\n\nしおりは本{ほん}の途中{とちゅう}にはさんで、読{よ}んだ所{ところ}がわかるようにする物{もの}です。しおりの絵{え}は選{えら}べます。カードの絵{え}は選{えら}べません。\nプレゼントは一人{ひとり}一日{いちにち}一回{いっかい}だけです。別{べつ}の日{ひ}に買{か}った本{ほん}の数{かず}は足{た}せません。なくなったら、期間中{きかんちゅう}でも終{お}わります。\n\n【カードをもらう方{かた}へ】\nカードは土曜日{どようび}と日曜日{にちようび}だけ渡{わた}します。平日{へいじつ}に二冊{にさつ}以上{いじょう}買{か}った方{かた}は、レシートを持{も}って、期間中{きかんちゅう}の土曜日{どようび}か日曜日{にちようび}に来{き}てください。レシートがなければ、カードはもらえません。",
+   "questions": [
+    {
+     "q": "フェアの平日{へいじつ}にライトノベルを二冊{にさつ}買{か}いました。カードをもらうには、どうすればいいですか。カードはまだあります。",
+     "c": [
+      "期間{きかん}が終{お}わった後{あと}、店{みせ}に電話{でんわ}してカードを送{おく}ってもらいます。",
+      "買{か}った日{ひ}の午後{ごご}八時{はちじ}までに、レシートを見{み}せます。",
+      "期間中{きかんちゅう}の土曜日{どようび}に、買{か}った本{ほん}だけを持{も}っていきます。",
+      "期間中{きかんちゅう}の土曜日{どようび}か日曜日{にちようび}に、レシートを持{も}っていきます。"
+     ],
+     "a": 3,
+     "ev": "平日に二冊以上買った方は、レシートを持って、期間中の土曜日か日曜日に来てください。",
+     "why": "Weekday buyers of two or more light novels must bring their receipt on a Saturday or Sunday during the fair to collect a card.",
+     "ng": [
+      "The notice does not offer delivery by phone or collection after the fair.",
+      "Cards are handed out only on Saturdays and Sundays, not on the weekday of purchase.",
+      "Saturday is an eligible day, but bringing the books does not replace the required receipt.",
+      ""
+     ]
+    },
+    {
+     "q": "フェアの土曜日{どようび}にライトノベルを一冊{いっさつ}、次{つぎ}の日{ひ}にもう一冊{いっさつ}買{か}います。両方{りょうほう}の日{ひ}にプレゼントがまだある場合{ばあい}、二日間{ふつかかん}でもらえる物{もの}はどれですか。",
+     "c": [
+      "しおり一枚{いちまい}だけ",
+      "しおり二枚{にまい}とポスター一枚{いちまい}",
+      "しおり二枚{にまい}",
+      "しおり二枚{にまい}とカード一枚{いちまい}"
+     ],
+     "a": 2,
+     "ev": "プレゼントは一人一日一回だけです。別の日に買った本の数は足せません。",
+     "why": "Buying one light novel earns one bookmark each day, giving two bookmarks in total. Purchases on different days cannot be combined to qualify for a card.",
+     "ng": [
+      "The limit is once per day, not once for the entire fair.",
+      "The notice does not list a poster as a gift.",
+      "",
+      "The two books are bought on different days, so they do not qualify together for a card."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "記念",
+     "きねん",
+     "commemoration; celebration"
+    ],
+    [
+     "条件",
+     "じょうけん",
+     "condition; requirement"
+    ],
+    [
+     "しおり",
+     "しおり",
+     "bookmark"
+    ],
+    [
+     "平日",
+     "へいじつ",
+     "weekday"
+    ]
+   ]
+  }
+ ]
+}
