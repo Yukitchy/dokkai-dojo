@@ -1,0 +1,22 @@
+{
+ "name": "Nichijo",
+ "title": "Dokkai Dojo",
+ "lead": "JLPT reading drills N5–N1 set in a fictional town: notices, diaries, local news, and explanatory pieces. Original texts, answers with the reason for every choice.",
+ "levels": [
+  "n5",
+  "n3"
+ ],
+ "allow": [
+  "さくら町",
+  "さくら堂",
+  "さくら町民",
+  "生涯学習センター",
+  "おしらせ",
+  "資源",
+  "祭り",
+  "会場",
+  "たこ焼き",
+  "かき氷",
+  "花火"
+ ]
+}
