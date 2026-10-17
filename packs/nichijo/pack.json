@@ -4,12 +4,14 @@
  "lead": "JLPT reading drills N5–N1 set in a fictional town: notices, diaries, local news, and explanatory pieces. Original texts, answers with the reason for every choice.",
  "levels": [
   "n5",
-  "n3"
+  "n3",
+  "n4"
  ],
  "allow": [
   "さくら町",
   "さくら堂",
   "さくら町民",
+  "さくら",
   "生涯学習センター",
   "おしらせ",
   "資源",
@@ -17,6 +19,21 @@
   "会場",
   "たこ焼き",
   "かき氷",
-  "花火"
+  "花火",
+  "閉店",
+  "役場",
+  "受付",
+  "申し込む",
+  "申し込み",
+  "お金",
+  "出店",
+  "日時",
+  "本屋",
+  "限り",
+  "食べ物",
+  "飲み物",
+  "かご",
+  "上と下",
+  "分かる"
  ]
 }
