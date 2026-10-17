@@ -1,0 +1,30 @@
+{
+ "name": "Ryokou",
+ "title": "Dokkai Dojo",
+ "lead": "JLPT reading drills N5-N1 set in a fictional hot-spring town: travel notices, diaries, tourism guidelines, and reports. Original texts, answers with the reason for every choice.",
+ "levels": [
+  "n5",
+  "n3",
+  "n4",
+  "n2",
+  "n1"
+ ],
+ "allow": [
+  "白鷺温泉",
+  "白鷺",
+  "旅館",
+  "温泉",
+  "温泉街",
+  "案内所",
+  "停留所",
+  "宿泊",
+  "満喫",
+  "以下",
+  "半分",
+  "料金",
+  "案内",
+  "高速",
+  "おしらせ",
+  "変わる"
+ ]
+}
