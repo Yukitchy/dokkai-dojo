@@ -29,9 +29,21 @@
     }
    ],
    "words": [
-    ["来月", "らいげつ", "next month"],
-    ["値段", "ねだん", "price"],
-    ["変わる", "かわる", "to change"]
+    [
+     "来月",
+     "らいげつ",
+     "next month"
+    ],
+    [
+     "値段",
+     "ねだん",
+     "price"
+    ],
+    [
+     "変わる",
+     "かわる",
+     "to change"
+    ]
    ]
   },
   {
@@ -45,44 +57,56 @@
     {
      "q": "「わたし」は、何{なに}を買{か}うために、みらい電器{でんき}へ行{い}きましたか。",
      "c": [
-      "タブレット",
       "スマホ",
       "パソコン",
+      "タブレット",
       "ゲーム機{き}"
      ],
-     "a": 0,
+     "a": 2,
      "ev": "タブレットを買いに、みらい電器へ行きました",
      "why": "The diary says the person went to Mirai Denki to buy a tablet.",
      "ng": [
-      "",
       "A smartphone is not mentioned.",
       "A computer is not mentioned.",
+      "",
       "A game console is not mentioned."
      ]
     },
     {
      "q": "「わたし」は、画面{がめん}が大{おお}きいタブレットを見{み}たあと、どうしましたか。",
      "c": [
-      "値段{ねだん}が高{たか}かったので、もう少{すこ}し小{ちい}さいタブレットを見{み}せてもらった。",
       "すぐにそのタブレットを買{か}った。",
+      "値段{ねだん}が高{たか}かったので、もう少{すこ}し小{ちい}さいタブレットを見{み}せてもらった。",
       "店員{てんいん}に値段{ねだん}を下{さ}げてもらった。",
       "タブレットを買{か}うのをやめた。"
      ],
-     "a": 0,
+     "a": 1,
      "ev": "もう少し小さいタブレットを見せてもらいました",
      "why": "After seeing that the large-screen tablet was expensive, the person was shown a slightly smaller tablet instead.",
      "ng": [
-      "",
       "The diary does not say the person bought it right away.",
+      "",
       "The diary does not mention asking for a discount.",
       "The diary says the person continued and bought a tablet, not that they gave up."
      ]
     }
    ],
    "words": [
-    ["画面", "がめん", "screen"],
-    ["使い方", "つかいかた", "how to use"],
-    ["安心", "あんしん", "peace of mind; relief"]
+    [
+     "画面",
+     "がめん",
+     "screen"
+    ],
+    [
+     "使い方",
+     "つかいかた",
+     "how to use"
+    ],
+    [
+     "安心",
+     "あんしん",
+     "peace of mind; relief"
+    ]
    ]
   },
   {
@@ -96,26 +120,38 @@
     {
      "q": "会員証{かいいんしょう}を持{も}っている人{ひと}が写真{しゃしん}の撮{と}り方{かた}クラスに出{で}るとき、料金{りょうきん}はいくらですか。",
      "c": [
-      "三百円{さんびゃくえん}",
       "四百円{よんひゃくえん}",
       "五百円{ごひゃくえん}",
-      "二百円{にひゃくえん}"
+      "二百円{にひゃくえん}",
+      "三百円{さんびゃくえん}"
      ],
-     "a": 0,
+     "a": 3,
      "ev": "どのクラスも百円安くなります",
      "why": "The photo class is 400 yen, and members with a membership card get 100 yen off any class, so it costs 300 yen for a member.",
      "ng": [
-      "",
       "400 yen is the regular price, not the member price.",
       "500 yen is the price of the app class, not the photo class.",
-      "200 yen is not any of the listed prices."
+      "200 yen is not any of the listed prices.",
+      ""
      ]
     }
    ],
    "words": [
-    ["教室", "きょうしつ", "classroom; lesson"],
-    ["会員証", "かいいんしょう", "membership card"],
-    ["予約", "よやく", "reservation"]
+    [
+     "教室",
+     "きょうしつ",
+     "classroom; lesson"
+    ],
+    [
+     "会員証",
+     "かいいんしょう",
+     "membership card"
+    ],
+    [
+     "予約",
+     "よやく",
+     "reservation"
+    ]
    ]
   }
  ]

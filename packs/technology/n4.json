@@ -29,9 +29,21 @@
     }
    ],
    "words": [
-    ["充電器", "じゅうでんき", "charger"],
-    ["試験的", "しけんてき", "on a trial basis"],
-    ["導入", "どうにゅう", "introduction (of a system)"]
+    [
+     "充電器",
+     "じゅうでんき",
+     "charger"
+    ],
+    [
+     "試験的",
+     "しけんてき",
+     "on a trial basis"
+    ],
+    [
+     "導入",
+     "どうにゅう",
+     "introduction (of a system)"
+    ]
    ]
   },
   {
@@ -45,44 +57,56 @@
     {
      "q": "ふつうプランでは、何{なに}を練習{れんしゅう}しますか。",
      "c": [
-      "本物{ほんもの}のスマホやパソコンを使{つか}って修理{しゅうり}の練習{れんしゅう}をすること。",
       "他{た}の店{みせ}の修理{しゅうり}チームと合同{ごうどう}研修{けんしゅう}をすること。",
       "一人{ひとり}で故障{こしょう}を直{なお}すこと。",
+      "本物{ほんもの}のスマホやパソコンを使{つか}って修理{しゅうり}の練習{れんしゅう}をすること。",
       "店長{てんちょう}に面接{めんせつ}を受{う}けること。"
      ],
-     "a": 0,
+     "a": 2,
      "ev": "本物のスマホやパソコンを使って修理の練習をします",
      "why": "The regular plan lets new staff practice repairs using real smartphones and computers.",
      "ng": [
-      "",
       "A joint training camp with another store's repair team is not mentioned for this plan.",
       "The notice says staff practice explaining directly to customers, not alone.",
+      "",
       "An interview with the store manager is not part of this plan."
      ]
     },
     {
      "q": "くわしいプランを希望{きぼう}する人{ひと}が多{おお}いとき、みらい電器{でんき}はどうしますか。",
      "c": [
-      "店長{てんちょう}が面接{めんせつ}をして、参加{さんか}する人{ひと}を決{き}める。",
       "希望{きぼう}する人{ひと}を全員{ぜんいん}参加{さんか}させる。",
+      "店長{てんちょう}が面接{めんせつ}をして、参加{さんか}する人{ひと}を決{き}める。",
       "くわしいプランをやめて、ふつうプランにする。",
       "期間{きかん}を一週間{いっしゅうかん}に短{みじか}くする。"
      ],
-     "a": 0,
+     "a": 1,
      "ev": "希望する人が多いときは、店長が面接をして決めます",
      "why": "When there are more applicants than the limit, the store manager decides who joins through an interview.",
      "ng": [
-      "",
       "The notice says there is an upper limit, so not everyone who wishes can join.",
+      "",
       "The notice does not say the detailed plan is cancelled and replaced with the regular plan.",
       "The notice does not say the period is shortened."
      ]
     }
    ],
    "words": [
-    ["故障", "こしょう", "breakdown; malfunction"],
-    ["専門", "せんもん", "specialty; expertise"],
-    ["研修", "けんしゅう", "training"]
+    [
+     "故障",
+     "こしょう",
+     "breakdown; malfunction"
+    ],
+    [
+     "専門",
+     "せんもん",
+     "specialty; expertise"
+    ],
+    [
+     "研修",
+     "けんしゅう",
+     "training"
+    ]
    ]
   }
  ]
