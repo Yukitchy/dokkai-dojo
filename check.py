@@ -13,6 +13,8 @@ RUBY=re.compile(rf'([{KAN}]+)\{{([^}}]*)\}}')
 plain=lambda s:RUBY.sub(r'\1',s)
 count=lambda s:len(re.sub(r'\s|｜|\|','',plain(s)))
 errs=[];warn=[];ids=set();stats=[]
+clen=lambda s:len(re.sub(r'\s','',plain(s)))  # choice length, ruby-stripped (for answer-length-bias check)
+len_bias_total=0;len_bias_longest=0
 
 # vocab list (local only, see .gitignore). janome is optional; missing = reported as ✗ so it can't pass silently.
 V=None;T=None
@@ -105,6 +107,9 @@ for lv in meta['levels']:
             if not q.get('why'): Eq('no why')
             ng=q.get('ng',[])
             if len(ng)!=4 or any(bool(ng[j])==(j==q.get('a')) for j in range(min(4,len(ng)))): Eq('ng: 4 notes, empty only at the answer')
+            if len(c)==4 and q.get('a') in range(4):
+                lens=[clen(x) for x in c];len_bias_total+=1
+                if lens[q['a']]==max(lens) and lens.count(max(lens))==1: len_bias_longest+=1
         for w in p.get('words',[]):
             if len(w)!=3: E(f'words entry needs [word, reading, meaning]: {w}')
         stats.append((lv,p['type'],n,len(Qs)))
@@ -112,6 +117,10 @@ for lv in meta['levels']:
 for f in glob.glob(os.path.join(root,'**/*'),recursive=True):
     for nm in names:
         if nm.lower() in os.path.basename(f).lower(): errs.append(f'student name in file name: {os.path.relpath(f,root)}')
+if len_bias_total:
+    r=len_bias_longest/len_bias_total
+    if r>0.5: errs.append(f'answer-length bias: correct choice is uniquely longest in {len_bias_longest}/{len_bias_total} ({r:.0%}) questions (>50%)')
+    else: warn.append(f'answer-length bias: {len_bias_longest}/{len_bias_total} ({r:.0%})')
 for w in warn: print('·',w)
 for e in errs: print('✗',e)
 print('names checked:',len(names),'| ng terms:',len(NG),'| ref chars:',len(REF or ''))
