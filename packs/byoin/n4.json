@@ -1,0 +1,29 @@
+{"level": "n4", "passages": [
+{"id": "n4-01", "type": "short", "genre": "お知{し}らせ（かえで町{ちょう}シリーズ）", "title": "お薬{くすり}手帳{てちょう}を持{も}ってきてください",
+ "lead": "薬局{やっきょく}に、お知{し}らせがはってありました。お薬{くすり}手帳{てちょう}があると、何{なに}がいいのでしょうか。",
+ "text": "「薬局{やっきょく}からのお知{し}らせ」\n薬{くすり}をもらいに来{く}るときは、お薬{くすり}手帳{てちょう}を持{も}ってきてください。お薬{くすり}手帳{てちょう}には、今{いま}までにもらった薬{くすり}の名前{なまえ}や飲{の}み方{かた}が書{か}いてあります。ほかの病院{びょういん}の薬{くすり}と一緒{いっしょ}に飲{の}んでも大丈夫{だいじょうぶ}か、薬剤師{やくざいし}が調{しら}べることができます。\n手帳{てちょう}をなくしたときや、まだ持{も}っていないときは、受付{うけつけ}で言{い}ってください。新{あたら}しい手帳{てちょう}を作{つく}ります。スマートフォンのお薬{くすり}手帳{てちょう}でもかまいません。",
+ "questions": [
+  {"q": "お薬{くすり}手帳{てちょう}を持{も}っていくと、どんなことがいいですか。",
+   "c": ["薬{くすり}の値段{ねだん}が、どの薬局{やっきょく}でもいつも半分{はんぶん}になる。", "病院{びょういん}に行{い}かなくても、薬局{やっきょく}で同{おな}じ薬{くすり}をまたもらえる。", "薬剤師{やくざいし}が、家{いえ}の近{ちか}くにある新{あたら}しい病院{びょういん}を探{さが}して教{おし}えてくれる。", "ほかの病院{びょういん}の薬{くすり}と一緒{いっしょ}に飲{の}んでもいいか、調{しら}べてもらえる。"],
+   "a": 3, "ev": "ほかの病院の薬と一緒に飲んでも大丈夫か、薬剤師が調べることができます",
+   "why": "The notebook shows the medicine you have received. With it, the pharmacist can check if it is safe to take your medicine together with medicine from another hospital.",
+   "ng": ["The notice does not say anything about the price.", "You still need to see a doctor. The notebook is a record, not a way to get medicine.", "The notice does not say the pharmacist will find a new hospital for you.", ""]}
+ ],
+ "words": [["お薬手帳", "おくすりてちょう", "medicine notebook (a record of your medicine)"], ["薬剤師", "やくざいし", "pharmacist"], ["受付", "うけつけ", "reception desk"]]},
+{"id": "n4-02", "type": "info", "genre": "案内{あんない}（かえで町{ちょう}シリーズ）", "title": "外来{がいらい}のご案内{あんない}",
+ "lead": "かえで町{ちょう}の病院{びょういん}の案内{あんない}です。いつ、どの科{か}で見{み}てもらえるでしょうか。",
+ "text": "外来{がいらい}のご案内{あんない}\n【受付{うけつけ}の時間{じかん}】\n月曜日{げつようび}〜金曜日{きんようび}　午前{ごぜん}八時{はちじ}半{はん}〜十一時{じゅういちじ}半{はん}\n土曜日{どようび}　午前{ごぜん}八時{はちじ}半{はん}〜十時{じゅうじ}半{はん}\n日曜日{にちようび}と祝日{しゅくじつ}は休{やす}みです。\n【診察{しんさつ}する日{ひ}】\n内科{ないか}　月曜日{げつようび}〜土曜日{どようび}\n小児科{しょうにか}　月曜日{げつようび}・水曜日{すいようび}・金曜日{きんようび}\n皮膚科{ひふか}　火曜日{かようび}・木曜日{もくようび}\n眼科{がんか}　水曜日{すいようび}・土曜日{どようび}\n【はじめて来{く}る方{かた}へ】\nマイナ保険証{ほけんしょう}など、健康{けんこう}保険{ほけん}に入{はい}っていることがわかるものを持{も}ってきてください。受付{うけつけ}で問診票{もんしんひょう}を書{か}いてもらいますので、受付{うけつけ}の時間{じかん}が終{お}わる三十分{さんじゅっぷん}前{まえ}までに来{き}てください。\n【薬{くすり}を飲{の}んでいる方{かた}へ】\nほかの病院{びょういん}でもらった薬{くすり}を飲{の}んでいるときは、お薬{くすり}手帳{てちょう}も持{も}ってきてください。\n【お金{かね}を払{はら}うところ】\n診察{しんさつ}が終{お}わったら、一階{いっかい}の会計{かいけい}で払{はら}ってください。カードも使{つか}えます。\n【子{こ}どもと来{く}る方{かた}へ】\n熱{ねつ}がある子{こ}どもと来{き}たときは、ほかの人{ひと}にうつらないように、待合室{まちあいしつ}に入{はい}る前{まえ}に受付{うけつけ}の人{ひと}に声{こえ}をかけてください。",
+ "questions": [
+  {"q": "土曜日{どようび}に、はじめてこの病院{びょういん}の内科{ないか}に行{い}きます。何時{なんじ}までに病院{びょういん}に着{つ}けばいいですか。",
+   "c": ["午前{ごぜん}十時{じゅうじ}", "午前{ごぜん}十時{じゅうじ}半{はん}", "午前{ごぜん}十一時{じゅういちじ}", "午前{ごぜん}十一時{じゅういちじ}半{はん}"],
+   "a": 0, "ev": "受付の時間が終わる三十分前までに来てください",
+   "why": "On Saturday, reception closes at 10:30. First-time patients must come 30 minutes before that, so by 10:00.",
+   "ng": ["", "10:30 is when reception closes on Saturday. First-time patients must come 30 minutes earlier.", "First-time patients must come by 10:00 on Saturday.", "11:30 is when reception closes on weekdays, not on Saturday."]},
+  {"q": "水曜日{すいようび}に、この病院{びょういん}で診察{しんさつ}をしている科{か}はどれですか。",
+   "c": ["内科{ないか}と皮膚科{ひふか}と眼科{がんか}", "内科{ないか}と小児科{しょうにか}と眼科{がんか}", "小児科{しょうにか}と皮膚科{ひふか}と眼科{がんか}", "小児科{しょうにか}と皮膚科{ひふか}"],
+   "a": 1, "ev": "小児科　月曜日・水曜日・金曜日",
+   "why": "On Wednesday, internal medicine (Monday to Saturday), pediatrics (Monday, Wednesday, Friday), and eye care (Wednesday, Saturday) are open.",
+   "ng": ["Skin care (dermatology) is only on Tuesday and Thursday.", "", "Skin care (dermatology) is only on Tuesday and Thursday.", "Skin care is not open on Wednesday, and internal medicine and eye care are open."]}
+ ],
+ "words": [["外来", "がいらい", "outpatient care"], ["問診票", "もんしんひょう", "medical questionnaire"], ["小児科", "しょうにか", "pediatrics (doctor for children)"]]}
+]}

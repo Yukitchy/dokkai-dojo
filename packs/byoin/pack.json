@@ -1,0 +1,35 @@
+{
+ "name": "Byoin",
+ "title": "Dokkai Dojo",
+ "lead": "JLPT reading drills N5-N1 about hospitals and pharmacies: clinic hours, catching a cold, medicine labels, the medicine notebook, prescriptions, night clinics, family doctors, and leftover medicine in the fictional town of Kaede-cho. Original texts, answers with the reason for every choice.",
+ "levels": [
+  "n5",
+  "n4",
+  "n3",
+  "n2",
+  "n1"
+ ],
+ "allow": [
+  "かえで町",
+  "かえで",
+  "お知らせ",
+  "祝日",
+  "薬局",
+  "受付",
+  "手帳",
+  "お薬手帳",
+  "薬剤師",
+  "保険",
+  "健康",
+  "内科",
+  "問診",
+  "問診票",
+  "外来",
+  "小児科",
+  "待合室",
+  "皮膚",
+  "皮膚科",
+  "眼科",
+  "会計"
+ ]
+}

@@ -1,0 +1,40 @@
+{"level": "n5", "passages": [
+{"id": "n5-01", "type": "short", "genre": "お知{し}らせ（かえで町{ちょう}シリーズ）", "title": "病院{びょういん}のお休{やす}み",
+ "lead": "かえで町{ちょう}の病院{びょういん}から、お知{し}らせがあります。いつ病院{びょういん}に行{い}きますか。",
+ "text": "「お知{し}らせ」\n十一月{じゅういちがつ}三日{みっか}（月曜日{げつようび}）は祝日{しゅくじつ}です。病院{びょういん}はお休{やす}みです。\n四日{よっか}（火曜日{かようび}）は、いつもと同{おな}じです。午前{ごぜん}は九時{くじ}から十二時{じゅうにじ}まで、午後{ごご}は三時{さんじ}から六時{ろくじ}までです。\n五日{いつか}（水曜日{すいようび}）は、午後{ごご}だけお休{やす}みです。午前{ごぜん}はいつもと同{おな}じです。",
+ "questions": [
+  {"q": "十一月{じゅういちがつ}五日{いつか}に病院{びょういん}に行{い}きたいです。何時{なんじ}に行{い}きますか。",
+   "c": ["午前{ごぜん}十時{じゅうじ}に行{い}きます。", "午後{ごご}四時{よじ}に行{い}きます。", "午後{ごご}五時{ごじ}に行{い}きます。", "五日{いつか}は一日{いちにち}お休{やす}みですから、行{い}きません。"],
+   "a": 0, "ev": "五日（水曜日）は、午後だけお休みです",
+   "why": "On the 5th (Wednesday), the hospital is closed only in the afternoon. In the morning it is open from 9:00 to 12:00, so 10 a.m. is OK.",
+   "ng": ["", "The hospital is closed on the afternoon of the 5th.", "The hospital is closed on the afternoon of the 5th.", "The hospital is closed all day on the 3rd, not the 5th. On the 5th it is open in the morning."]}
+ ],
+ "words": [["祝日", "しゅくじつ", "national holiday"], ["午前", "ごぜん", "morning, a.m."], ["午後", "ごご", "afternoon, p.m."]]},
+{"id": "n5-02", "type": "mid", "genre": "日記{にっき}（かえで町{ちょう}シリーズ）", "title": "かぜをひいた日{ひ}",
+ "lead": "朝{あさ}、熱{ねつ}がありました。病院{びょういん}に行{い}って、どうしましたか。",
+ "text": "十一月{じゅういちがつ}十日{とおか}（月曜日{げつようび}）\n朝{あさ}、頭{あたま}が痛{いた}くて、熱{ねつ}がありました。三十八度{さんじゅうはちど}でした。学校{がっこう}を休{やす}んで、母{はは}と駅{えき}の近{ちか}くの病院{びょういん}に行{い}きました。\n病院{びょういん}には人{ひと}がたくさんいました。四十分{よんじゅっぷん}待{ま}ちました。お医者{いしゃ}さんは「かぜですね。薬{くすり}を飲{の}んで、よく寝{ね}てください」と言{い}いました。\n病院{びょういん}の前{まえ}の薬局{やっきょく}で、薬{くすり}をもらいました。薬{くすり}は一日{いちにち}三回{さんかい}、ごはんを食{た}べたあとに飲{の}みます。\n家{いえ}に帰{かえ}って、母{はは}がおかゆを作{つく}りました。少{すこ}し食{た}べて、薬{くすり}を飲{の}んで、夜{よる}まで寝{ね}ました。夜{よる}、熱{ねつ}は三十七度{さんじゅうななど}になりました。あしたも学校{がっこう}を休{やす}みます。",
+ "questions": [
+  {"q": "「わたし」は、どこで薬{くすり}をもらいましたか。",
+   "c": ["病院{びょういん}の前{まえ}の薬局{やっきょく}", "学校{がっこう}の近{ちか}くの薬局{やっきょく}", "病院{びょういん}の中{なか}のお医者{いしゃ}さんの部屋{へや}", "駅{えき}の中{なか}の小{ちい}さい店{みせ}"],
+   "a": 0, "ev": "病院の前の薬局で、薬をもらいました",
+   "why": "The diary says I got the medicine at the pharmacy in front of the hospital.",
+   "ng": ["", "The pharmacy is in front of the hospital, not near the school.", "The doctor talked to me, but I got the medicine at the pharmacy.", "The diary does not say anything about a shop in the station."]},
+  {"q": "「わたし」は、薬{くすり}をいつ飲{の}みますか。",
+   "c": ["朝{あさ}だけ、ごはんの前{まえ}に飲{の}みます。", "一日{いちにち}に三回{さんかい}、ごはんのあとに飲{の}みます。", "熱{ねつ}があるときだけ、夜{よる}寝{ね}る前{まえ}に飲{の}みます。", "一日{いちにち}に二回{にかい}、朝{あさ}と夜{よる}に飲{の}みます。"],
+   "a": 1, "ev": "薬は一日三回、ごはんを食べたあとに飲みます",
+   "why": "The diary says the medicine is taken three times a day, after eating a meal.",
+   "ng": ["The medicine is taken three times a day, not only in the morning, and after meals, not before.", "", "The diary says three times a day after meals. It does not say only when I have a fever.", "It is three times a day, not two."]}
+ ],
+ "words": [["熱", "ねつ", "fever"], ["薬局", "やっきょく", "pharmacy"], ["おかゆ", "おかゆ", "rice porridge"]]},
+{"id": "n5-03", "type": "info", "genre": "薬{くすり}の袋{ふくろ}（かえで町{ちょう}シリーズ）", "title": "二{ふた}つの薬{くすり}の袋{ふくろ}",
+ "lead": "薬局{やっきょく}で、薬{くすり}を二{ふた}つもらいました。袋{ふくろ}には何{なに}が書{か}いてありますか。",
+ "text": "【白{しろ}い袋{ふくろ}】\n熱{ねつ}の薬{くすり}\n一回{いっかい}一{ひと}つ\n熱{ねつ}が高{たか}いときに飲{の}んでください。\n一回{いっかい}飲{の}んだあとは、六時間{ろくじかん}あけてください。\n一日{いちにち}三回{さんかい}までです。\n【青{あお}い袋{ふくろ}】\nせきの薬{くすり}\n一回{いっかい}二{ふた}つ\n一日{いちにち}三回{さんかい}　朝{あさ}・昼{ひる}・夜{よる}　ごはんのあと\n五日{いつか}の分{ぶん}があります。\n【薬局{やっきょく}から】\n薬{くすり}は水{みず}で飲{の}んでください。\n子{こ}どもの手{て}がとどかないところに置{お}いてください。\nわからないことは、薬局{やっきょく}に電話{でんわ}してください。",
+ "questions": [
+  {"q": "朝{あさ}八時{はちじ}に、熱{ねつ}の薬{くすり}を飲{の}みました。次{つぎ}に熱{ねつ}の薬{くすり}を飲{の}むときは、何時{なんじ}からですか。",
+   "c": ["午前{ごぜん}十時{じゅうじ}から", "午前{ごぜん}十一時{じゅういちじ}から", "午後{ごご}二時{にじ}から", "午後{ごご}八時{はちじ}から"],
+   "a": 2, "ev": "一回飲んだあとは、六時間あけてください",
+   "why": "You must wait six hours after taking the fever medicine. 8 a.m. plus six hours is 2 p.m.",
+   "ng": ["That is only two hours later. You must wait six hours.", "That is only three hours later. You must wait six hours.", "", "You can take it from 2 p.m. You do not need to wait twelve hours."]}
+ ],
+ "words": [["袋", "ふくろ", "bag, envelope"], ["せき", "せき", "cough"], ["あける", "あける", "to leave (time) between"]]}
+]}
