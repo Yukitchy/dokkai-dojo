@@ -1,0 +1,113 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "コラム（さくら商店街シリーズ）",
+   "title": "買い物という行為と人の心の関わり",
+   "lead": "買い物という行為は、単に必要なものを手に入れる手段にとどまらないのかもしれない。",
+   "text": "買い物という行為は、単に必要なものを手に入れるための手段ではない。商店街を歩き、店主と言葉を交わし、季節の品物を目にする。そうした一連の経験そのものが、人の心を満たしているのではないか。\n効率を追求するならば、ネット注文に勝るものはない。しかし、効率の良さと、満足の深さとは必ずしも一致しない。店先で迷いながら選んだ一つの野菜には、画面越しに選んだ同じ野菜とは異なる重みが宿るように思われる。\n買い物とは、もの以上に、時間と人との関わりを買う行為なのかもしれない。",
+   "questions": [
+    {
+     "q": "筆者は、買い物という行為についてどのように考えているか。",
+     "c": [
+      "効率が良ければ良いほど、満足も大きくなる。",
+      "ものを手に入れることだけが、買い物の目的である。",
+      "買い物は、もの以上に、時間と人との関わりを買う行為かもしれない。",
+      "ネット注文のほうが、店での買い物より価値がある。"
+     ],
+     "a": 2,
+     "ev": "買い物とは、もの以上に、時間と人との関わりを買う行為なのかもしれない",
+     "why": "The writer suggests that shopping may be, more than the goods themselves, an act of buying time and human connection.",
+     "ng": [
+      "The writer explicitly says efficiency and the depth of satisfaction do not necessarily match.",
+      "The writer argues shopping is not merely a means of obtaining necessary goods.",
+      "",
+      "The writer does not claim online ordering has more value than shopping in person."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "行為",
+     "こうい",
+     "act; conduct"
+    ],
+    [
+     "一致",
+     "いっち",
+     "agreement; coincide"
+    ],
+    [
+     "宿る",
+     "やどる",
+     "to dwell; reside (in)"
+    ]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告書（さくら商店街シリーズ）",
+   "title": "商店街の空き店舗対策　一年の報告",
+   "lead": "さくら商店街が一年取り組んできた空き店舗対策の報告。",
+   "text": "さくら商店街　空き店舗対策　一年の報告\n\nさくら商店街では、三年前から空き店舗が目立つようになっていた。後継者不足により閉店する店が相次ぎ、一時は十五店舗のうち四店舗が空いたままという状態が続いた。商店街としての賑わいが失われることへの危機感から、昨年、空き店舗対策の取り組みを始めた。\n\n本報告は、その一年間の経過をまとめたものである。\n\n【取り組みの概要】\n商店街事務局は、空き店舗の所有者に協力を依頼し、賃料を抑えた形での貸し出しを進めた。あわせて、商店街のホームページに空き店舗情報を掲載し、出店を希望する事業者を広く募った。\n\n【成果】\n一年間で、四店舗の空き店舗のうち三店舗に新しい店が入った。パン屋、雑貨店、そして地域の高齢者を対象にした惣菜店がそれぞれ開業し、商店街の客層にも広がりが見られるようになった。残る一店舗については、現在交渉を進めている事業者がある。\n\n【見えてきた課題】\n一方で、新規出店者の多くが、商店街特有の慣習や運営の仕組みに不慣れであることが明らかになった。清掃当番や共同イベントへの参加について、既存の店主との間で認識の差が生じる場面もあった。事務局は、新規出店者向けの説明の機会を今後増やす必要があると考えている。\n\n【今後の方針】\n来年度は、新規出店者への支援を強化するとともに、既存店との交流の場を定期的に設ける予定である。空き店舗を埋めることにとどまらず、商店街全体としての一体感を保つことが、今後の課題として残されている。",
+   "questions": [
+    {
+     "q": "空き店舗対策を始めたきっかけは何か。",
+     "c": [
+      "商店街の賃料が高すぎたから。",
+      "後継者不足による閉店が相次ぎ、空き店舗が増えて商店街の賑わいが失われる危機感があったから。",
+      "行政からの指導があったから。",
+      "新しい事業者からの要望が多かったから。"
+     ],
+     "a": 1,
+     "ev": "商店街としての賑わいが失われることへの危機感から、昨年、空き店舗対策の取り組みを始めた",
+     "why": "The report says the countermeasures began last year out of a sense of crisis that the shopping street's liveliness was being lost.",
+     "ng": [
+      "High rent is not mentioned as the trigger.",
+      "",
+      "Government guidance is not mentioned.",
+      "Requests from new business operators are not mentioned as the trigger."
+     ]
+    },
+    {
+     "q": "この一年間の取り組みで見えてきた課題は何か。",
+     "c": [
+      "新しい店が集まらず、空き店舗が増え続けたこと。",
+      "新規出店者の多くが、商店街特有の慣習や運営の仕組みに不慣れであったこと。",
+      "賃料が下がりすぎて、商店街の収入が減ったこと。",
+      "既存の店主たちが新規出店に反対したこと。"
+     ],
+     "a": 1,
+     "ev": "新規出店者の多くが、商店街特有の慣習や運営の仕組みに不慣れであることが明らかになった",
+     "why": "The report says that many new shop owners turned out to be unfamiliar with the shopping street's particular customs and operational systems.",
+     "ng": [
+      "Three of the four vacant shops were filled, so shops did not fail to gather.",
+      "",
+      "Rent falling and reducing income is not mentioned.",
+      "Existing shop owners opposing new openings is not mentioned; a gap in awareness is described instead."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "後継者",
+     "こうけいしゃ",
+     "successor"
+    ],
+    [
+     "賃料",
+     "ちんりょう",
+     "rent"
+    ],
+    [
+     "一体感",
+     "いったいかん",
+     "sense of unity"
+    ]
+   ]
+  }
+ ]
+}
