@@ -19,12 +19,12 @@
      ],
      "a": 1,
      "ev": "注文内容の確認や梱包、配達の順番を決める作業に多くの時間を割くようになっている",
-     "why": "The passage says that as online orders increased, the shop owner's work shifted toward confirming order details, packing, and deciding delivery order.",
+     "why": "ネット注文が増えるにつれ、店主の仕事は注文内容の確認や梱包、配達の順番を決める作業に変わったと書かれているからです。",
      "ng": [
-      "The passage says customer service and shelf-stocking time did not increase; the focus shifted elsewhere.",
+      "接客と品出しの時間が増えたとは書かれていません。むしろ減ったと書かれています。",
       "",
-      "The passage does not say the shop closed its physical storefront.",
-      "The passage says time spent talking with customers in the store decreased, not increased."
+      "店を閉めてネット注文だけにしたとは書かれていません。",
+      "客と話す時間は減ったと書かれており、増えたわけではありません。"
      ]
     }
    ],
@@ -64,12 +64,12 @@
      ],
      "a": 1,
      "ev": "人気商品が早い時間帯にすべて予約で埋まり、当日になって店を訪れた客が購入できないという事態が相次いだ",
-     "why": "Last year, popular items were all reserved early, so customers who came on the day itself could not buy them.",
+     "why": "昨年は人気商品が早い時間帯にすべて予約で埋まり、当日になって店を訪れた客が購入できないという事態が相次いだと書かれているからです。",
      "ng": [
-      "Customers not picking up reserved items is a different, newly addressed issue, not last year's problem.",
+      "予約した客が商品を取りに来なかったことは、今回新たに対応する別の問題であり、昨年の問題ではありません。",
       "",
-      "Rising prices causing fewer customers is not mentioned.",
-      "Too many cancellations causing leftover stock is not mentioned."
+      "商品の値段が高くなって客が減ったとは書かれていません。",
+      "キャンセルが多すぎて商品が余ったとは書かれていません。"
      ]
     },
     {
@@ -82,12 +82,12 @@
      ],
      "a": 1,
      "ev": "三日前を過ぎてのキャンセルは、商品代金の半額を支払う必要がある",
-     "why": "Under the new rule, cancelling after the deadline of three days before pickup requires paying half the product price.",
+     "why": "新しいルールでは、受け取り日の三日前を過ぎてのキャンセルは商品代金の半額を支払う必要があると書かれているからです。",
      "ng": [
-      "Cancellation is allowed if done early enough; it is not banned outright.",
+      "三日前までに連絡すればキャンセルできるので、一切できないわけではありません。",
       "",
-      "Losing the right to reserve in the future is not mentioned.",
-      "The cancellation fee is a fixed half price, not something that varies by item type."
+      "次回から予約できなくなるとは書かれていません。",
+      "キャンセル料は商品代金の半額で固定されており、商品の種類によって変わるわけではありません。"
      ]
     }
    ],

@@ -19,12 +19,12 @@
      ],
      "a": 1,
      "ev": "安い日にまとめて野菜を買うようになったのだ",
-     "why": "After forming the habit of looking at receipts, the writer started buying vegetables in bulk on the cheap days.",
+     "why": "レシートを見{み}る習慣{しゅうかん}をつけてから、安{やす}い日{ひ}にまとめて野菜{やさい}を買{か}うようになったと書{か}かれているからです。",
      "ng": [
-      "The text does not say the writer stopped buying vegetables.",
+      "野菜{やさい}を買{か}うのをやめたとは書{か}かれていません。",
       "",
-      "Buying directly from a farmer is not mentioned; the vegetables already come to the shop from a nearby farm.",
-      "Collecting receipts as a hobby is not mentioned."
+      "農家{のうか}から直接{ちょくせつ}買{か}うようになったとは書{か}かれていません。野菜{やさい}はもともと近{ちか}くの農家{のうか}から届{とど}いています。",
+      "レシートを集{あつ}めることが好{す}きになったとは書{か}かれていません。"
      ]
     }
    ],
@@ -64,12 +64,12 @@
      ],
      "a": 1,
      "ev": "値付けの仕事を教えることになりました",
-     "why": "The passage says the writer was asked to teach the new part-timer how to price the vegetables.",
+     "why": "「わたし」は新人{しんじん}のアルバイトに野菜{やさい}の値付{ねづ}けを教{おし}えることになったと書{か}かれているからです。",
      "ng": [
-      "Cash register work is not what was taught in this passage.",
+      "レジでの会計{かいけい}の仕方{しかた}は教{おし}えていません。",
       "",
-      "How to arrange the vegetables is not what was taught.",
-      "Greeting customers is not what was taught."
+      "野菜{やさい}の並{なら}べ方{かた}は教{おし}えていません。",
+      "お客{きゃく}さんへの挨拶{あいさつ}の仕方{しかた}は教{おし}えていません。"
      ]
     },
     {
@@ -82,12 +82,12 @@
      ],
      "a": 0,
      "ev": "最初はすべての野菜に同じ値段をつけようとしていました",
-     "why": "At first, the new part-timer tried to put the same price on all the vegetables.",
+     "why": "新人{しんじん}のアルバイトは最初{さいしょ}、すべての野菜{やさい}に同{おな}じ値段{ねだん}をつけようとしていたと書{か}かれているからです。",
      "ng": [
       "",
-      "Trying to set the highest price is not mentioned.",
-      "The passage does not say the new worker asked a senior worker each time.",
-      "The passage does not say the new worker asked customers to decide."
+      "いちばん高{たか}い値段{ねだん}をつけようとしたとは書{か}かれていません。",
+      "先輩{せんぱい}に聞{き}きながらつけたとは書{か}かれていません。",
+      "お客{きゃく}さんに聞{き}いてから決{き}めたとは書{か}かれていません。"
      ]
     },
     {
@@ -100,12 +100,12 @@
      ],
      "a": 1,
      "ev": "教えることは、自分の仕事を見直すきっかけにもなるのだと感じました",
-     "why": "The writer felt that teaching became a chance to reconsider their own work.",
+     "why": "教{おし}えることは自分{じぶん}の仕事{しごと}を見直{みなお}すきっかけになると感{かん}じたと書{か}かれているからです。",
      "ng": [
-      "The passage does not say teaching felt like a waste of time.",
+      "教{おし}えるのが時間{じかん}の無駄{むだ}だとは書{か}かれていません。",
       "",
-      "The passage does not say teaching new workers is meaningless.",
-      "The passage does not say teaching is the manager's job."
+      "新人{しんじん}に教{おし}えても意味{いみ}がないとは書{か}かれていません。",
+      "教{おし}えるのは店長{てんちょう}の仕事{しごと}だとは書{か}かれていません。"
      ]
     }
    ],
@@ -145,12 +145,12 @@
      ],
      "a": 1,
      "ev": "客はいつも何枚ものカードを持ち歩かなければならなかった",
-     "why": "Because each shop had its own card, customers always had to carry around many cards, so a common card was introduced.",
+     "why": "店{てん}ごとにカードが違{ちが}い、客{きゃく}は何枚{なんまい}ものカードを持{も}ち歩{あ}かなければならなかったと書{か}かれているからです。",
      "ng": [
-      "Losing cards is not mentioned as the reason.",
+      "カードを失{な}くすことが多{おお}かったとは書{か}かれていません。",
       "",
-      "Falling sales is not mentioned as the reason.",
-      "Other shopping streets are not mentioned."
+      "売{う}り上{あ}げが減{へ}っていたとは書{か}かれていません。",
+      "ほかの商店街{しょうてんがい}については書{か}かれていません。"
      ]
     },
     {
@@ -163,12 +163,12 @@
      ],
      "a": 1,
      "ev": "各店がどれだけポイントの負担をするかを決める必要が出てきたのである",
-     "why": "The new problem was deciding how much each shop should bear the cost of the points.",
+     "why": "各店{かくてん}がどれだけポイントの負担{ふたん}をするかを決{き}める必要{ひつよう}が出{で}てきたと書{か}かれているからです。",
      "ng": [
-      "Customers not using points is not mentioned.",
+      "客{きゃく}がポイントを使{つか}わなくなったとは書{か}かれていません。",
       "",
-      "The cost of making the card itself is not mentioned.",
-      "Points becoming harder to accumulate is not mentioned."
+      "カードを作{つく}る費用{ひよう}については書{か}かれていません。",
+      "ポイントがたまりにくくなったとは書{か}かれていません。"
      ]
     },
     {
@@ -181,12 +181,12 @@
      ],
      "a": 1,
      "ev": "どの店も同じ割合で負担することに決まった",
-     "why": "In the end, it was decided that every shop would bear the same share of the cost.",
+     "why": "最終的{さいしゅうてき}にはどの店{てん}も同{おな}じ割合{わりあい}で負担{ふたん}することに決{き}まったと書{か}かれているからです。",
      "ng": [
-      "Shops with higher sales bearing more is not what was decided.",
+      "売{う}り上{あ}げの多{おお}い店{てん}が多{おお}く負担{ふたん}するとは決{き}まっていません。",
       "",
-      "The shopping street covering the full cost is not mentioned.",
-      "Changing the share every year through discussion is not mentioned."
+      "商店街{しょうてんがい}が全額{ぜんがく}負担{ふたん}するとは書{か}かれていません。",
+      "負担{ふたん}を毎年{まいとし}話{はな}し合{あ}いで変{か}えるとは書{か}かれていません。"
      ]
     },
     {
@@ -199,12 +199,12 @@
      ],
      "a": 1,
      "ev": "商店街全体が力を合わせたからこそ、客にとって使いやすいサービスになったのだろう",
-     "why": "The writer concludes that the common point card became convenient for customers precisely because the whole shopping street worked together.",
+     "why": "商店街{しょうてんがい}全体{ぜんたい}が力{ちから}を合{あ}わせたからこそ、客{きゃく}にとって使{つか}いやすいサービスになったと筆者{ひっしゃ}は述{の}べているからです。",
      "ng": [
-      "The text says it could not be realized by just one shop alone.",
+      "一{ひと}つの店{てん}だけでは実現{じつげん}できない仕組{しく}みだと書{か}かれています。",
       "",
-      "The text does not say it is now rarely used.",
-      "Other shopping streets being more advanced is not mentioned."
+      "今{いま}ではあまり使{つか}われていないとは書{か}かれていません。",
+      "ほかの商店街{しょうてんがい}の方{ほう}が進{すす}んでいるとは書{か}かれていません。"
      ]
     }
    ],
@@ -249,12 +249,12 @@
      ],
      "a": 2,
      "ev": "申し込みは必要ありません",
-     "why": "The guide says that no application is needed for the stamp rally.",
+     "why": "お申{もう}し込{こ}みは必要{ひつよう}ありませんと書{か}かれているからです。",
      "ng": [
-      "Writing an application form is not required.",
-      "Applying from a website is not mentioned.",
+      "申込書{もうしこみしょ}を書{か}く必要{ひつよう}はありません。",
+      "ホームページからの申{もう}し込{こ}みについては書{か}かれていません。",
       "",
-      "Applying by phone is not mentioned."
+      "電話{でんわ}での申{もう}し込{こ}みについては書{か}かれていません。"
      ]
     },
     {
@@ -267,12 +267,12 @@
      ],
      "a": 2,
      "ev": "すべてのスタンプを集めた方には、千円分の商品券をお渡しします",
-     "why": "The guide says that collecting all the stamps earns a 1,000-yen shopping voucher.",
+     "why": "すべてのスタンプを集{あつ}めた方{かた}には、千円{せんえん}分{ぶん}の商品券{しょうひんけん}をお渡{わた}ししますと書{か}かれているからです。",
      "ng": [
-      "500 yen worth is for collecting seven or more stamps, not all of them.",
-      "The bento set is a separate lottery prize for the special award, not for collecting all the stamps.",
+      "五百円{ごひゃくえん}分{ぶん}は七{なな}つ以上{いじょう}集{あつ}めた場合{ばあい}の景品{けいひん}です。",
+      "お弁当{べんとう}セットは特別賞{とくべつしょう}の抽選{ちゅうせん}でもらえるもので、すべてのスタンプを集{あつ}めた景品{けいひん}ではありません。",
       "",
-      "A point card is not mentioned as a stamp rally prize."
+      "商店街{しょうてんがい}のポイントカードは景品{けいひん}として書{か}かれていません。"
      ]
     }
    ],
