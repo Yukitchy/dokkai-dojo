@@ -1,0 +1,122 @@
+{
+ "level": "n5",
+ "passages": [
+  {
+   "id": "n5-01",
+   "type": "short",
+   "genre": "お知{し}らせ（ゆの香{か}温泉{おんせん}シリーズ）",
+   "title": "日帰{ひがえ}り入浴{にゅうよく}の時間{じかん}変更{へんこう}",
+   "lead": "ゆの香{か}温泉{おんせん}で、日帰{ひがえ}り入浴{にゅうよく}の時間{じかん}が変{か}わります。",
+   "text": "「ゆの香{か}温泉{おんせん}からのお知{し}らせ」\n来週{らいしゅう}から、日帰{ひがえ}り入浴{にゅうよく}の受付{うけつけ}時間{じかん}が変{か}わります。今{いま}は午後{ごご}二時{にじ}までですが、来週{らいしゅう}からは午後{ごご}四時{よじ}までになります。料金{りょうきん}は変{か}わりません。休{やす}みの日{ひ}も変{か}わりません。",
+   "questions": [
+    {
+     "q": "日帰{ひがえ}り入浴{にゅうよく}の時間{じかん}について、正{ただ}しいものはどれですか。",
+     "c": [
+      "受付{うけつけ}時間{じかん}は今{いま}のまま、午後{ごご}二時{にじ}までである。",
+      "料金{りょうきん}が変{か}わる。",
+      "来週{らいしゅう}から、受付{うけつけ}時間{じかん}は午後{ごご}四時{よじ}までになる。",
+      "来週{らいしゅう}から、日帰{ひがえ}り入浴{にゅうよく}はなくなる。"
+     ],
+     "a": 2,
+     "ev": "来週からは午後四時までになります",
+     "why": "The notice says that starting next week, the reception hours change from 2 PM to 4 PM.",
+     "ng": [
+      "The current end time is 2 PM, but from next week it becomes 4 PM.",
+      "The notice says the fee does not change.",
+      "",
+      "The notice is about a time change, not the bathing service disappearing."
+     ]
+    }
+   ],
+   "words": [
+    ["受付時間", "うけつけじかん", "reception hours"],
+    ["変更", "へんこう", "change"],
+    ["料金", "りょうきん", "fee; charge"]
+   ]
+  },
+  {
+   "id": "n5-02",
+   "type": "mid",
+   "genre": "日記{にっき}（ゆの香{か}温泉{おんせん}シリーズ）",
+   "title": "はじめてゆの香{か}温泉{おんせん}でアルバイトをした日{ひ}",
+   "lead": "きょう、はじめてゆの香{か}温泉{おんせん}でアルバイトをしました。どんな一日{いちにち}だったでしょうか。",
+   "text": "十一{じゅういち}月{がつ}三日{みっか}（火曜日{かようび}）\nきょう、はじめてゆの香{か}温泉{おんせん}でアルバイトをしました。受付{うけつけ}に行{い}くと、女将{おかみ}さんが「よく来{き}ましたね」と言{い}ってくれました。\n女将{おかみ}さんはとてもしんせつでした。「はじめてですか。かんたんな仕事{しごと}から覚{おぼ}えましょう」と言{い}ってくれました。\nさいしょはタオルの数{かぞ}え方{かた}がむずかしくて、数字{すうじ}がよくわかりませんでした。それから、女将{おかみ}さんがゆっくり教{おし}えてくれて、少{すこ}しずつわかりました。\nさいごに、先輩{せんぱい}に「上手{じょうず}になりましたね」と言{い}われて、とてもうれしかったです。帰{かえ}るとき、女将{おかみ}さんが「次{つぎ}はお客様{きゃくさま}への挨拶{あいさつ}も覚{おぼ}えましょうね」と言{い}ってくれました。\n家{いえ}に着{つ}いてから、すぐにノートに書{か}きました。来週{らいしゅう}は、お風呂{ふろ}の掃除{そうじ}も練習{れんしゅう}したいです。",
+   "questions": [
+    {
+     "q": "「わたし」が、はじめてゆの香{か}温泉{おんせん}でアルバイトをしたのは、何{なん}曜日{ようび}でしたか。",
+     "c": [
+      "月曜日{げつようび}",
+      "火曜日{かようび}",
+      "土曜日{どようび}",
+      "日曜日{にちようび}"
+     ],
+     "a": 1,
+     "ev": "十一月三日（火曜日）",
+     "why": "The diary header says 十一月三日（火曜日）, so the writer worked at the inn for the first time on a Tuesday.",
+     "ng": [
+      "Monday is not the day written in the diary.",
+      "",
+      "Saturday is not the day written in the diary.",
+      "Sunday is not the day written in the diary."
+     ]
+    },
+    {
+     "q": "「わたし」は、さいしょタオルの数{かぞ}え方{かた}がむずかしかったあと、どうなりましたか。",
+     "c": [
+      "すぐにアルバイトをやめることにして、もう二度{にど}と行{い}かなかった。",
+      "女将{おかみ}さんに新{あたら}しいタオルを買{か}ってもらった。",
+      "先輩{せんぱい}に頼{たの}んで、代{か}わりに数{かぞ}えてもらうようにした。",
+      "女将{おかみ}さんがゆっくり教{おし}えてくれて、少{すこ}しずつわかった。"
+     ],
+     "a": 3,
+     "ev": "女将さんがゆっくり教えてくれて、少しずつわかりました",
+     "why": "After struggling with how to count the towels, the proprietress taught slowly and little by little the writer came to understand.",
+     "ng": [
+      "The diary does not say the writer immediately quit.",
+      "The diary does not mention being bought new towels.",
+      "The diary says the proprietress taught directly, not that someone else counted instead.",
+      ""
+     ]
+    }
+   ],
+   "words": [
+    ["女将", "おかみ", "proprietress of a traditional inn"],
+    ["数え方", "かぞえかた", "way of counting"],
+    ["練習", "れんしゅう", "practice"]
+   ]
+  },
+  {
+   "id": "n5-03",
+   "type": "info",
+   "genre": "案内{あんない}（ゆの香{か}温泉{おんせん}シリーズ）",
+   "title": "日帰{ひがえ}り入浴{にゅうよく}プランと料金{りょうきん}",
+   "lead": "ゆの香{か}温泉{おんせん}の、日帰{ひがえ}り入浴{にゅうよく}プランと料金{りょうきん}を見{み}てみましょう。",
+   "text": "ゆの香{か}温泉{おんせん}　日帰{ひがえ}り入浴{にゅうよく}プランと料金{りょうきん}のお知{し}らせ\n【日帰{ひがえ}り入浴{にゅうよく}プラン】\nAプラン　ふつう入浴{にゅうよく}　五百円{ごひゃくえん}\nBプラン　タオルつき入浴{にゅうよく}　七百円{ななひゃくえん}\nCプラン　貸切{かしきり}風呂{ぶろ}（四十五分{よんじゅうごふん}）　二千円{にせんえん}\n【お知{し}らせ】\n受付{うけつけ}は午前{ごぜん}十時{じゅうじ}から午後{ごご}四時{よじ}までです。\n貸切{かしきり}風呂{ぶろ}を使{つか}いたい人{ひと}は、受付{うけつけ}で予約{よやく}をしてください。ふつう入浴{にゅうよく}とタオルつき入浴{にゅうよく}は、予約{よやく}はいりません。\nタオルは、受付{うけつけ}で借{か}りることができます。",
+   "questions": [
+    {
+     "q": "貸切{かしきり}風呂{ぶろ}を使{つか}いたい人{ひと}は、どうすればよいですか。",
+     "c": [
+      "何{なに}もしなくてよい。",
+      "受付{うけつけ}で予約{よやく}をする。",
+      "電話{でんわ}で予約{よやく}をする。",
+      "タオルを持{も}っていく。"
+     ],
+     "a": 1,
+     "ev": "貸切風呂を使いたい人は、受付で予約をしてください",
+     "why": "The notice says that people who want to use the private bath should make a reservation at the front desk.",
+     "ng": [
+      "The notice says a reservation is needed, not that nothing is required.",
+      "",
+      "The notice does not mention reserving by phone.",
+      "Bringing a towel is about rental, not about how to reserve the private bath."
+     ]
+    }
+   ],
+   "words": [
+    ["貸切風呂", "かしきりぶろ", "private/reserved bath"],
+    ["予約", "よやく", "reservation"],
+    ["受付", "うけつけ", "reception desk"]
+   ]
+  }
+ ]
+}
