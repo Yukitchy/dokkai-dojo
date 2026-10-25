@@ -1,7 +1,7 @@
 {
  "name": "Eki",
  "title": "Dokkai Dojo",
- "lead": "JLPT reading drills N5-N1 about trains and stations: station notices, a first solo train ride, ticket choices, timetable changes, and stations without staff on the fictional Tsubame Line. Original texts, answers with the reason for every choice.",
+ "lead": "JLPT reading drills N5-N1 about trains and stations: station notices, a first solo train ride, ticket choices, timetable changes, and stations without staff on the fictional Suzume Line. Original texts, answers with the reason for every choice.",
  "levels": [
   "n5",
   "n4",
@@ -10,12 +10,12 @@
   "n1"
  ],
  "allow": [
-  "つばめ線",
-  "つばめ野駅",
+  "すずめ線",
+  "すずめ野駅",
   "みずき町駅",
   "はなみ台駅",
   "うみべ駅",
-  "つばめ野",
+  "すずめ野",
   "みずき町",
   "はなみ台",
   "うみべ",
