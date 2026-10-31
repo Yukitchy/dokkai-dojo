@@ -1,0 +1,113 @@
+{
+ "level": "n4",
+ "passages": [
+  {
+   "id": "n4-01",
+   "type": "short",
+   "genre": "お知らせ（銀行{ぎんこう}のぞみ銀行{ぎんこう}シリーズ）",
+   "title": "年末{ねんまつ}年始{ねんし}の営業{えいぎょう}時間{じかん}変更{へんこう}のお知{し}らせ",
+   "lead": "のぞみ銀行{ぎんこう}で、年末{ねんまつ}年始{ねんし}の営業{えいぎょう}時間{じかん}が変{か}わるお知{し}らせがあります。",
+   "text": "「のぞみ銀行{ぎんこう}からのお知{し}らせ」\n年末{ねんまつ}年始{ねんし}の営業{えいぎょう}時間{じかん}が変{か}わります。十二月{じゅうにがつ}三十{さんじゅう}日{にち}から一月{いちがつ}三日{みっか}まで、窓口{まどぐち}はお休{やす}みです。ATMはいつも通{どお}り使{つか}えますが、一月{いちがつ}一日{いちにち}だけは、機械{きかい}の点検{てんけん}のため、午前{ごぜん}零時{れいじ}から六時{ろくじ}まで使{つか}えません。ご不便{ふべん}をおかけしますが、よろしくお願{ねが}いします。",
+   "questions": [
+    {
+     "q": "このお知{し}らせを読{よ}んで、正{ただ}しいものはどれですか。",
+     "c": [
+      "十二月{じゅうにがつ}三十{さんじゅう}日{にち}から一月{いちがつ}三日{みっか}まで、窓口{まどぐち}はお休{やす}みである。",
+      "年末{ねんまつ}年始{ねんし}の間{あいだ}、ATMもずっと使{つか}えない。",
+      "一月{いちがつ}一日{いちにち}は、窓口{まどぐち}もATMも、一日{いちにち}中{じゅう}、両方{りょうほう}とも使{つか}えない。",
+      "機械{きかい}の点検{てんけん}は、一{いっ}週間{しゅうかん}ずっと行{おこな}われる。"
+     ],
+     "a": 0,
+     "ev": "十二月三十日から一月三日まで、窓口はお休みです",
+     "why": "The notice states the counter is closed from December 30 to January 3.",
+     "ng": [
+      "",
+      "The notice says the ATM works as usual (いつも通り) during this period, except for one short window.",
+      "The notice says only the ATM is affected on January 1 for a few hours; the counter is already closed for the whole holiday period for a different reason.",
+      "The notice gives a few hours on January 1, not a full week, for the machine check."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "営業",
+     "えいぎょう",
+     "business (operation)"
+    ],
+    [
+     "点検",
+     "てんけん",
+     "inspection/check"
+    ],
+    [
+     "不便",
+     "ふべん",
+     "inconvenience"
+    ]
+   ]
+  },
+  {
+   "id": "n4-02",
+   "type": "info",
+   "genre": "案内（銀行{ぎんこう}のぞみ銀行{ぎんこう}シリーズ）",
+   "title": "新人{しんじん}向{む}け窓口{まどぐち}研修{けんしゅう}プランの比較{ひかく}",
+   "lead": "のぞみ銀行{ぎんこう}では、新{あたら}しく入{はい}った人{ひと}のために、二{ふた}つの研修{けんしゅう}プランを用意{ようい}しています。",
+   "text": "「新人{しんじん}窓口{まどぐち}研修{けんしゅう}プランのご案内{あんない}」\nのぞみ銀行{ぎんこう}では、新{あたら}しく入{はい}った人{ひと}のために、二{ふた}つの研修{けんしゅう}プランを用意{ようい}しています。\n基礎{きそ}コース\n期間{きかん}：一{いっ}か月{げつ}\n内容{ないよう}：あいさつ、お金{かね}の数{かぞ}え方{かた}、口座{こうざ}を作{つく}るときの説明{せつめい}を覚{おぼ}えます。両替{りょうがえ}機{き}の使{つか}い方{かた}の見学{けんがく}もできます。\n時間{じかん}：午前{ごぜん}九時{くじ}から午後{ごご}一時{いちじ}まで\n専門{せんもん}コース\n期間{きかん}：三{さん}か月{げつ}\n内容{ないよう}：接客{せっきゃく}の基礎{きそ}に加{くわ}えて、住宅{じゅうたく}ローンの相談{そうだん}や、振込{ふりこみ}の手続{てつづ}きを実際{じっさい}にやってみます。先輩{せんぱい}が一人{いちにん}ずつついて教{おし}えます。\n時間{じかん}：午前{ごぜん}八時{はちじ}から午後{ごご}三時{さんじ}まで\nどちらのコースも、終{お}わったあとに別{べつ}のコースへ移{うつ}ることができます。初{はじ}めて銀行{ぎんこう}の仕事{しごと}をする人{ひと}には、基礎{きそ}コースから始{はじ}めることを勧{すす}めています。仕事{しごと}に慣{な}れてきたら、支店長{してんちょう}と相談{そうだん}して専門{せんもん}コースに進{すす}むこともできます。",
+   "questions": [
+    {
+     "q": "基礎{きそ}コースと専門{せんもん}コースの大{おお}きな違{ちが}いは何{なん}ですか。",
+     "c": [
+      "基礎{きそ}コースの方{ほう}が、研修{けんしゅう}の時間{じかん}が長{なが}い。",
+      "専門{せんもん}コースでは、住宅{じゅうたく}ローンの相談{そうだん}や、振込{ふりこみ}の手続{てつづ}きを実際{じっさい}にやってみる。",
+      "基礎{きそ}コースは、お金{かね}の数{かぞ}え方{かた}を教{おし}えてもらえない。",
+      "専門{せんもん}コースは、接客{せっきゃく}を教{おし}えてもらえない。"
+     ],
+     "a": 1,
+     "ev": "住宅ローンの相談や、振込の手続きを実際にやってみます",
+     "why": "The specialist course adds hands-on housing-loan consultation and money-transfer procedures on top of the basic course's customer-service skills.",
+     "ng": [
+      "The guide says the specialist course is three months, longer than the basic course's one month, not the other way around.",
+      "",
+      "The guide says the basic course does cover how to count money.",
+      "The guide does not say the specialist course skips customer service; it adds to the basic skills."
+     ]
+    },
+    {
+     "q": "初{はじ}めて銀行{ぎんこう}の仕事{しごと}をする人{ひと}に勧{すす}められているのは、どちらのコースですか。",
+     "c": [
+      "必{かなら}ず専門{せんもん}コースから始{はじ}めなければならない。",
+      "基礎{きそ}コースから始{はじ}めることを勧{すす}められている。",
+      "二{ふた}つのコースを同時{どうじ}に受{う}けることを勧{すす}められている。",
+      "どちらのコースも、初{はじ}めての人{ひと}には勧{すす}められていない。"
+     ],
+     "a": 1,
+     "ev": "初めて銀行の仕事をする人には、基礎コースから始めることを勧めています",
+     "why": "The guide recommends that first-time staff start with the basic course.",
+     "ng": [
+      "The guide recommends the basic course first, not requiring the specialist course.",
+      "",
+      "The guide does not mention taking both courses at the same time.",
+      "The guide does recommend a course for first-timers: the basic course."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "基礎",
+     "きそ",
+     "basics/foundation"
+    ],
+    [
+     "専門",
+     "せんもん",
+     "specialty/expert"
+    ],
+    [
+     "実際",
+     "じっさい",
+     "actual/in practice"
+    ]
+   ]
+  }
+ ]
+}
