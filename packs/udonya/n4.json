@@ -1,0 +1,113 @@
+{
+ "level": "n4",
+ "passages": [
+  {
+   "id": "n4-01",
+   "type": "short",
+   "genre": "お知{し}らせ（のどかうどんシリーズ）",
+   "title": "天{てん}ぷらの持{も}ち帰{かえ}りサービス開始{かいし}のお知{し}らせ",
+   "lead": "のどかうどんで、天{てん}ぷらの持{も}ち帰{かえ}りサービスが始{はじ}まります。",
+   "text": "「お知{し}らせ」\nのどかうどんでは、来月{らいげつ}から、天{てん}ぷらの持{も}ち帰{かえ}りサービスを始{はじ}めます。「家{いえ}でも天{てん}ぷらを食{た}べたい」というお客{きゃく}さんの声{こえ}が多{おお}かったためです。\n持{も}ち帰{かえ}りは、レジの窓口{まどぐち}で申{もう}し込{こ}むことができます。申{もう}し込{こ}んでから、仕上{しあ}がるまで十五分{じゅうごふん}ほどかかります。",
+   "questions": [
+    {
+     "q": "このお知{し}らせについて、正{ただ}しいものはどれですか。",
+     "c": [
+      "持{も}ち帰{かえ}りサービスは、もう終{お}わる。",
+      "来月{らいげつ}から、天{てん}ぷらの持{も}ち帰{かえ}りができるようになる。",
+      "持{も}ち帰{かえ}りは、ホームページでしか申{もう}し込{こ}めない。",
+      "申{もう}し込{こ}んだらすぐに仕上{しあ}がる。"
+     ],
+     "a": 1,
+     "ev": "天ぷらの持ち帰りサービスを始めます",
+     "why": "Starting next month, takeout service for tempura will begin.",
+     "ng": [
+      "The notice is about starting the service, not ending it.",
+      "",
+      "The notice says it can be applied for at the register counter, not only the website.",
+      "The notice says it takes about 15 minutes to finish, not that it is ready right away."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "持ち帰り",
+     "もちかえり",
+     "takeout"
+    ],
+    [
+     "窓口",
+     "まどぐち",
+     "counter; window"
+    ],
+    [
+     "声",
+     "こえ",
+     "voice; opinion"
+    ]
+   ]
+  },
+  {
+   "id": "n4-02",
+   "type": "info",
+   "genre": "案内{あんない}（のどかうどんシリーズ）",
+   "title": "大{おお}盛{も}りサービスの比較{ひかく}",
+   "lead": "のどかうどんの、大{おお}盛{も}りサービスの二{ふた}つの種類{しゅるい}を比{くら}べてみましょう。",
+   "text": "のどかうどん　大{おお}盛{も}りサービスの比較{ひかく}\n【無料{むりょう}大{おお}盛{も}り】\n料金{りょうきん}：無料{むりょう}\n期間{きかん}：注文{ちゅうもん}したその場{ば}\n内容{ないよう}：麺{めん}の量{りょう}を少{すこ}し増{ふ}やす、または減{へ}らす対応{たいおう}です。\n【特製{とくせい}大{おお}盛{も}り】\n料金{りょうきん}：二百円{にひゃくえん}\n期間{きかん}：注文{ちゅうもん}したその場{ば}\n内容{ないよう}：普通{ふつう}の大{おお}盛{も}りと同{おな}じ対応{たいおう}を、だしの量{りょう}も増{ふ}やして行{おこな}います。\nどちらも、注文{ちゅうもん}するときに店員{てんいん}に伝{つた}えてください。麺{めん}の量{りょう}が大{おお}きく変{か}わる場合{ばあい}は、お断{ことわ}りすることもあります。\n【よくある質問{しつもん}】\n質問{しつもん}：大{おお}盛{も}りの間{あいだ}、麺{めん}はどうなりますか。\n答{こた}え：注文{ちゅうもん}してから茹{ゆ}で上{あ}がるまで、普通{ふつう}より少{すこ}し時間{じかん}がかかります。お時間{じかん}に余裕{よゆう}を持{も}ってお越{こ}しください。\n質問{しつもん}：大{おお}盛{も}りができない場合{ばあい}はありますか。\n答{こた}え：最後{さいご}の一玉{いちたま}を使{つか}い切{き}っている場合{ばあい}は、麺{めん}の量{りょう}を増{ふ}やすと対応{たいおう}できないため、お断{ことわ}りすることがあります。",
+   "questions": [
+    {
+     "q": "特製{とくせい}大{おお}盛{も}りは、無料{むりょう}大{おお}盛{も}りと比{くら}べて、何{なに}が違{ちが}いますか。",
+     "c": [
+      "対応{たいおう}の内容{ないよう}が全{まった}く違{ちが}う。",
+      "料金{りょうきん}とだしの量{りょう}が違{ちが}う。",
+      "店員{てんいん}に伝{つた}えなくてもよい。",
+      "お断{ことわ}りされることがない。"
+     ],
+     "a": 1,
+     "ev": "普通の大盛りと同じ対応を、だしの量も増やして行います",
+     "why": "The price and the amount of broth are different, but the explanation says the work itself is the same, only with more broth.",
+     "ng": [
+      "The explanation says the work is the same, just with more broth.",
+      "",
+      "Both services say to tell the staff when ordering.",
+      "The explanation says a large change in amount may still be refused for either service."
+     ]
+    },
+    {
+     "q": "大{おお}盛{も}りができない場合{ばあい}があるのは、どんなときですか。",
+     "c": [
+      "お店{みせ}が休{やす}みのとき。",
+      "最後{さいご}の一玉{いちたま}を使{つか}い切{き}っていて、麺{めん}の量{りょう}が大{おお}きく変{か}わるとき。",
+      "特製{とくせい}大{おお}盛{も}りを選{えら}んだとき。",
+      "お湯{ゆ}が沸{わ}いていないとき。"
+     ],
+     "a": 1,
+     "ev": "最後の一玉を使い切っている場合は、麺の量を増やすと対応できないため、お断りすることがあります",
+     "why": "When the last serving of noodles has been used up, a large increase in amount may be refused.",
+     "ng": [
+      "Store holidays are not mentioned as a reason for refusal.",
+      "",
+      "Choosing the special large serving is not given as a reason for refusal.",
+      "Whether the water is boiling is not mentioned as a reason for refusal."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "比較",
+     "ひかく",
+     "comparison"
+    ],
+    [
+     "一玉",
+     "いちたま",
+     "one serving of noodles"
+    ],
+    [
+     "場合",
+     "ばあい",
+     "case; situation"
+    ]
+   ]
+  }
+ ]
+}
