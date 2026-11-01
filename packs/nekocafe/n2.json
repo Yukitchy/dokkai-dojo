@@ -1,0 +1,113 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（ふわねこカフェシリーズ）",
+   "title": "インターネット予約が増えて変わった一日の流れ",
+   "lead": "予約が増えたことで、ふわねこカフェの一日はどう変わったのか。",
+   "text": "インターネット予約が増えて変わった一日の流れ\n予約システムを導入してから三年がたち、今では来店するお客さんの八割以上が事前に予約を済ませている。以前は、受付に並ぶ順番の調整がスタッフの主な仕事だったが、今は予約の空き状況を見ながら猫の休憩時間を組み立てることに時間を使うようになった。\n変わったのは仕事の内容だけではない。予約時間がはっきりしているため、猫が人に囲まれ続ける時間帯と、静かに休める時間帯を分けやすくなった。結果として、猫のストレスを減らしつつ、お客さんにも満足してもらえる流れができてきたように思う。",
+   "questions": [
+    {
+     "q": "インターネット予約が増えて、スタッフの仕事はどう変わりましたか。",
+     "c": [
+      "受付の順番調整より、猫の休憩時間の調整に時間を使うようになった。",
+      "受付の順番調整の仕事が増えた。",
+      "猫の数を増やす仕事が中心になった。",
+      "予約システムを管理する専門会社に仕事を外注するようになった。"
+     ],
+     "a": 0,
+     "ev": "予約の空き状況を見ながら猫の休憩時間を組み立てることに時間を使うようになった",
+     "why": "The text says staff now spend time coordinating the cats' rest time based on reservation availability, more than adjusting the waiting order.",
+     "ng": [
+      "",
+      "The text says this kind of adjustment work decreased, not increased.",
+      "Increasing the number of cats is not mentioned.",
+      "Outsourcing to another company is not mentioned."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "導入{どうにゅう}",
+     "どうにゅう",
+     "introduction"
+    ],
+    [
+     "満足{まんぞく}",
+     "まんぞく",
+     "satisfaction"
+    ],
+    [
+     "流{なが}れ",
+     "ながれ",
+     "flow"
+    ]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（ふわねこカフェシリーズ）",
+   "title": "年末年始の受付ルールの新基準について",
+   "lead": "年末年始の混雑に向けた、新しい受付の基準を見てみましょう。",
+   "text": "年末年始の受付ルールの新基準について\nふわねこカフェでは、年末年始の混雑に対応するため、受付ルールの新しい基準を定めた。従来は当日受付を基本としていたが、十二月二十九日から一月三日までの期間は、事前予約のみの受付に切り替える。\nこの期間は、一日あたりの入店人数の上限を通常の七割に減らし、猫一匹あたりの接触時間を確保することを優先する。あわせて、予約の取り消しが相次ぐ事態を防ぐため、前日までの取り消しは無料、当日の取り消しには一部料金を求める仕組みを導入した。\nスタッフの体制についても、繁忙期にかかわらず猫の健康観察を怠らないよう、獣医師と相談できる時間を毎日確保することにした。売り上げを優先するあまり猫の負担を増やすことがないよう、基準づくりの段階から動物保護団体の意見も取り入れている。\n過去には、年末年始の混雑時に猫が長時間休めず、食欲が落ちてしまったこともあったという。そうした経験をふまえ、スタッフ同士で猫の様子を細かく報告し合う体制も合わせて整えた。繁忙期だからこそ気づきにくくなる小さな変化を、見逃さない仕組みをつくることが目的である。\nお客さんの側からも、猫の負担を考えた予約協力への理解を求める案内を増やし、売り上げと猫の健康を両立させる店づくりを目指している。今後も、来店者数と猫の負担のバランスを見ながら、基準を毎年見直していく方針である。",
+   "questions": [
+    {
+     "q": "年末年始の受付ルールの新基準について、正しいものはどれですか。",
+     "c": [
+      "十二月二十九日から一月三日までは、事前予約のみの受付になる。",
+      "この期間は、入店人数の上限が通常より増える。",
+      "当日の予約の取り消しは、いつでも無料である。",
+      "繁忙期は、獣医師との相談時間を減らす。"
+     ],
+     "a": 0,
+     "ev": "十二月二十九日から一月三日までの期間は、事前予約のみの受付に切り替える",
+     "why": "The text states that from December 29 to January 3, reception switches to reservation-only.",
+     "ng": [
+      "",
+      "The text says the entry limit is reduced to 70%, not increased.",
+      "The text says same-day cancellations incur a partial fee.",
+      "The text says vet consultation time is secured, not reduced."
+     ]
+    },
+    {
+     "q": "この新基準を作るとき、何を大切にしましたか。",
+     "c": [
+      "売り上げだけでなく、猫の健康や負担にも配慮すること。",
+      "できるだけ多くのお客さんを一度に入店させること。",
+      "スタッフの休憩時間を増やすこと。",
+      "動物保護団体の意見をすべて無視すること。"
+     ],
+     "a": 0,
+     "ev": "売り上げを優先するあまり猫の負担を増やすことがないよう",
+     "why": "The text says the standard was built so that prioritizing sales would not increase the burden on the cats.",
+     "ng": [
+      "",
+      "The text reduces the entry limit rather than maximizing entries.",
+      "Staff rest time is not the focus described here.",
+      "The text says the protection group's opinions were incorporated, not ignored."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "基準{きじゅん}",
+     "きじゅん",
+     "standard"
+    ],
+    [
+     "負担{ふたん}",
+     "ふたん",
+     "burden"
+    ],
+    [
+     "両立{りょうりつ}",
+     "りょうりつ",
+     "to balance/juggle"
+    ]
+   ]
+  }
+ ]
+}

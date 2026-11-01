@@ -1,0 +1,113 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "コラム（ふわねこカフェシリーズ）",
+   "title": "猫カフェという場所で積み重ねられる経験の意味",
+   "lead": "猫の様子を見抜く力は、どうやって身につくのだろうか。",
+   "text": "猫カフェという場所で積み重ねられる経験の意味\nふわねこカフェで働き始めてから、はや五年が過ぎた。新人スタッフを何人も見送る立場にもなった。一見すれば、猫をかわいがり客をもてなす仕事に見えるかもしれない。\nしかし現場に立ち続けてわかるのは、猫の体調のわずかな変化を見抜く力は、マニュアルを読んだだけでは身につかないという事実である。毛づやの違い、歩き方のかすかなためらい。こうした違いに気づけるまでには、数えきれない観察の積み重ねが要る。\n効率では測りにくいこの経験こそが、動物を預かる仕事の土台を成していると、今になって思う。",
+   "questions": [
+    {
+     "q": "筆者が一番伝えたいことは何ですか。",
+     "c": [
+      "猫の様子を見抜く力は、長い観察の積み重ねでしか身につかないということ。",
+      "猫カフェの仕事は誰でもすぐにできる簡単な仕事だということ。",
+      "マニュアルを読めば、猫の体調の変化がすぐにわかるということ。",
+      "新人スタッフはできるだけ早く辞めるべきだということ。"
+     ],
+     "a": 0,
+     "ev": "数えきれない観察の積み重ねが要る",
+     "why": "The writer argues that the ability to notice subtle changes in cats can only be built through years of accumulated observation.",
+     "ng": [
+      "",
+      "This contradicts the essay's point that the skill takes years to build.",
+      "This is the opposite of what the essay says a manual can achieve.",
+      "This claim is not supported anywhere in the essay."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "見抜{みぬ}く",
+     "みぬく",
+     "to see through/discern"
+    ],
+    [
+     "毛{け}づや",
+     "けづや",
+     "sheen/gloss of fur"
+    ],
+    [
+     "土台{どだい}",
+     "どだい",
+     "foundation"
+    ]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告書（ふわねこカフェシリーズ）",
+   "title": "地域の保護猫団体との一年間の協力報告",
+   "lead": "保護猫団体「みどりの里親会」との一年間の協力を報告します。",
+   "text": "地域の保護猫団体との一年間の協力報告\nふわねこカフェは、地域の動物保護団体「みどりの里親会」と協力関係を結んでから、一年が経過した。本報告書は、この一年間の取り組みと成果、今後の課題についてまとめたものである。\n【取り組みの概要】\n協力開始当初は、月一回の譲渡会の会場提供のみを担っていたが、半年を過ぎたころから、保護猫の一時的な受け入れにも範囲を広げた。受け入れ可能な猫は、健康状態が安定しており、他の猫との生活になじめると団体の担当者が判断した個体に限っている。\n【成果】\n一年間で、十八匹の保護猫をカフェに迎え入れ、そのうち十一匹が新しい家族のもとへ譲渡された。残る七匹は、引き続きカフェで生活しながら、里親を探している。来店客からは「カフェに来ることが、保護猫について知るきっかけになった」という声が多く聞かれた。\n【課題】\n一方で、保護猫の中には、人や他の猫との生活に慣れるまで時間を要する個体も少なくない。慣れない環境で体調を崩す猫が出た際の対応について、団体側とスタッフの間で情報共有の仕組みをさらに整える必要があると感じている。また、繁忙期には猫の休息スペースが不足しがちであり、来年度はスペースの拡張も検討課題としたい。\n【今後の方針】\n今後は、譲渡会の開催頻度を増やすことに加え、保護猫について学べる小さな勉強会を店内で開くことも計画している。カフェという場所の特性を生かしながら、保護猫の存在をより多くの人に知ってもらう取り組みを続けていきたい。",
+   "questions": [
+    {
+     "q": "この一年間の協力で、保護猫はどうなりましたか。",
+     "c": [
+      "十八匹を受け入れ、そのうち十一匹が新しい家族のもとへ譲渡された。",
+      "受け入れた猫は、全員新しい家族が見つかった。",
+      "保護猫の受け入れは、この一年で中止された。",
+      "譲渡会は、カフェの外の会場でのみ行われた。"
+     ],
+     "a": 0,
+     "ev": "十八匹の保護猫をカフェに迎え入れ、そのうち十一匹が新しい家族のもとへ譲渡された",
+     "why": "The report states 18 cats were taken in and 11 of them were adopted; the rest still live at the cafe.",
+     "ng": [
+      "",
+      "Seven cats are still looking for a family, so not all were adopted.",
+      "The report describes an ongoing partnership, not a suspension.",
+      "The event is held at the cafe's own second-floor event space."
+     ]
+    },
+    {
+     "q": "今後の課題として挙げられているのは何ですか。",
+     "c": [
+      "猫の休息スペースの不足と、体調を崩した猫への情報共有の仕組み。",
+      "譲渡会の会場が広すぎること。",
+      "保護団体との協力をやめること。",
+      "来店客が多すぎて困っていること。"
+     ],
+     "a": 0,
+     "ev": "繁忙期には猫の休息スペースが不足しがちであり",
+     "why": "The report lists a shortage of rest space during busy periods, and the need to improve information-sharing when a cat's condition worsens, as future challenges.",
+     "ng": [
+      "",
+      "The report never says the venue is too large.",
+      "The report plans to continue and expand the partnership.",
+      "Too many customers is not described as a problem here."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "協力{きょうりょく}",
+     "きょうりょく",
+     "cooperation"
+    ],
+    [
+     "里親{さとおや}",
+     "さとおや",
+     "adoptive family (for an animal)"
+    ],
+    [
+     "拡張{かくちょう}",
+     "かくちょう",
+     "expansion"
+    ]
+   ]
+  }
+ ]
+}
