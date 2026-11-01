@@ -1,0 +1,106 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "評論（ひいらぎ畳店シリーズ）",
+   "title": "畳の感触が与える安心感",
+   "lead": "畳に触れたときの独特の感触について考える、短い評論である。",
+   "text": "畳に触れたときの、ひんやりとした、しかしどこか温かみを感じさせる独特の感触は、素材の記憶とでも呼ぶべきものかもしれない。合成素材が主流になりつつある住空間において、天然のい草にしか出せない質感は、むしろその希少性によって価値を増しているとも言える。\n効率や耐久性を追い求める現代の住宅事情の中で、あえて手入れの要る畳を選ぶという行為そのものが、一種の生活への態度表明になりつつあるのではないだろうか。",
+   "questions": [
+    {
+     "q": "筆者が述べている、畳を選ぶという行為の意味に最も近いのはどれか。",
+     "c": [
+      "手入れが必要な畳を選ぶことが、生活への一種の態度表明になりつつある。",
+      "畳はもう誰も選ばなくなったので、特別な意味は失われた。",
+      "畳を選ぶのは単に値段が安いからであり、他の理由はない。",
+      "合成素材のほうが天然素材より価値があると筆者は考えている。"
+     ],
+     "a": 0,
+     "ev": "一種の生活への態度表明になりつつあるのではないだろうか",
+     "why": "The writer suggests that choosing tatami, which requires upkeep, is becoming a kind of statement about one's approach to living.",
+     "ng": [
+      "",
+      "The essay does not say tatami has lost all meaning.",
+      "Price is not given as the reason.",
+      "The essay actually suggests the opposite—natural material gains value through its rarity."
+     ]
+    }
+   ],
+   "words": [
+    ["希少性", "きしょうせい", "rarity/scarcity"],
+    ["態度表明", "たいどひょうめい", "expression of one's stance/attitude"]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "mid",
+   "genre": "論説（ひいらぎ畳店シリーズ）",
+   "title": "職人の技術継承について",
+   "lead": "畳職人の技術を次の世代にどう引き継ぐかという問いについての論説である。",
+   "text": "畳職人としての技術を、次の世代にどう引き継ぐかという問いに、明確な答えを持っている者はおそらく少ない。見て覚えろ、という昔ながらの教え方は、効率という観点からは批判されがちだが、言葉で説明し尽くせない感覚があるのも事実である。実際、ある畳店では、若い職人が藁床の重さと弾力を体で覚えるまでに三年近くかかったという話も聞く。\n藁床の弾力や、い草の織り目の均一さを判断する基準は、数値化しようとすればできなくはないが、数値だけを教え込んでも、現場で通用する判断力にはなりにくい。何百枚もの畳に触れ、失敗を重ねることで、ようやく身についてくる種類の技術なのだろう。\n一方で、後継者不足という現実を前にして、感覚だけに頼った指導を続けていては、技術の継承そのものが立ち消えになりかねない。感覚と言語化、二つの教え方のあいだをどう橋渡しするかが、これからの畳業界に課された課題だと言えるだろう。\n伝統を守ることと、教え方を変えることは、矛盾するようでいて、実は同じ目的のための二つの手段にすぎないのかもしれない。",
+   "questions": [
+    {
+     "q": "「見て覚えろ」という教え方について、筆者はどのように述べているか。",
+     "c": [
+      "効率の点では批判されがちだが、言葉で説明し尽くせない感覚がある。",
+      "どんな場合でも最も効率的な教え方だと述べている。",
+      "現代ではまったく通用しない教え方だと断定している。",
+      "数値化すれば簡単に置き換えられる教え方だと述べている。"
+     ],
+     "a": 0,
+     "ev": "効率という観点からは批判されがちだが、言葉で説明し尽くせない感覚があるのも事実である",
+     "why": "The writer says this teaching method tends to be criticized for being inefficient, but acknowledges there is a sense that cannot be fully explained in words.",
+     "ng": [
+      "",
+      "The essay does not call it the most efficient method in every case.",
+      "The essay does not flatly declare it useless today.",
+      "The essay says numbers alone are not enough, not that they can simply replace it."
+     ]
+    },
+    {
+     "q": "技術の継承について、筆者が指摘している課題は何か。",
+     "c": [
+      "後継者不足の中で、感覚だけに頼った指導を続けると継承が立ち消えになりかねないこと。",
+      "技術の継承はすでに完全に失われてしまったこと。",
+      "若い職人が多すぎて、指導が追いつかないこと。",
+      "数値化された基準だけで、十分に継承できていること。"
+     ],
+     "a": 0,
+     "ev": "後継者不足という現実を前にして、感覚だけに頼った指導を続けていては、技術の継承そのものが立ち消えになりかねない",
+     "why": "The writer points out that relying only on intuitive teaching amid a shortage of successors risks letting the skill die out.",
+     "ng": [
+      "",
+      "The essay does not say the skill has already been completely lost.",
+      "The essay does not say there are too many young craftsmen.",
+      "The essay says numerical standards alone are not sufficient."
+     ]
+    },
+    {
+     "q": "この文章全体の主張に最も近いのはどれか。",
+     "c": [
+      "感覚的な指導と言語化、両方の教え方を橋渡しすることが、これからの課題である。",
+      "伝統的な教え方を完全にやめ、数値化だけに頼るべきだ。",
+      "畳職人の技術はもう誰にも継承できない。",
+      "教え方を変えることは、伝統を守ることと完全に矛盾する。"
+     ],
+     "a": 0,
+     "ev": "二つの教え方のあいだをどう橋渡しするかが、これからの畳業界に課された課題だと言えるだろう",
+     "why": "The essay's main argument is that bridging intuitive and verbalized teaching methods is the task ahead.",
+     "ng": [
+      "",
+      "The essay does not argue for abandoning traditional teaching entirely.",
+      "The essay does not say the skill can no longer be passed on at all.",
+      "The essay ends by suggesting the two are not simply contradictory."
+     ]
+    }
+   ],
+   "words": [
+    ["継承", "けいしょう", "succession/inheritance (of skill)"],
+    ["弾力", "だんりょく", "elasticity/springiness"],
+    ["橋渡し", "はしわたし", "bridging/mediation"]
+   ]
+  }
+ ]
+}

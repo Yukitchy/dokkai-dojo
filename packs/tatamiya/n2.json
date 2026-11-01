@@ -1,0 +1,106 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "考察（ひいらぎ畳店シリーズ）",
+   "title": "客によって提案を変えること",
+   "lead": "同じ和室の相談でも、客によって畳の提案はまったく違う。",
+   "text": "同じ和室の相談でも、客によって畳の提案はまったく違う。小さな子供がいる家庭には、天然素材にこだわるよりも、汚れに強く手入れが楽な畳表を勧めることが多い。一方、茶道や書道をたしなむ高齢の客には、い草本来の香りや質感を重視した畳を提案する。\n効率を考えれば、おすすめの組み合わせをあらかじめ決めておくほうが早い。しかし、暮らし方は客ごとに違う。既製の提案を押しつけるのではなく、話を聞いたうえで畳を選ぶ過程にこそ、この仕事の意味があるように思う。",
+   "questions": [
+    {
+     "q": "筆者は、畳を提案する仕事の意味はどこにあると考えているか。",
+     "c": [
+      "既製の提案を押しつけず、客の話を聞いたうえで畳を選ぶ過程にある。",
+      "できるだけ早く、同じ組み合わせをすすめることにある。",
+      "天然素材の畳だけをすべての客に提案することにある。",
+      "客の希望を聞かず、店が決めた畳を売ることにある。"
+     ],
+     "a": 0,
+     "ev": "話を聞いたうえで畳を選ぶ過程にこそ、この仕事の意味があるように思う",
+     "why": "The writer believes the meaning of the job lies in choosing tatami through a process of listening to each customer, not pushing a ready-made suggestion.",
+     "ng": [
+      "",
+      "The essay argues against simply recommending the same combination quickly.",
+      "Recommending only natural materials to every customer is not what the essay says.",
+      "Not listening to customers' wishes is the opposite of the essay's point."
+     ]
+    }
+   ],
+   "words": [
+    ["既製", "きせい", "ready-made"],
+    ["過程", "かてい", "process"]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "mid",
+   "genre": "報告書（ひいらぎ畳店シリーズ）",
+   "title": "商店会との一年間の協力報告",
+   "lead": "空き店舗を活用した「畳のある縁側」という企画の、一年間の報告である。",
+   "text": "この一年間、近隣の商店会と連携し、空き店舗を活用した「畳のある縁側」という企画を進めてきた。商店街の中心にある使われていなかった店舗の一角に畳を敷き、通行人が自由に座って休憩できる空間を設けたのである。\n具体的には、平日の利用者は一日あたり約十五人、休日は約三十人にのぼり、当初の想定を上回る結果となった。商店会の会員からは、「畳があることで、通りかかる人が足を止めるようになった」という声も多く聞かれる。\n当初は、畳を傷つけられるのではないかという懸念もあったものの、実際に深刻な問題が起きたことはほとんどなかった。むしろ、高齢の利用者が増え、世代を超えた会話が生まれる場になったという報告が商店会から寄せられている。\n一方、課題も残っている。夏場は湿気がこもりやすく、月に一度は畳の手入れに人手を割かざるを得ない状況だ。また、冬場の利用者数は夏場に比べて大きく落ち込む傾向にあり、季節に応じた使い方の工夫が求められている。\n来年度は、季節ごとの使い方を提案するイベントを増やし、商店会との連携をさらに深めていく予定である。",
+   "questions": [
+    {
+     "q": "この報告によると、「畳のある縁側」はどのような空間か。",
+     "c": [
+      "空き店舗の一角に畳を敷き、通行人が自由に座って休憩できる空間。",
+      "商店会の会員だけが利用できる会議室。",
+      "新しい畳を販売するためだけの展示スペース。",
+      "冬場だけ開放される臨時の休憩所。"
+     ],
+     "a": 0,
+     "ev": "通行人が自由に座って休憩できる空間を設けたのである",
+     "why": "The report describes creating a space in an empty storefront where passersby can freely sit and rest on tatami.",
+     "ng": [
+      "",
+      "It is not limited to shopping association members only.",
+      "It is not a space only for selling new tatami.",
+      "It is not limited to winter only."
+     ]
+    },
+    {
+     "q": "利用者の様子について、本文の内容と合っているのはどれか。",
+     "c": [
+      "高齢の利用者が増え、世代を超えた会話が生まれる場になった。",
+      "利用者はほとんど増えず、企画は失敗に終わった。",
+      "利用者は若者ばかりで、高齢者の利用はまったくなかった。",
+      "畳が傷つけられる被害が多数発生し、利用を中止した。"
+     ],
+     "a": 0,
+     "ev": "高齢の利用者が増え、世代を超えた会話が生まれる場になった",
+     "why": "The report says elderly users increased and the space became a place for conversation across generations.",
+     "ng": [
+      "",
+      "The report does not say the project failed.",
+      "The report does not say only young people used it.",
+      "The report says serious damage rarely happened, not that use was stopped."
+     ]
+    },
+    {
+     "q": "来年度に向けて、どのような予定が述べられているか。",
+     "c": [
+      "季節ごとの使い方を提案するイベントを増やし、商店会との連携をさらに深めていく。",
+      "畳のある縁側の企画を終了し、別の場所に変更する。",
+      "利用者を会員だけに限定する。",
+      "夏場の利用を完全に禁止する。"
+     ],
+     "a": 0,
+     "ev": "季節ごとの使い方を提案するイベントを増やし、商店会との連携をさらに深めていく",
+     "why": "The plan for next year is to increase events proposing seasonal uses and deepen cooperation with the shopping association.",
+     "ng": [
+      "",
+      "Ending the project is not mentioned.",
+      "Limiting use to members only is not mentioned.",
+      "Completely banning summer use is not mentioned."
+     ]
+    }
+   ],
+   "words": [
+    ["連携", "れんけい", "cooperation/collaboration"],
+    ["懸念", "けねん", "concern/worry"],
+    ["傾向", "けいこう", "tendency"]
+   ]
+  }
+ ]
+}
