@@ -1,0 +1,113 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（さくら洋服店{ようふくてん}シリーズ）",
+   "title": "洋服店の役割が変わってきたことについて",
+   "lead": "さくら洋服店のような店に求められる役割が、どう変わってきたのだろうか。",
+   "text": "洋服店はもともと、地域の人々が日々の衣服を買う場として作られた。しかしさくら洋服店のような店に求められる役割は、近年それだけにとどまらなくなってきている。\nインターネットで服を買う人が増えるにともない、実際に試着して相談できる場としての役割が、以前より重視されるようになった。画面で見るだけでは、肌に合うかどうかまではわからないにもかかわらず、相談できる店は限られている。\n単に「服を売る場所」ではなく「選ぶ手伝いをする場所」として店をとらえ直すことが、今、求められているのではないだろうか。",
+   "questions": [
+    {
+     "q": "この文章で筆者が最も伝えたいことは何か。",
+     "c": [
+      "洋服店を、服を売る場所ではなく、選ぶ手伝いをする場所としてとらえ直すべきだということ。",
+      "洋服店は、インターネットでの販売だけに力を入れるべきだということ。",
+      "服を買う人は、実際に試着しないほうがいいということ。",
+      "肌に合うかどうかを相談できる店は、すでに十分にあるということ。"
+     ],
+     "a": 0,
+     "ev": "単に「服を売る場所」ではなく「選ぶ手伝いをする場所」として店をとらえ直すことが、今、求められているのではないだろうか",
+     "why": "The writer's main point is that clothing shops should be reconsidered not as places to sell clothes, but as places to help people choose.",
+     "ng": [
+      "",
+      "The writer argues the opposite, that online sales alone are no longer enough.",
+      "The passage says the ability to try things on in person is becoming more valued, not discouraged.",
+      "The passage says such shops are limited, not sufficient."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "試着{しちゃく}",
+     "しちゃく",
+     "trying on (clothes)"
+    ],
+    [
+     "相談{そうだん}",
+     "そうだん",
+     "consultation"
+    ],
+    [
+     "とらえ直{なお}す",
+     "とらえなおす",
+     "to reconsider/reframe"
+    ]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（さくら洋服店{ようふくてん}シリーズ）",
+   "title": "さくら洋服店の運営規則についてのご案内",
+   "lead": "さくら洋服店の運営規則の改定についての、利用者向けの案内である。",
+   "text": "利用者の皆様へ\n\nこのたび、さくら洋服店の運営規則を一部改定{かいてい}いたしましたので、下記の通りご案内いたします。今回の改定は、お客様数の増加にともない、安全な運営を続けるために必要な見直しとして行うものです。\n\n一、試着室の予約方法について\nこれまで窓口のみで受け付けていましたが、今回から、店のウェブサイトからも予約できるようになります。窓口での予約を希望する場合は、引き続き店員が対応いたします。\n\n二、キャンセルの連絡について\n予約した試着室を使わなくなった場合は、利用予定時間の一時間前までに、電話またはウェブサイトの連絡フォームでお知らせください。連絡がないキャンセルが続く場合、次回以降の予約をお断りすることがあります。\n\n三、緊急時の対応について\n地震や火事などの緊急時には、店の判断で、お客様の同意を待たず、近隣の避難{ひなん}場所へ案内することがあります。避難{ひなん}先は、後日、店内の掲示{けいじ}板{ばん}でお知らせします。\n\n四、個人情報の取り扱いについて\n予約申請に記入いただいた情報は、店の運営にのみ使用し、ほかの目的には使用いたしません。\n\n五、営業時間の変更について\n今回の改定にともない、土曜日の営業時間を午前十時から午後八時までに変更します。これまでより三十分早く開店しますので、ご確認ください。\n\nご不明な点がございましたら、店員までお問い合わせください。今後とも、さくら洋服店をよろしくお願いいたします。",
+   "questions": [
+    {
+     "q": "試着室の予約方法について、今回の改定で新しくできるようになったことは何か。",
+     "c": [
+      "店のウェブサイトから予約できるようになったこと。",
+      "窓口での予約の受け付けが、すべて廃止されたこと。",
+      "窓口でしか予約できなくなったこと。",
+      "予約そのものが不要になったこと。"
+     ],
+     "a": 0,
+     "ev": "今回から、店のウェブサイトからも予約できるようになります",
+     "why": "The notice says reservations can now also be made through the store's website.",
+     "ng": [
+      "",
+      "The notice says window reservations continue to be handled by staff.",
+      "The notice adds an option; it does not restrict reservations to the counter only.",
+      "Reservations are still required."
+     ]
+    },
+    {
+     "q": "キャンセルの連絡について、この案内の内容と合っているのはどれか。",
+     "c": [
+      "連絡がないキャンセルが続くと、次回以降の予約を断られることがある。",
+      "キャンセルの連絡は、いつでも好きなときにしてよい。",
+      "キャンセルしても、特に問題にはならない。",
+      "キャンセルの連絡は、利用当日にすればよい。"
+     ],
+     "a": 0,
+     "ev": "連絡がないキャンセルが続く場合、次回以降の予約をお断りすることがあります",
+     "why": "The notice states that repeated no-notice cancellations may result in future reservations being refused.",
+     "ng": [
+      "",
+      "The notice sets a deadline of one hour before use, not any time.",
+      "Repeated unnotified cancellations can lead to refused future reservations.",
+      "The deadline is before the scheduled time, not the day of use."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "改定{かいてい}",
+     "かいてい",
+     "revision"
+    ],
+    [
+     "避難{ひなん}",
+     "ひなん",
+     "evacuation"
+    ],
+    [
+     "掲示{けいじ}板{ばん}",
+     "けいじばん",
+     "bulletin board"
+    ]
+   ]
+  }
+ ]
+}

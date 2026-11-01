@@ -1,0 +1,113 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "コラム（さくら洋服店{ようふくてん}シリーズ）",
+   "title": "洋服店という場所に積み重ねられる時間の意味",
+   "lead": "さくら洋服店の試着室の壁に貼られ続けている古い寸法表から考える、場所に積み重ねられる時間についての文章である。",
+   "text": "さくら洋服店の試着室の壁には、三十年近く前に貼られた顧客の寸法{すんぽう}表が、色褪{いろあ}せたまま残り続けている。\n棚にも在庫にも限りがある以上、残しておくことは効率的とは言いがたい。それでも歴代の店主たちは、剥{は}がすことをためらい続けてきた。\nかつて若い頃に通っていた人が、やがてその子を連れて戻ってくる。その循環{じゅんかん}のなかで、店という場所自体が、血のつながりを超えた時間の厚みを帯{お}びていく。数字には表れないその価値を、簡単に切{き}り捨{す}てたくはない。",
+   "questions": [
+    {
+     "q": "この文章で筆者が最も伝えたいことは何か。",
+     "c": [
+      "若い頃に通っていた人がやがて子を連れて戻ってくる循環{じゅんかん}のなかで積み重なる時間には、数字に表れない価値があるということ。",
+      "色褪{いろあ}せた寸法{すんぽう}表は、棚や在庫に限りがあるので、すぐに剥{は}がすべきだということ。",
+      "店の在庫をもっと増やして、古い寸法{すんぽう}表もすべて新しいものに入れ替えるべきだということ。",
+      "かつての客は、子を連れて戻ってくることは二度とないということ。"
+     ],
+     "a": 0,
+     "ev": "数字には表れないその価値を、簡単に切り捨てたくはない",
+     "why": "The writer's main point is that the time accumulated through the cycle of former customers returning with their children carries a value that doesn't show up in numbers.",
+     "ng": [
+      "",
+      "The passage describes store owners resisting removal, not arguing for quick removal.",
+      "Increasing inventory to replace old items is not the writer's point.",
+      "The passage describes a former customer returning with their child, the opposite of never returning."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "循環{じゅんかん}",
+     "じゅんかん",
+     "cycle/circulation"
+    ],
+    [
+     "帯{お}びる",
+     "おびる",
+     "to take on/carry (a quality)"
+    ],
+    [
+     "剥{は}がす",
+     "はがす",
+     "to peel off/remove"
+    ]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告書{ほうこくしょ}（さくら洋服店{ようふくてん}シリーズ）",
+   "title": "地域衣料リサイクルネットワークとの一年間の協力報告",
+   "lead": "さくら洋服店が、昨年から参加している地域衣料リサイクルネットワークの、一年間の報告である。",
+   "text": "さくら洋服店　地域衣料リサイクルネットワークとの一年間の協力報告\n\n一、連携の背景\nさくら洋服店は、昨年四月より、地域衣料リサイクルネットワーク（近隣の古着店、児童福祉施設、民生委員で構成）に加盟し、情報共有と相互支援の体制を整えてきた。単独の店では気づきにくい衣料不足の家庭を、複数の目で見守ることを目的としている。\n\n二、主な取り組み\n月に一度、構成団体の担当者が集まり、支援が必要と思われる家庭について情報を共有する会議を開いた。会議では個人を特定できる情報の扱いに注意し、守秘{しゅひ}義務{ぎむ}を徹底した。また、民生委員と連携し、サイズの合う服が見つからない家庭への声かけを行った。\n\n三、見えてきた成果\nこの一年で、会議を通じて把握した家庭のうち、四件については、児童福祉施設や古着店と連携することで、早期に衣料を届けることができた。単独の店だけでは見過{みす}ごしていた可能性が高い事例も含まれている。\n\n四、今後の課題\n一方で、会議の開催時間が平日の日中に限られており、働く保護者本人の参加は難しい。また、情報共有の範囲をどこまで広げるべきか、構成団体の間で判断が分かれる場面もあった。情報を共有しすぎれば家庭の負担になり、慎重になりすぎれば必要な支援が遅れる。その線引{せんび}きは、まだ定まっていない。\n\n五、来年度の計画\n来年度は、会議の開催時間を増やし、平日の夜間にも一回設けることを検討している。また、情報共有の範囲については、構成団体で統一した基準を一つ作ることを目指し、改めて協議する予定である。",
+   "questions": [
+    {
+     "q": "この一年の取り組みの成果として、報告書に挙げられているのはどれか。",
+     "c": [
+      "構成団体の担当者が、毎週会議を開くようになったこと。",
+      "会議を通じて、四件を早期の衣料提供につなげられたこと。",
+      "すべての保護者が、会議に直接参加できるようになったこと。",
+      "情報共有の範囲について、構成団体の判断が完全に一致したこと。"
+     ],
+     "a": 1,
+     "ev": "四件については、児童福祉施設や古着店と連携することで、早期に衣料を届けることができた",
+     "why": "The report lists, as an achievement, delivering clothing early to four households through cooperation with the children's welfare facility and secondhand shops.",
+     "ng": [
+      "The report describes monthly meetings, not weekly ones.",
+      "",
+      "The report says daytime meetings make it hard for working guardians to attend directly.",
+      "The report says judgment on how far to share information differed among groups, not that it was fully unified."
+     ]
+    },
+    {
+     "q": "今後の課題として、報告書に挙げられているのはどれか。",
+     "c": [
+      "会議の開催時間が平日の日中に限られ、働く保護者本人が参加しにくいこと。",
+      "店を利用する家庭の数が減り続けていること。",
+      "民生委員との連携が、制度上禁止されていること。",
+      "情報共有の範囲について、構成団体の間で意見が一度も分かれなかったこと。"
+     ],
+     "a": 0,
+     "ev": "会議の開催時間が平日の日中に限られており、働く保護者本人の参加は難しい",
+     "why": "The report raises, as a challenge, that meetings are held only during weekday daytime hours, making it hard for working guardians themselves to attend.",
+     "ng": [
+      "",
+      "A decline in the number of households using the store is not mentioned.",
+      "Cooperation with welfare commissioners is described as ongoing, not prohibited.",
+      "The report says judgment differed among the groups, so this is the opposite of what is stated."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "守秘{しゅひ}義務{ぎむ}",
+     "しゅひぎむ",
+     "duty of confidentiality"
+    ],
+    [
+     "見過{みす}ごす",
+     "みすごす",
+     "to overlook"
+    ],
+    [
+     "線引{せんび}き",
+     "せんびき",
+     "drawing the line/setting a boundary"
+    ]
+   ]
+  }
+ ]
+}
