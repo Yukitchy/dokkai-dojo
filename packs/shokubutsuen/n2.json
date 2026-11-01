@@ -1,0 +1,279 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（みどり植物園シリーズ）",
+   "title": "「温室カフェ」という場所",
+   "lead": "植物園の温室の一部を使ったカフェについて考えるコラムです。",
+   "text": "「温室カフェ」という場所\n\n植物園の片隅に、温室の一部を使った小さなカフェがある。ガラス越しに熱帯の植物を眺めながらコーヒーを飲めることから、最近は遠方から訪れる客も増えているという。\n面白いのは、このカフェに来る人の多くが、植物そのものにはさほど興味がないということだ。目的は、普段の生活から切り離された空間で、ただぼんやりと過ごす時間らしい。温度と湿度が高いこの場所は、管理者にとっては世話の対象だが、訪れる人にとっては休息の場になっている。",
+   "questions": [
+    {
+     "q": "このカフェに来る人の多くについて、正しいものはどれか。",
+     "c": [
+      "植物そのものには興味がなく、ただ落ち着いた時間を過ごしたいと思っている。",
+      "植物園の管理者と同じように、植物の世話そのものに強い関心を持ち、毎日世話をしたいと思っている。",
+      "熱帯の植物を研究するために温室を訪れている。",
+      "都市の喧騒を伝えるために、この場所の写真を撮っている。"
+     ],
+     "a": 0,
+     "ev": "植物そのものにはさほど興味がないということだ",
+     "why": "Most visitors aren't especially interested in the plants themselves; they come to spend quiet, unfocused time away from daily life.",
+     "ng": [
+      "",
+      "Interest in plant care is the staff's perspective, not the typical visitor's.",
+      "Researching tropical plants isn't given as the main reason.",
+      "Taking photos to convey urban noise isn't mentioned and makes no sense here."
+     ]
+    }
+   ],
+   "words": [
+    ["片隅", "かたすみ", "a corner, nook"],
+    ["熱帯", "ねったい", "tropics"],
+    ["休息", "きゅうそく", "rest, respite"]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "mid",
+   "genre": "随筆（みどり植物園シリーズ）",
+   "title": "開館前の一時間",
+   "lead": "植物園のスタッフが、開館前の時間について書いた随筆です。",
+   "text": "開館前の一時間\n\n植物園で働くようになって気づいたのは、来園者がいない時間にも、この場所にはたしかな表情があるということだ。開館は午前九時だが、わたしたちスタッフはそれより一時間早く入り、見回りをする。\n朝もやの中、温室のガラスがまだ少し曇っている。昨日の客が落とした手袋や、ベンチに忘れられた本を見つけるのも、たいていこの時間だ。日中は説明や接客に追われ、花そのものをじっと見る余裕はあまりない。だが、だれもいない通路を歩きながら花を見ると、昨日とはわずかに違う表情に気づくことがある。開き始めた蕾、少しだけ傾いた茎、そうした小さな変化は、人の目があるとかえって見えにくいのかもしれない。\n以前、先輩のスタッフに「花は、見られることを意識しているのだろうか」と聞いたことがある。彼女は笑って、「意識しているのは、わたしたちの方でしょう」と答えた。たしかに、見せる準備が整う前の植物園には、どこか気を許した空気がある。来園者のための場所でありながら、だれにも見せていない時間を持っているのだ。\n鍵を開け、最初の客を迎えるころには、わたしもすっかり仕事用の表情に戻っている。それでも、あの一時間だけは、この場所が自分だけのもののように感じられる。",
+   "questions": [
+    {
+     "q": "スタッフは、どうして開館の一時間前に植物園に入るか。",
+     "c": [
+      "見回りをするため",
+      "来園者を出迎えるため",
+      "温室の掃除をするため",
+      "先輩に花の話を聞くため"
+     ],
+     "a": 0,
+     "ev": "それより一時間早く入り、見回りをする",
+     "why": "Staff arrive an hour early specifically to patrol and check the garden.",
+     "ng": [
+      "",
+      "Greeting visitors happens after opening, not before.",
+      "Cleaning the greenhouse isn't mentioned.",
+      "That conversation with a senior staffer is a separate, occasional memory, not the daily reason for coming early."
+     ]
+    },
+    {
+     "q": "筆者は、だれもいない通路を歩きながら花を見ると、何に気づくことがあるか。",
+     "c": [
+      "昨日とはわずかに違う、花の小さな変化",
+      "来園者が温室のガラスに触れて、指紋や汚れを残してしまうこと",
+      "温室のガラスのよごれ",
+      "スタッフ同士の会話"
+     ],
+     "a": 0,
+     "ev": "昨日とはわずかに違う表情に気づくことがある",
+     "why": "Walking alone, she notices subtle day-to-day changes in the flowers, like a bud opening or a stem tilting slightly.",
+     "ng": [
+      "",
+      "Lost items are mentioned separately, found while patrolling, not something noticed about the flowers themselves.",
+      "Dirty glass isn't mentioned.",
+      "Staff conversation is a separate anecdote, not something noticed while walking alone."
+     ]
+    },
+    {
+     "q": "先輩は、「花は見られることを意識しているのだろうか」という問いに、どう答えたか。",
+     "c": [
+      "意識しているのはむしろ自分たちの方だと答えた",
+      "花は何も意識していないと答えた",
+      "花は来園者の視線を好んでいると答えた",
+      "その質問には答えなかった"
+     ],
+     "a": 0,
+     "ev": "意識しているのは、わたしたちの方でしょう",
+     "why": "The senior staffer turned the question around, suggesting it's the staff who are conscious of watching, not the flowers of being watched.",
+     "ng": [
+      "",
+      "She didn't flatly deny that flowers are conscious; she redirected the question instead.",
+      "Flowers enjoying visitors' gaze isn't what she said.",
+      "She did answer, with a laugh."
+     ]
+    }
+   ],
+   "words": [
+    ["朝もや", "あさもや", "morning mist"],
+    ["蕾", "つぼみ", "flower bud"],
+    ["気を許す", "きをゆるす", "to let one's guard down, relax"]
+   ]
+  },
+  {
+   "id": "n2-03",
+   "type": "compare",
+   "genre": "意見文（A／B、みどり植物園シリーズ）",
+   "title": "研究か、だれでも楽しめる庭か",
+   "lead": "植物園が優先すべきは珍しい植物の研究か、だれでも楽しめる庭か、二つの意見を読み比べます。",
+   "text": "植物園は、まず珍しい植物の保存と研究を優先するべきだと思う。絶滅が心配されている植物の多くは、専門的な知識を持つ場所でなければ守れない。見た目の華やかさだけを基準に庭を整えれば、地味だが重要な種が後回しにされてしまう。\nもちろん、来園者が楽しめる庭も大切だ。しかし、研究のための温室や管理区域を減らしてまで観賞用の花を増やすのは、本来の役割を手放すことになる。研究が土台にあるからこそ、植物園は単なる公園とは違う価値を持つ。まず専門性を守り、その成果を少しずつ公開していく順番でよいと考える。",
+   "textB": "わたしは、だれもが楽しめる庭であることを優先すべきだと考える。植物園がどれほど貴重な研究をしていても、来園者がその価値を感じられなければ、支持は広がらない。入園料や寄付によって運営が成り立っている以上、まず多くの人に「来てよかった」と思ってもらう必要がある。\n研究を軽視しているわけではない。むしろ、庭を楽しんだ人が植物に興味を持ち、保存活動への理解者になることもある。専門的な研究は大切に続けながら、その成果を分かりやすく見せる庭づくりを進めれば、研究と来園者の満足は対立しない。入口はあくまで「楽しさ」であるべきだ。",
+   "questions": [
+    {
+     "q": "AとBの両方が認めていることは何か。",
+     "c": [
+      "研究を続けることと、来園者に庭を楽しんでもらうことは、どちらも大切だということ",
+      "植物園は研究だけに力を入れるべきだということ",
+      "入園料を上げるべきだということ",
+      "観賞用の花を減らすべきだということ"
+     ],
+     "a": 0,
+     "ev": "研究を軽視しているわけではない",
+     "why": "A says enjoyment matters too (もちろん来園者が楽しめる庭も大切だ), and B says research isn't dismissed either (軽視しているわけではない); both sides value each aspect, differing only in priority order.",
+     "ng": [
+      "",
+      "A doesn't argue for research alone; it says enjoyment matters too, just as secondary.",
+      "Neither text discusses raising admission fees.",
+      "Neither argues for reducing ornamental flowers; A only warns against cutting research space."
+     ]
+    },
+    {
+     "q": "AとBが、それぞれ優先順位の理由として挙げているものは何か。",
+     "c": [
+      "Aは専門知識がなければ珍しい植物を守れないから、Bは運営が入園料や寄付で成り立っているから",
+      "Aは来園者数を増やしたいから、Bは研究費を削りたいから",
+      "Aは庭の見た目を重視したいから、Bは植物の保存を軽視したいから",
+      "Aは観光客を増やしたいから、Bは専門家の意見を無視したいから"
+     ],
+     "a": 0,
+     "ev": "専門的な知識を持つ場所でなければ守れない",
+     "why": "A prioritizes research because specialist knowledge is needed to protect endangered plants; B prioritizes visitor enjoyment because the garden's funding depends on admission fees and donations from the public.",
+     "ng": [
+      "",
+      "Neither states wanting to simply increase visitor counts or cut research funding as their reason.",
+      "A explicitly values substance over appearance, which contradicts this option.",
+      "Neither dismisses experts or aims only at tourists."
+     ]
+    }
+   ],
+   "words": [
+    ["絶滅", "ぜつめつ", "extinction"],
+    ["後回し", "あとまわし", "putting off, deprioritizing"],
+    ["軽視", "けいし", "downplaying, treating lightly"]
+   ]
+  },
+  {
+   "id": "n2-04",
+   "type": "opinion",
+   "genre": "論説（みどり植物園シリーズ）",
+   "title": "「推し」の植物を持つこと",
+   "lead": "植物園で自分だけの「推し」の植物を決めて楽しむ人が増えていることについての論説です。",
+   "text": "近年、植物園で「推しの植物」を見つける人が増えている。お気に入りの一本の木や一鉢の花を決め、季節ごとの変化を見に通ったり、写真を撮って記録したりする楽しみ方だ。植物への興味が、特定の対象への愛着に変わることで、来園の頻度が増える効果もあるという。\nこの楽しみ方には利点がある。ただ「植物が好き」というだけでは、興味は長続きしにくい。しかし、一つの対象を決めて追いかけることで、小さな変化にも気づきやすくなる。葉の色の変わり方や、花が咲くまでの時間を観察するうち、植物園全体への理解も深まっていく。「推し」という枠組みが、観察を続ける動機として機能しているのだ。\nSNSで推しの植物の写真を共有する人も多い。同じ植物を推す者同士がコメントを交わし、観察記録が共有の楽しみに変わることもある。個人の記録が、気づけば多くの人が見守る対象に育っていくのは、植物園という場所らしい面白さだろう。\n一方で、気になる点もある。推しの植物が病気になったり、台風で折れてしまったりすると、必要以上に落ち込む人がいる。植物は季節や環境の影響を受けやすく、人間の好みとは関係なく姿を変えていく。愛着が強すぎると、そうした自然な変化さえ「残念な出来事」として受け止めてしまいやすい。\nまた、同じ植物を何度も訪ねるうち、園内の他の場所に目が向かなくなることもある。推しの植物の前だけで時間を使い、季節ごとに変わる別の区域を見逃してしまうなら、植物園が持つ多様さを味わう機会を自分で狭めていることになる。\n植物園のスタッフにとっても、この現象は歓迎すべきものだという声がある。特定の植物に関心を持つ来園者が増えれば、その植物の状態を気にかけ、小さな変化を教えてくれる人も増える。愛着は、管理者だけでは気づきにくい変化を拾う、もう一つの目になり得るのだ。\n推しの植物を持つことは、観察を続ける良いきっかけになる。ただし、その対象の変化をすべて受け入れる心の準備と、ほかの植物にも目を向ける余裕を持っておきたい。一つを深く知ることと、全体を広く見ることは、両立できるはずだ。",
+   "questions": [
+    {
+     "q": "「推し」という枠組みが果たしている役割は何か。",
+     "c": [
+      "観察を続ける動機として機能していること",
+      "植物園の入園料を下げる役割",
+      "植物の病気を防ぐ役割",
+      "スタッフの仕事を減らす役割"
+     ],
+     "a": 0,
+     "ev": "観察を続ける動機として機能しているのだ",
+     "why": "Having a \"favorite\" plant gives people a concrete, personal reason to keep observing it closely.",
+     "ng": [
+      "",
+      "Admission fees aren't related to this framework.",
+      "It doesn't prevent disease; it's about attention and observation.",
+      "Staff workload isn't reduced by this; if anything, visitors end up contributing more feedback."
+     ]
+    },
+    {
+     "q": "推しの植物に愛着が強すぎると、どんな問題が起こりやすいか。",
+     "c": [
+      "自然な変化さえ残念な出来事として受け止めてしまう",
+      "植物園のスタッフと対立してしまう",
+      "入園料を払いたくなくなる",
+      "植物の名前を覚えられなくなる"
+     ],
+     "a": 0,
+     "ev": "そうした自然な変化さえ「残念な出来事」として受け止めてしまいやすい",
+     "why": "Overly strong attachment makes even ordinary natural changes feel like unwelcome losses.",
+     "ng": [
+      "",
+      "Conflict with staff isn't mentioned.",
+      "Not wanting to pay admission isn't mentioned.",
+      "Forgetting the plant's name isn't mentioned."
+     ]
+    },
+    {
+     "q": "筆者は、推しの植物を持つことについて、最終的にどう考えているか。",
+     "c": [
+      "良いきっかけになるが、変化を受け入れる準備と他の植物にも目を向ける余裕が必要だ",
+      "植物園にとって迷惑な行動なので、やめるべきだ",
+      "スタッフだけが経験すべきことで、来園者には向かない",
+      "SNSでの共有さえやめれば、特に問題はない"
+     ],
+     "a": 0,
+     "ev": "観察を続ける良いきっかけになる",
+     "why": "The author sees it as a positive starting point, but calls for emotional readiness for change and continued attention to the wider garden too.",
+     "ng": [
+      "",
+      "The author never calls it a nuisance that should be stopped.",
+      "The author discusses ordinary visitors throughout, not staff exclusively.",
+      "SNS sharing isn't identified as the core problem to fix."
+     ]
+    }
+   ],
+   "words": [
+    ["愛着", "あいちゃく", "attachment, fondness"],
+    ["枠組み", "わくぐみ", "framework"],
+    ["両立", "りょうりつ", "coexisting, being compatible"]
+   ]
+  },
+  {
+   "id": "n2-05",
+   "type": "info",
+   "genre": "案内（みどり植物園シリーズ）",
+   "title": "年間パスポートのご案内",
+   "lead": "みどり植物園の年間パスポート三種類についての案内です。",
+   "text": "みどり植物園　年間パスポートのご案内\n\n一年の間に何度も訪れたい方のために、三種類の年間パスポートを用意しています。\n\n【スタンダード】　5,000円\n入園料が一年間無料になります。同伴者の入園料は、通常料金のままです。\n\n【ペア】　8,000円\n本人ともう一名、合わせて二名分の入園料が一年間無料になります。年に三回以上来園する予定がある方には、通常料金より割安です。\n\n【サポーター】　15,000円\n二名分の入園料が無料になるほか、年四回発行する会報の送付、温室カフェの飲み物一杯無料券（月一枚）、ボランティアガイド講座の優先案内が受けられます。\n\n【共通の注意】\n・いずれも購入日から一年間有効です。\n・途中での種類の変更はできません。\n・紛失した場合、再発行には手数料1,000円がかかります。\n・未成年の方が購入する場合は、保護者の同意が必要です。\n\n【ご購入方法】\n植物園の受付窓口のほか、公式サイトのオンライン販売からも購入できます。オンラインで購入した場合は、受付でパスポートを受け取るまでに数分かかります。\n\n【よくあるご質問】\nQ．家族で違う種類を組み合わせて買えますか。\nA．組み合わせは自由です。ご家族の来園回数に合わせてお選びください。\n\nQ．一年以内に解約して、残りの期間分のお金は戻りますか。\nA．購入後の返金はできません。お申し込みの際にご確認ください。\n\nQ．サポーターの会報は、どのように届きますか。\nA．ご登録いただいた住所に、年四回郵送いたします。",
+   "questions": [
+    {
+     "q": "田中さんは、一年に四回植物園に来る予定で、いつも友人と二人で来ます。会報やカフェの無料券はいりません。一番お得なのはどのパスポートですか。",
+     "c": [
+      "ペア",
+      "スタンダード",
+      "サポーター",
+      "この三種類の中では決められない"
+     ],
+     "a": 0,
+     "ev": "合わせて二名分の入園料が一年間無料になります",
+     "why": "Since she always visits with one friend and doesn't need the extra perks, ペア covers both people's admission more cheaply than サポーター, which includes unneeded extras at a higher price.",
+     "ng": [
+      "",
+      "スタンダード only covers one person's admission; her friend would still pay full price each visit.",
+      "サポーター includes extras she doesn't want, for a higher price than necessary.",
+      "The question asks which pass suits her case, and the text gives enough information to decide."
+     ]
+    },
+    {
+     "q": "年間パスポートを買った後、途中でペアからサポーターに変更したいです。できますか。",
+     "c": [
+      "できない。種類の変更はできないと決まっている",
+      "できる。手数料1,000円を払えば変更できる",
+      "できる。一年に一回だけ変更できる",
+      "できる。オンラインでだけ変更できる"
+     ],
+     "a": 0,
+     "ev": "途中での種類の変更はできません",
+     "why": "The rules clearly state the pass type cannot be changed partway through its term.",
+     "ng": [
+      "",
+      "The 1,000 yen fee is for reissuing a lost pass, not for changing its type.",
+      "No such once-a-year exception is mentioned.",
+      "No online-only exception is mentioned."
+     ]
+    }
+   ],
+   "words": [
+    ["同伴者", "どうはんしゃ", "companion, person accompanying"],
+    ["有効", "ゆうこう", "valid"],
+    ["返金", "へんきん", "refund"]
+   ]
+  }
+ ]
+}

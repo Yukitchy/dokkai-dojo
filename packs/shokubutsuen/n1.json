@@ -1,0 +1,386 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "随筆（みどり植物園シリーズ）",
+   "title": "古木が切られる日",
+   "lead": "植物園の古い木が伐採される日について書かれた随筆です。",
+   "text": "古木が切られる日\n\n樹齢百年を超えるケヤキが、今朝、植物園から姿を消した。根の内部まで広がった腐朽が確認され、倒れる危険があると判断されたためだ。決定が下されたのは三か月前だが、作業の日取りを公にしなかったのは、惜別の声が集まりすぎることを園側が案じたからだという。\n伐採の音を聞きながら、長年この木の下で働いてきた職員は、ただ黙って立ち尽くしていた。安全のためという理屈は理解していても、記憶の一部が削られていくような感覚は、理屈では処理しきれないものらしい。",
+   "questions": [
+    {
+     "q": "植物園が伐採の日取りを公にしなかったのは、なぜか。",
+     "c": [
+      "惜別の声が多く集まることを案じたから",
+      "木の腐朽を知られたくなかったから",
+      "作業員の安全を確保するため",
+      "決定はすでに三か月前に下されていたが、発表の準備にまだ時間がかかっていたから"
+     ],
+     "a": 0,
+     "ev": "惜別の声が集まりすぎることを園側が案じたからだという",
+     "why": "The garden was concerned that announcing the date would draw too many farewell visitors and reactions.",
+     "ng": [
+      "",
+      "Hiding the decay isn't given as the reason; the decay was openly confirmed.",
+      "Worker safety relates to the decision to cut it, not to keeping the timing secret.",
+      "The real reason given is concern about reactions, not a lack of preparation time."
+     ]
+    }
+   ],
+   "words": [
+    ["樹齢", "じゅれい", "age of a tree"],
+    ["腐朽", "ふきゅう", "decay, rot"],
+    ["惜別", "せきべつ", "regret at parting"]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "mid",
+   "genre": "評論（みどり植物園シリーズ）",
+   "title": "名前を知ることと、見ることの関係",
+   "lead": "植物園の名札が観察という行為に与える影響について論じた評論です。",
+   "text": "名前を知ることと、見ることの関係\n\n植物園を歩くとき、多くの人はまず名札に目をやる。学名、和名、科名が並ぶその小さな板は、見ている対象を言葉に変換する装置として機能している。しかし、名前を得ることは、必ずしもその植物をよく見ることと同義ではない。\n名札を読んだ瞬間、人はしばしば満足してしまう。「これはラン科の植物だ」と知った時点で、観察という行為そのものを終えてしまうのだ。花弁の形や、葉脈の走り方、虫を誘う匂いの強弱といった、名前には還元できない情報は、名前を得た安心感の後ろに隠れてしまいやすい。\n一方で、名前を知らないまま植物を見続けることにも限界がある。分類という枠組みがなければ、個々の観察は孤立した印象の集積にとどまり、他者と共有することも、過去の知見と結びつけることも難しくなる。名前は、観察を蓄積し、継承するための器である。\n問題は、名前を得ることと見ることのどちらを先に置くかではない。名づけが観察を終わらせる装置になるか、観察を深める手がかりになるかは、名札を読んだ後に、もう一度その対象へ視線を戻す習慣があるかどうかにかかっている。",
+   "questions": [
+    {
+     "q": "筆者は、名札を読んだ瞬間に人がしばしば満足してしまうことを、どのような問題として捉えているか。",
+     "c": [
+      "観察という行為そのものを終えてしまうこと",
+      "名前を間違って記憶してしまうこと",
+      "他の人と名前について話せなくなること",
+      "植物園の運営そのものに関心を持てなくなってしまうことを、だれもが心配していたから"
+     ],
+     "a": 0,
+     "ev": "観察という行為そのものを終えてしまうのだ",
+     "why": "Reading the label and feeling one \"knows\" the plant leads people to stop observing it any further.",
+     "ng": [
+      "",
+      "Misremembering names isn't the issue raised.",
+      "The ability to discuss names with others isn't the concern here.",
+      "Interest in the garden's operation is unrelated."
+     ]
+    },
+    {
+     "q": "名前には還元できない情報として、本文で挙げられているものはどれか。",
+     "c": [
+      "花弁の形や葉脈の走り方、匂いの強弱",
+      "学名と和名の違い",
+      "植物園の開館時間",
+      "名札の大きさや材質が、科によって細かく決められていること"
+     ],
+     "a": 0,
+     "ev": "花弁の形や、葉脈の走り方、虫を誘う匂いの強弱といった",
+     "why": "These sensory, individual details aren't captured by a name or label, unlike classification facts.",
+     "ng": [
+      "",
+      "The difference between scientific and common names is itself part of the labeling system, not something irreducible to it.",
+      "Opening hours are unrelated.",
+      "Label size or material isn't mentioned."
+     ]
+    },
+    {
+     "q": "名前（分類）が持つ役割について、本文はどう述べているか。",
+     "c": [
+      "観察を蓄積し、他者や過去の知見と結びつけて継承するための器である",
+      "観察という行為そのものを、最初から最後まで完全に不要にしてしまう、最終的な答えである",
+      "植物園の収入を増やすための宣伝手段である",
+      "専門家だけが使う、一般の来園者には不要な情報である"
+     ],
+     "a": 0,
+     "ev": "観察を蓄積し、継承するための器である",
+     "why": "Names and classification serve as a vessel letting individual observations be accumulated, shared, and connected to prior knowledge.",
+     "ng": [
+      "",
+      "The text argues names shouldn't be treated as a final answer that ends observation.",
+      "Revenue or advertising isn't discussed.",
+      "The text doesn't suggest names are only for experts; ordinary visitors read labels too."
+     ]
+    }
+   ],
+   "words": [
+    ["名札", "なめふだ", "name tag, label"],
+    ["還元", "かんげん", "reduction (to something simpler)"],
+    ["継承", "けいしょう", "succession, carrying on"]
+   ]
+  },
+  {
+   "id": "n1-03",
+   "type": "long",
+   "genre": "創作（みどり植物園シリーズ）",
+   "title": "温室で見つけた古い手紙",
+   "lead": "温室で見つかった、送られることのなかった古い手紙をめぐる短い物語です。",
+   "text": "温室で見つけた古い手紙\n\n温室の奥、だれも手入れをしなくなった鉢植えの陰に、小さな紙切れが落ちていることに気づいたのは、まだ入って三年ほどの佐伯だった。黄ばんだ便箋は四つ折りにされ、角が擦り切れていた。開いてよいものかしばらく迷ったが、差出人も宛先も書かれていないことを確かめ、結局読んでしまった。\n「あの白い花が咲いたら、きっと来てください」\nそう書き出された手紙は、筆跡から見て若い女性のものらしかった。日付はなく、季節を示す言葉だけが、冬の終わりを告げる花の名として記されていた。読み進めるうち、佐伯はこれが誰かに宛てて書かれ、しかし送られることのなかった手紙だと気づいた。文中には、温室で働く相手への、はっきりとは言葉にされない感情が綴られていた。会えば言えることが、紙の上でだけ正直になっている。そういう種類の文章だった。\n佐伯は、その手紙を園長に見せるべきかどうか迷った。古い建物の記録を扱う立場からすれば、報告は筋の通った行動だろう。だが、差出人がこの手紙を結局手放さなかった――あるいは出す勇気を持てなかった――という事実そのものに、何か尊重すべきものがある気がした。\n数日後、別の棚を整理していた先輩の職員にそれとなく尋ねてみると、三十年近く前、ここで働いていた女性職員の話を聞かされた。彼女は温室の担当だったが、結婚を機に遠方へ移り、以後の消息は誰も知らないという。相手が誰だったのかについては、先輩も「さあ、それは」と言葉を濁した。\n佐伯自身、担当する区画が三年目の春を迎えようとしている。だれかに宛てて書きたい言葉を、まだ持たないまま働いているが、いつか自分にもそういう一文が生まれるのだろうかと、柄にもなく考えた。手紙を書いた女性が、結局それを出さなかった理由も、送られなかったからこそ今日まで残ったという巡り合わせも、どちらも簡単には説明できない気がした。\n佐伯は、その手紙を元の場所には戻さなかった。代わりに、温室の記録棚の奥、だれも滅多に開けない引き出しに仕舞った。いつか、手紙の続きを知る人が現れるとは思えない。それでも、読まれることのなかった言葉を、せめてこの場所に留めておきたいと思ったのだ。花はまた咲くだろう。来てほしいと書かれた相手が誰であったにせよ、その約束は、この温室そのものが代わりに守り続けているのかもしれない。",
+   "questions": [
+    {
+     "q": "佐伯は、手紙を読んだ後、なぜ園長に見せるべきかどうか迷ったか。",
+     "c": [
+      "差出人が出さなかった手紙を尊重すべきだという気持ちがあったから",
+      "手紙の内容が古い建物の修繕に関わるものだったから",
+      "園長が普段から私的な手紙に興味を示さない人だったから",
+      "手紙はすでに先輩の職員によって見つけられ、報告書としてまとめられていたから"
+     ],
+     "a": 0,
+     "ev": "差出人がこの手紙を結局手放さなかった――あるいは出す勇気を持てなかった――という事実そのものに、何か尊重すべきものがある気がした",
+     "why": "He felt something about the fact that the sender never sent the letter deserved respect, which made him hesitate to simply hand it over as a report.",
+     "ng": [
+      "",
+      "The letter has nothing to do with building repairs.",
+      "The director's personal interests aren't discussed.",
+      "The senior staffer hadn't seen the letter; Saeki only asked about an old story separately."
+     ]
+    },
+    {
+     "q": "先輩の職員は、佐伯の質問にどう答えたか。",
+     "c": [
+      "相手が誰だったのかについては、はっきり答えなかった",
+      "相手の名前をすぐに教えてくれた",
+      "その話は知らないと言って、話題を変えた",
+      "自分がその手紙を書いたのだと認めた"
+     ],
+     "a": 0,
+     "ev": "先輩も「さあ、それは」と言葉を濁した",
+     "why": "The senior staffer was vague and evasive about who the letter's recipient was, though he did share what he knew about the former employee.",
+     "ng": [
+      "",
+      "No name was actually given.",
+      "He didn't claim total ignorance; he did share the story of the former female employee.",
+      "Nothing suggests the senior staffer wrote it himself."
+     ]
+    },
+    {
+     "q": "佐伯自身について、本文からわかることはどれか。",
+     "c": [
+      "だれかに宛てて書きたい言葉を、まだ持たないまま働いている",
+      "三十年ほど前からずっとこの植物園で働き続けている、植物園で一番の先輩である",
+      "結婚を機に遠方へ移ることを考えている",
+      "手紙の差出人が誰かを知っている"
+     ],
+     "a": 0,
+     "ev": "だれかに宛てて書きたい言葉を、まだ持たないまま働いている",
+     "why": "The story reveals Saeki hasn't yet found anyone he'd want to write such heartfelt words to.",
+     "ng": [
+      "",
+      "Thirty years there describes the former female employee, not Saeki, who has been there about three years.",
+      "No such plan is mentioned for Saeki.",
+      "He never learns who sent the letter or to whom."
+     ]
+    },
+    {
+     "q": "最後の場面で、佐伯は手紙をどうしたか。",
+     "c": [
+      "元の場所には戻さず、記録棚の引き出しに仕舞った",
+      "園長に報告して、処分してもらった",
+      "元の鉢植えの下に戻し、何もしなかった",
+      "先輩の職員に渡した"
+     ],
+     "a": 0,
+     "ev": "その手紙を元の場所には戻さなかった。代わりに、温室の記録棚の奥",
+     "why": "He kept the letter safe in a drawer in the records cabinet rather than returning it or disposing of it.",
+     "ng": [
+      "",
+      "He didn't report it for disposal.",
+      "He explicitly did not put it back in its original spot.",
+      "He didn't hand it to the senior staffer."
+     ]
+    }
+   ],
+   "words": [
+    ["便箋", "びんせん", "letter paper, stationery"],
+    ["綴る", "つづる", "to write, compose (words)"],
+    ["消息", "しょうそく", "news or whereabouts of someone"],
+    ["言葉を濁す", "ことばをにごす", "to be vague, evasive in speech"]
+   ]
+  },
+  {
+   "id": "n1-04",
+   "type": "compare",
+   "genre": "意見文（A／B、みどり植物園シリーズ）",
+   "title": "絶滅した植物を技術で取り戻すべきか",
+   "lead": "絶滅した植物を復元技術で取り戻すべきかどうか、二つの意見を読み比べます。",
+   "text": "絶滅した植物を、保存されていた種子や遺伝情報から復元する技術が進んでいる。わたしは、この技術を積極的に使うべきだと考える。人間の活動が絶滅の主な原因である以上、技術によってその影響を打ち消す試みには一定の責任がある。復元された植物は、失われた生態系の一部を取り戻す手がかりになり得る。\nもちろん、復元した個体をそのまま自然に戻せば十分というわけではない。生息環境そのものが変化している場合、復元だけでは生態系は元には戻らない。それでも、植物園という管理された環境でまず育て、研究材料として活用することには意味がある。技術を使わない理由にはならない。",
+   "textB": "わたしは、絶滅した植物の復元に慎重であるべきだと考える。技術的に可能であることと、それを行う意味があることは別の問題だ。復元された個体は、元の個体とまったく同じではなく、遺伝的多様性を欠いた一つの系統にすぎないことが多い。\nさらに、「絶滅しても技術で戻せる」という安心感は、現在進行中の保全努力を弱める危険がある。本来、資源は今まさに絶滅の危機にある種を守ることに使うべきだ。すでに失われた種への技術的関心が、まだ救える種への関心を奪ってしまうなら、優先順位を見直す必要がある。",
+   "questions": [
+    {
+     "q": "AとBが、復元された植物について共通して認めていることはどれか。",
+     "c": [
+      "復元した個体だけでは、元の生態系がそのまま戻るわけではないと認めている",
+      "復元技術というものは、現時点ではどの植物園にもまだ存在していないと述べている",
+      "復元された植物は元の個体と完全に同一だと述べている",
+      "復元には資金がかからないと述べている"
+     ],
+     "a": 0,
+     "ev": "復元だけでは生態系は元には戻らない",
+     "why": "A admits restoring individuals alone won't bring back the original ecosystem if habitats have changed; B likewise notes restored individuals aren't genetically identical to the originals. Both acknowledge real limits to revival.",
+     "ng": [
+      "",
+      "Both discuss the technology as already advancing, not nonexistent.",
+      "B explicitly denies this; restored individuals are described as not fully identical.",
+      "Neither discusses cost or funding."
+     ]
+    },
+    {
+     "q": "Bが、復元技術への過度な期待を問題だと考える理由は何か。",
+     "c": [
+      "現在進行中の保全努力を弱める危険があるから",
+      "復元された植物が自然界にあふれるほど繁殖しすぎてしまうことを心配しているから",
+      "復元にかかる技術的な困難が大きすぎるから",
+      "植物園の来園者が減ってしまうから"
+     ],
+     "a": 0,
+     "ev": "現在進行中の保全努力を弱める危険がある",
+     "why": "B worries the comforting belief that revival is always possible later will sap effort from protecting species currently endangered but not yet extinct.",
+     "ng": [
+      "",
+      "Overbreeding of restored plants isn't mentioned.",
+      "Technical difficulty isn't B's stated objection; the priority concern is.",
+      "Visitor numbers aren't discussed."
+     ]
+    }
+   ],
+   "words": [
+    ["復元", "ふくげん", "restoration, reconstruction"],
+    ["遺伝的多様性", "いでんてきたようせい", "genetic diversity"],
+    ["優先順位", "ゆうせんじゅんい", "priority, order of precedence"]
+   ]
+  },
+  {
+   "id": "n1-05",
+   "type": "opinion",
+   "genre": "論説（みどり植物園シリーズ）",
+   "title": "人と植物の関わり方",
+   "lead": "植物園における人と植物の関わりを、世話と支配という視点から考える論説です。",
+   "text": "人と植物の関わり方\n\n植物園という場所は、人間が植物をどのように扱ってきたかを、凝縮して映し出す装置である。整然と並んだ花壇、温度管理された温室、これらはすべて、自然そのものではなく、人間の意図によって再構成された自然の姿だ。そこを訪れる人々は、しばしば「自然に触れる」という感覚を得るが、厳密には、人間が選び、配置し、長い時間をかけて手入れを続けてきた結果を見ているにすぎない。\nこの事実は、植物園を批判する理由にはならない。むしろ、人間が自然とどう関わってきたかを正直に示している点に価値がある。野生のままの植物を遠くから眺めるだけでは得られない、世話をするという行為そのものの経験が、そこにはある。水をやり、剪定し、病気の兆候を見つける。こうした作業の積み重ねが、植物を単なる風景から、応答する対象へと変えていく。\nしかし、世話をするという関わり方には、常に力の非対称性が伴う。植物は、人間に対して何を望むかを言葉で伝えられない。咲く時期をずらしたり、形を整えたりする判断は、すべて人間の側の解釈と都合によって下される。「この植物のために」という言葉の裏には、しばしば「この植物を、自分が望む姿にするために」という意図が隠れている。世話と支配の境界は、思うよりも曖昧だ。\nだからといって、人間が植物に関わることをやめればよいという結論にはならない。むしろ必要なのは、関わりの中に潜む支配的な側面を自覚し続けることだろう。植物が人間の時間感覚とは異なる速度で変化し、時に人間の計画を裏切って枯れたり、思わぬ方向に育ったりすることを、失敗としてではなく、相手が持つ独自の論理として受け止める姿勢である。\n植物園のスタッフの多くが口にする「植物に教えられる」という感覚は、この姿勢の一つの表れだろう。計画通りに進まないことを、制御の失敗としてではなく、対象が持つ固有の時間への気づきとして受け止めること。人と植物の関わりが対等ではあり得ないとしても、少なくとも一方的な支配には閉じない関わり方は、そこから始まるのではないか。",
+   "questions": [
+    {
+     "q": "筆者は、植物園で得られる「自然に触れる」という感覚について、どう述べているか。",
+     "c": [
+      "厳密には、人間が選び、配置し、手入れを続けてきた結果を見ているにすぎない",
+      "野生のままの自然をそのまま持ち込んだものと、まったく同じ感覚だと述べている",
+      "植物園のスタッフにしか得られない特別な感覚である",
+      "誤解であり、植物園を訪れる意味はない"
+     ],
+     "a": 0,
+     "ev": "厳密には、人間が選び、配置し、長い時間をかけて手入れを続けてきた結果を見ているにすぎない",
+     "why": "The author argues this sense of \"touching nature\" is, strictly speaking, seeing the outcome of human selection and care, not untouched nature itself.",
+     "ng": [
+      "",
+      "The text explicitly contrasts it with wild nature, not equates them.",
+      "Nothing restricts this experience to staff only.",
+      "The author doesn't conclude visiting is meaningless; the next paragraph denies this is a reason to criticize gardens."
+     ]
+    },
+    {
+     "q": "「世話と支配の境界は、思うよりも曖昧だ」とあるが、それはどういうことか。",
+     "c": [
+      "植物のためだという言葉の裏に、人間が望む姿にしたいという意図が隠れていることがあるから",
+      "世話をする立場の人と、植物を支配しようとする立場の人は、常に別の、まったく異なる人物であるということ",
+      "植物が、人間の支配を完全に拒否する力を持っているから",
+      "世話をすることと支配することが、法律上区別されていないから"
+     ],
+     "a": 0,
+     "ev": "「この植物のために」という言葉の裏には、しばしば「この植物を、自分が望む姿にするために」という意図が隠れている",
+     "why": "Statements framed as \"for the plant's sake\" often conceal the carer's own desire to shape the plant as they wish, blurring the line between care and control.",
+     "ng": [
+      "",
+      "The text doesn't distinguish caretakers from controllers as separate people.",
+      "Plants are described as unable to verbally express their wishes, not as resisting control.",
+      "Legal distinctions aren't discussed."
+     ]
+    },
+    {
+     "q": "筆者は、植物が人間の計画を裏切って枯れたり、思わぬ方向に育ったりすることを、どのように受け止めるべきだと述べているか。",
+     "c": [
+      "失敗としてではなく、相手が持つ独自の論理として受け止めるべきだ",
+      "人間の管理技術が不足している証拠として受け止めるべきだ",
+      "植物園の運営方針を見直す理由として受け止めるべきだ",
+      "植物との関わりをやめる根拠として受け止めるべきだ"
+     ],
+     "a": 0,
+     "ev": "失敗としてではなく、相手が持つ独自の論理として受け止める姿勢である",
+     "why": "Rather than viewing such outcomes as failures of control, the author urges seeing them as expressions of the plant's own independent logic and timing.",
+     "ng": [
+      "",
+      "The author doesn't frame it as proof of insufficient management skill.",
+      "Reviewing operational policy isn't the point being made.",
+      "The author explicitly argues this isn't a reason to stop engaging with plants."
+     ]
+    },
+    {
+     "q": "本文全体の主張に最も近いものはどれか。",
+     "c": [
+      "人と植物の関わりは対等ではないが、支配的な側面を自覚し続けることで、一方的な支配に閉じない関わりが始まる",
+      "植物園は自然を偽って見せているので、廃止すべきだ",
+      "植物は人間と対等な存在であり、支配という考え方自体が誤りだ",
+      "植物の世話は、専門家だけが行うべき特殊な技術である"
+     ],
+     "a": 0,
+     "ev": "少なくとも一方的な支配には閉じない関わり方は、そこから始まるのではないか",
+     "why": "The essay's overall claim is that human-plant relationships aren't equal, but staying aware of the controlling aspect opens the possibility of a relationship that isn't purely one-sided domination.",
+     "ng": [
+      "",
+      "The author never calls for abolishing botanical gardens.",
+      "The author explicitly says the relationship can't be equal, contradicting this option.",
+      "The text doesn't restrict care to experts only."
+     ]
+    }
+   ],
+   "words": [
+    ["非対称性", "ひたいしょうせい", "asymmetry"],
+    ["曖昧", "あいまい", "ambiguous, vague"],
+    ["支配", "しはい", "domination, control"],
+    ["独自", "どくじ", "unique, one's own"]
+   ]
+  },
+  {
+   "id": "n1-06",
+   "type": "info",
+   "genre": "案内（みどり植物園シリーズ）",
+   "title": "研究インターンシップ募集案内",
+   "lead": "みどり植物園が実施する研究インターンシップの募集案内です。",
+   "text": "みどり植物園　研究インターンシップ募集案内\n\n当植物園では、来年度の研究インターンシップ生を募集します。対象は、生物学・農学・造園学等を専攻する大学院生、または卒業研究で植物の保全に関わる研究を行っている学部四年生です。\n\n【期間】\n四月から翌年三月までの一年間。週に二日以上、研究員の指導のもとで活動していただきます。\n\n【活動内容】\n絶滅危惧種の種子の保存状態の調査、温室内の環境データの記録と分析、園内で行う一般公開向けの研究成果発表の準備など、担当する研究員のテーマに応じて決定します。\n\n【待遇】\n交通費相当額として一日につき二千円を支給します。研究活動に必要な資料・機材は植物園が用意しますが、個人の研究に直接関わらない費用は支給の対象外です。\n\n【応募方法】\n指導教員の推薦書、研究計画書（千二百字程度）、履歴書を、十二月十五日までに研究部宛てに郵送してください。書類選考を通過した方には、一月中旬に面接を行います。\n\n【注意事項】\n活動中に得られたデータや標本は、原則として植物園に帰属します。学会発表や論文に用いる場合は、事前に研究部の許可を得てください。また、選考の結果についての問い合わせには応じられません。\n\n【その他】\nインターンシップ終了時には、活動内容を証明する証明書を発行します。遠方から参加する方には、近隣の宿泊先の情報提供のみ行いますが、宿泊費そのものは自己負担となります。保険への加入は必須で、未加入の場合は活動を開始できません。",
+   "questions": [
+    {
+     "q": "このインターンシップに応募できるのは、どんな人か。",
+     "c": [
+      "生物学・農学・造園学等を専攻する大学院生、または保全研究を行う学部四年生",
+      "植物園でのボランティア経験がある人全員",
+      "大学を卒業していれば、専攻に関わらず応募できる",
+      "研究部に知人がいる人に限られる"
+     ],
+     "a": 0,
+     "ev": "生物学・農学・造園学等を専攻する大学院生、または卒業研究で植物の保全に関わる研究を行っている学部四年生です",
+     "why": "Eligibility is limited to graduate students in specific fields, or fourth-year undergraduates doing conservation-related research.",
+     "ng": [
+      "",
+      "Volunteer experience isn't a stated requirement.",
+      "The field of study is explicitly restricted, not open to all graduates.",
+      "Personal connections aren't mentioned as a requirement."
+     ]
+    },
+    {
+     "q": "インターンシップで得られたデータを学会で発表したい場合、どうする必要があるか。",
+     "c": [
+      "事前に研究部の許可を得る必要がある",
+      "必ず植物園との共同発表にする必要がある",
+      "証明書に記載された内容のみ発表できる",
+      "発表そのものが禁止されている"
+     ],
+     "a": 0,
+     "ev": "学会発表や論文に用いる場合は、事前に研究部の許可を得てください",
+     "why": "Prior permission from the research department is required before presenting such data at academic conferences or in papers.",
+     "ng": [
+      "",
+      "Joint presentation with the garden isn't mandated, only permission.",
+      "The certificate's content and presentation rights are unrelated.",
+      "Presentation isn't banned outright; it's conditional on getting permission."
+     ]
+    }
+   ],
+   "words": [
+    ["造園学", "ぞうえんがく", "landscape gardening studies"],
+    ["絶滅危惧種", "ぜつめつきぐしゅ", "endangered species"],
+    ["帰属", "きぞく", "belonging to, ownership"]
+   ]
+  }
+ ]
+}

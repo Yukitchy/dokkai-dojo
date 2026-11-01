@@ -1,0 +1,43 @@
+{
+ "name": "Midori Botanical Garden",
+ "title": "Dokkai Dojo",
+ "lead": "JLPT reading drills N5–N1. Original texts, answers with the reason for every choice.",
+ "levels": [
+  "n5",
+  "n4",
+  "n3",
+  "n2",
+  "n1"
+ ],
+ "allow": [
+  "植物園",
+  "植物",
+  "おしらせ",
+  "絵はがき",
+  "温室",
+  "みどり植物園",
+  "係",
+  "入口",
+  "入園料",
+  "無料",
+  "事務所",
+  "受付",
+  "広場",
+  "先着",
+  "講堂",
+  "景品",
+  "入場",
+  "放送",
+  "見回り",
+  "駐車場",
+  "園長",
+  "ボランティア",
+  "紅葉",
+  "気温",
+  "見ごろ",
+  "苗",
+  "願いの木",
+  "申込書",
+  "選考"
+ ]
+}
