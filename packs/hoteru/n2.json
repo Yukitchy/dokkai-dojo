@@ -1,0 +1,113 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（こもれびホテルシリーズ）",
+   "title": "客室スタイルが多様化してきたことについて",
+   "lead": "こもれびホテルのようなホテルに求められる客室の形の変化について考えた文章である。",
+   "text": "こもれびホテルはもともと、出張で訪れる客を主な対象として作られた。しかしホテルに求められる客室の形は、近年それだけにとどまらなくなってきている。\n家族や友人と広い部屋でゆったり過ごしたいという声が増えるにともない、人数に応じた部屋割りへの対応が、以前より重視されるようになった。シングルルームの充実だけでは、すべての客の願いに応えられるとは限らない。\n単に「泊まる場所」ではなく「それぞれの過ごし方を支える場」として客室をとらえ直すことが、今、求められているのではないだろうか。",
+   "questions": [
+    {
+     "q": "この文章で筆者が最も伝えたいことは何か。",
+     "c": [
+      "客室は「泊まる場所」ではなく「それぞれの過ごし方を支える場」として、とらえ直すことが求められているということ。",
+      "家族や友人とゆったり過ごしたいという声は、今後、増えることはないということ。",
+      "シングルルームの充実だけで、すべての客の願いに完全に応えられるということ。",
+      "人数に応じた部屋割りへの対応は、すでに十分に進んでいるということ。"
+     ],
+     "a": 0,
+     "ev": "単に「泊まる場所」ではなく「それぞれの過ごし方を支える場」として客室をとらえ直すことが、今、求められている",
+     "why": "The writer argues hotel rooms need to be rethought as places supporting each guest's own way of spending time, not just a place to sleep.",
+     "ng": [
+      "",
+      "The passage says the wish for relaxed, larger-group stays has been increasing, the opposite of never increasing.",
+      "The passage says single-room enrichment alone cannot necessarily meet every guest's wish, the opposite claim.",
+      "The passage says this kind of support is only now becoming more valued, not already sufficiently advanced."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "多様化",
+     "たようか",
+     "diversification"
+    ],
+    [
+     "充実",
+     "じゅうじつ",
+     "fullness/enrichment"
+    ],
+    [
+     "とらえ直す",
+     "とらえなおす",
+     "to rethink/reconsider"
+    ]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（こもれびホテルシリーズ）",
+   "title": "キャンセル規約改定のご案内",
+   "lead": "こもれびホテルのキャンセル規約の改定について、利用者に向けて説明した案内文である。",
+   "text": "利用者の皆様へ\n\nこのたび、こもれびホテルの予約キャンセル規約{きやく}を一部改定{かいてい}いたしましたので、下記の通りご案内いたします。今回の改定は、近年の社会情勢の変化にともない、公平で安定した運営を続けるために必要な見直しとして行うものです。\n\n一、キャンセル料の発生時期について\nこれまでキャンセル料は宿泊の三日前から発生しておりましたが、今回から、七日前からとさせていただきます。期日が近づいた方には、事前にお知らせいたします。\n\n二、予約の取消について\nご予約を取消する場合、これまで電話のみで受け付けておりましたが、今回から、ホームページからの取消も可能になりました。\n\n三、自然災害時の対応について\n台風や大雪などの自然災害により、ホテルの判断で、お客様の同意を待たず、客室の変更やチェックインの延長を行うことがあります。\n\n四、キャンセル料の金額の見直しについて\nキャンセル料は、これまで宿泊料金の全額を一律にいただいておりましたが、今回から、キャンセルの時期に応じて金額を変える形に改めます。これは、早めにキャンセルを決めた方へ、負担をより具体的な形で軽くしたいという考えによるものです。\n\n五、見学予約について\nキャンセル規約の改定にともない、客室の見学予約についても、今回から、前日までのキャンセルを可能にいたします。\n\nご不便をおかけしますが、ご理解とご協力をお願いいたします。",
+   "questions": [
+    {
+     "q": "今回の改定で、新しく決められたことはどれか。",
+     "c": [
+      "キャンセル料が、宿泊の七日前から発生すること。",
+      "予約の取消を電話でしかできなくすること。",
+      "自然災害時にも、必ずお客様の同意を得てから客室を変更すること。",
+      "キャンセル料を、全額一律のまま変えないこと。"
+     ],
+     "a": 0,
+     "ev": "今回から、七日前からとさせていただきます",
+     "why": "The revision newly sets the cancellation fee to start from seven days before the stay.",
+     "ng": [
+      "",
+      "The revision adds a website option, the opposite of limiting to phone only.",
+      "The guide says the hotel may act without waiting for the guest's consent in disasters.",
+      "The revision changes the fee to vary by timing, not stay uniform."
+     ]
+    },
+    {
+     "q": "予約の取消について、正しいものはどれか。",
+     "c": [
+      "ホームページからの取消も可能になった。",
+      "取消は、電話でしかできない。",
+      "取消は、いかなる場合もできない。",
+      "取消には、必ず手数料がかかる。"
+     ],
+     "a": 0,
+     "ev": "今回から、ホームページからの取消も可能になりました",
+     "why": "The guide says cancellation via the website has newly become possible.",
+     "ng": [
+      "",
+      "The guide adds the website option, so it is no longer phone-only.",
+      "The guide describes cancellation becoming possible in more ways, not prohibited.",
+      "A fee for cancellation itself is not mentioned here."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "規約",
+     "きやく",
+     "rules/terms"
+    ],
+    [
+     "取消",
+     "とりけし",
+     "cancellation"
+    ],
+    [
+     "負担",
+     "ふたん",
+     "burden/cost"
+    ]
+   ]
+  }
+ ]
+}
