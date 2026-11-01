@@ -1,0 +1,113 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（みどり床屋{とこや}シリーズ）",
+   "title": "仕上{しあ}がりの投稿{とうこう}をめぐる議論{ぎろん}",
+   "lead": "カット後{あと}の仕上{しあ}がりをSNSに投稿{とうこう}することの是非{いひ}をめぐる話{はなし}。",
+   "text": "最近、カット後の仕上がりをSNSに投稿することを歓迎する床屋が増えている。ビフォーアフターの写真を店の公式アカウントで紹介し、技術の高さを売りにする店が多い。\n一方で、みどり床屋のような小さな店にとっては、撮影のための照明や背景を整える準備にコストがかかるため、導入をためらう傾向がある。実際、みどり床屋でも、こうした取り組みをするかどうか、長い間議論が続いた。\n最終的には、客の多くが仕上がりの写真を残したいという声を寄せていたことがわかり、本人の許可がある場合だけ、顔がわからない形で投稿する方法に踏み切った。",
+   "questions": [
+    {
+     "q": "みどり床屋は、最終的にどのような方法に踏み切ったか。",
+     "c": [
+      "本人の許可がある場合だけ、顔がわからない形で投稿する。",
+      "すべての客の仕上がりを、本人に確認せずそのまま投稿する。",
+      "撮影そのものをやめて、写真は一切残さない。",
+      "店の公式アカウントでの投稿を完全にやめる。"
+     ],
+     "a": 0,
+     "ev": "本人の許可がある場合だけ、顔がわからない形で投稿する方法に踏み切った",
+     "why": "The passage frames the shop's final decision as posting only with the customer's permission and in a way that hides the face.",
+     "ng": [
+      "",
+      "Posting without permission is not what the shop settled on.",
+      "The shop did not stop taking the photos altogether.",
+      "Official-account posting continues, just under the new condition."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "投稿",
+     "とうこう",
+     "posting (online)"
+    ],
+    [
+     "許可",
+     "きょか",
+     "permission"
+    ],
+    [
+     "踏み切る",
+     "ふみきる",
+     "to finally decide; take the plunge"
+    ]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内{あんない}（みどり床屋{とこや}シリーズ）",
+   "title": "紙カード＋アプリのハイブリッドポイント制度のご案内",
+   "lead": "みどり床屋の、紙のスタンプカードとアプリを併用するポイント制度の案内。",
+   "text": "みどり床屋　紙カード＋アプリのハイブリッドポイント制度のご案内\nこれまで紙のスタンプカードだけで運営していたポイント制度に、今月からアプリでの記録機能を加える。背景には、紙のカードを失くしてしまう客が目立ち、来店の回数を受付の係が覚えていないと確かめられないという混乱があった。\n一方で、長年通っている年配の常連客のなかには、アプリの操作に不安を抱く人も少なくない。そのため、紙のカードを廃止するのではなく、両方を併用できる仕組みにした。\n【ポイントの加算】\n紙のカードにスタンプを押してもらうか、アプリに会員番号を入力すると、どちらでも同じ記録に加算される。\n【特典の確認】\nアプリに来店履歴を登録しておくと、次に来たときに前回から何日たったかを自動で確かめられる。紙のカードだけを使う客は、これまでと同じように、来店時に受付へ直接尋ねる。\n【切り替えの時期】\n当面は両方の方式を併用し、利用の状況をみたうえで、将来の一本化を検討する。店としては、効率化を急ぎすぎて、長年の常連を置いていくことがないよう、慎重に進めたいと考えている。\n【問い合わせ】\nアプリの操作がわからない場合は、受付の横に置いてある説明用紙をみるか、係に直接声をかけてほしい。紙のカードとアプリの記録が一致しているか不安な人は、いつでも会員番号から確かめられるので、遠慮なく相談してほしい。",
+   "questions": [
+    {
+     "q": "新{あたら}しいポイント制度{せいど}を導入{どうにゅう}した背景{はいけい}には、どのような混乱{こんらん}があったか。",
+     "c": [
+      "紙のカードを失くす客が多く、来店回数を係が覚えていないと確かめられなかったこと。",
+      "アプリの記録が頻繁に消えてしまうこと。",
+      "紙のカードの印刷費が急に高くなったこと。",
+      "客の多くがポイント制度そのものを知らなかったこと。"
+     ],
+     "a": 0,
+     "ev": "紙のカードを失くしてしまう客が目立ち、来店の回数を受付の係が覚えていないと確かめられないという混乱があった",
+     "why": "The notice names the confusion as customers losing their paper cards and staff having no way to confirm visit counts from memory.",
+     "ng": [
+      "",
+      "The app's records vanishing is not mentioned.",
+      "Printing cost is not given as the reason.",
+      "Not knowing about the program is not the stated confusion."
+     ]
+    },
+    {
+     "q": "紙のカードとアプリの記録が一致しているか不安な人は、どうすればよいか。",
+     "c": [
+      "いつでも会員番号から確かめられる。",
+      "一度アプリに登録すると、二度と確かめられない。",
+      "紙のカードを店に預けなければ確かめられない。",
+      "次の来店まで待たなければ確かめられない。"
+     ],
+     "a": 0,
+     "ev": "紙のカードとアプリの記録が一致しているか不安な人は、いつでも会員番号から確かめられるので、遠慮なく相談してほしい",
+     "why": "The notice invites anyone unsure whether the two records match to check anytime via their member number.",
+     "ng": [
+      "",
+      "The notice does not say the check is a one-time-only option.",
+      "Checking is not described as requiring the physical card to be left at the shop.",
+      "Checking is available anytime, not only on the next visit."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "併用",
+     "へいよう",
+     "using together; combined use"
+    ],
+    [
+     "加算",
+     "かさん",
+     "adding (to a count)"
+    ],
+    [
+     "慎重",
+     "しんちょう",
+     "cautious"
+    ]
+   ]
+  }
+ ]
+}
