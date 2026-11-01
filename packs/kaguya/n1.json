@@ -1,0 +1,113 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "随筆{ずいひつ}（のばら家具{かぐ}シリーズ）",
+   "title": "効率{こうりつ}と丁寧{ていねい}さ",
+   "lead": "組{く}み立{た}て式{しき}の量産{りょうさん}家具{かぐ}が広{ひろ}がるなかで、店主{てんしゅ}が考{かんが}え続{つづ}けていること。",
+   "text": "全国的に家具店の数が減るなかで、注文に合わせて一つずつ仕上げる店は少なくなりつつある。多くの店は組み立て式の量産品に重心を移し、価格の安さで存続を図っている。\nのばら家具の店主は、量産化を否定しない。だが、注文の際に生まれる客とのやり取りまで省略することには、慎重であるべきだと考えている。\n店主が今も考え続けているのは、効率と丁寧さを対立するものとしてではなく、支え合うものとして捉え直せるかどうか、という一点に尽きる。",
+   "questions": [
+    {
+     "q": "店主が今も考え続けていることは何か。",
+     "c": [
+      "効率と丁寧さを、対立するものではなく支え合うものとして捉え直せるかどうか。",
+      "量産化をやめて、昔のやり方にすべて戻すこと。",
+      "効率を何よりも優先し、注文の数をとにかく増やすことだけを考える方法。",
+      "効率化は、店の存続のために完全に避けるべきだと考えている。"
+     ],
+     "a": 0,
+     "ev": "効率と丁寧さを対立するものとしてではなく、支え合うものとして捉え直せるかどうか、という一点に尽きる",
+     "why": "The passage frames the owner's ongoing question as reconceiving efficiency and care as mutually supporting rather than opposing.",
+     "ng": [
+      "",
+      "The passage does not say the owner wants to undo all the mass-production shift.",
+      "Maximizing order volume further is not described as the owner's concern.",
+      "The owner does not reject efficiency outright."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "効率",
+     "こうりつ",
+     "efficiency"
+    ],
+    [
+     "丁寧",
+     "ていねい",
+     "careful; polite"
+    ],
+    [
+     "捉え直す",
+     "とらえなおす",
+     "to reframe; reconsider"
+    ]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告{ほうこく}（のばら家具{かぐ}シリーズ）",
+   "title": "創業{そうぎょう}四十周年{よんじゅうしゅうねん}の報告{ほうこく}",
+   "lead": "のばら家具の、創業四十年の歩みを数字でまとめた報告。",
+   "text": "のばら家具は本年、創業から四十年を迎えた。この機会に、これまでの歩みを数字でまとめて報告する。\n【客数の変化】\n創業当初、一日の来客数はおおむね二十人前後だったと伝えられている。その後、周辺の人口が増えるにつれて来客数は伸び続け、十五年前には一日あたり四十人を超える時期もあった。近年は大型の量販店に通う客も増えたことから来客数はやや減ったが、修理や調整を求める客層の広がりもあり、一日の来客数は二十五人前後で安定している。\n【設備の変遷】\n創業時は手作業で家具を組み立てていたが、二十年前に電動工具を使った作業へ切り替えた。十年前には紙の注文帳からアプリ予約へ移行し、昨年には配送用のトラックを新しいものに入れ替えた。店の看板は創業時から数えて二代目にあたり、十年ほど前に塗り直している。展示用の棚や照明も、壊れるたびに少しずつ新しいものへ入れ替えてきた。\n【従業員の変化】\n創業時は店主一人で運営していたが、客数の増加に合わせてアルバイトを雇うようになった。現在は店主のほかに、アルバイトを含めて四人で運営しており、学生から定年後の人まで年齢の幅も広い。\n【今後の方針】\n店主は、設備の更新は続けながらも、一つひとつの注文に時間をかけて向き合う形は変えない方針を明らかにしている。数字だけを見れば量産品のほうが効率的だが、注文の際の会話を失いたくないという判断によるものだという。五十周年に向けては、店主自身の後継者をどう育てるかが課題になるとみている。",
+   "questions": [
+    {
+     "q": "創業当初と比べて、一日の来客数はどのように変化してきたか。",
+     "c": [
+      "人口が増えるにつれて伸び、その後やや減って二十五人前後で安定している。",
+      "創業当初から今まで、来客数はほとんど変化せずに安定している。",
+      "創業当初よりも、今のほうがずっと少ない。",
+      "創業当初から一度も減ったことがない。"
+     ],
+     "a": 0,
+     "ev": "来客数は伸び続け、十五年前には一日あたり四十人を超える時期もあった。近年は大型の量販店に通う客も増えたことから来客数はやや減ったが",
+     "why": "The report traces a rise, then a slight decline, settling around 25 customers a day.",
+     "ng": [
+      "",
+      "The report describes several shifts, not a flat line.",
+      "Today's count is lower than the 15-years-ago peak but not simply lower than the opening years.",
+      "A slight decline after the peak is described."
+     ]
+    },
+    {
+     "q": "今後の方針について、店主はどのように考えているか。",
+     "c": [
+      "設備は更新を続けるが、一つひとつの注文に時間をかける形は変えない。",
+      "量産品の割合をさらに増やして、効率を最優先にする。",
+      "今後は設備の更新をやめて、今のままの状態を維持する方針である。",
+      "後継者を育てることは、特に考えていない。"
+     ],
+     "a": 0,
+     "ev": "設備の更新は続けながらも、一つひとつの注文に時間をかけて向き合う形は変えない方針を明らかにしている",
+     "why": "The owner plans to keep updating equipment while keeping the unhurried, order-by-order approach.",
+     "ng": [
+      "",
+      "The report does not say efficiency is being prioritized above all else.",
+      "Equipment updates are explicitly continuing.",
+      "Training a successor is named as the upcoming challenge."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "創業",
+     "そうぎょう",
+     "founding (of a business)"
+    ],
+    [
+     "後継者",
+     "こうけいしゃ",
+     "successor"
+    ],
+    [
+     "安定",
+     "あんてい",
+     "stability"
+    ]
+   ]
+  }
+ ]
+}
