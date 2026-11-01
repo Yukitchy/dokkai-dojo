@@ -1,0 +1,81 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（弁当屋シリーズ）",
+   "title": "試食会付きの開放を導入したゆたか弁当の変化",
+   "lead": "試食会付きの厨房開放を導入したゆたか弁当では、どんな議論があったのだろうか。",
+   "text": "最近、地元の食材を使っていることを公開する弁当屋が増えている。産地を明示したシールを容器に貼ることで、安心感を売りにする店が多い。\n一方で、ゆたか弁当のような個人経営の店にとっては、産地を調べて記録する準備にコストがかかるため、導入をためらう傾向がある。実際、ゆたか弁当でも、こうした取り組みをするかどうか、長い間議論が続いた。\n最終的には、常連客の多くが仕込みの様子を見てみたいという声を寄せていたことがわかり、月に一度の試食会という形で厨房を開放することに踏み切った。小さな店にとって、こうした判断は簡単なものではない。",
+   "questions": [
+    {
+     "q": "ゆたか弁当が試食会という形で厨房を開放することに踏み切った、最終的な理由は何か。",
+     "c": [
+      "常連客の多くが仕込みの様子を見てみたいという声を寄せていたことがわかったから。",
+      "産地を調べて記録する準備のコストがまったくかからないとわかったから。",
+      "商店街にある他の弁当屋が、すべて同じ取り組みを一斉に始めていたから。",
+      "試食会を完全に禁止することにしたから。"
+     ],
+     "a": 0,
+     "ev": "常連客の多くが仕込みの様子を見てみたいという声を寄せていたことがわかり",
+     "why": "The deciding factor given is that many regular customers had expressed wanting to see the food-prep process.",
+     "ng": [
+      "",
+      "The passage says cost is a reason stores hesitate, not that cost turned out to be zero.",
+      "The passage does not say every other bento shop started the same effort.",
+      "The shop opened the kitchen rather than banning tasting events."
+     ]
+    }
+   ],
+   "words": []
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（弁当屋シリーズ）",
+   "title": "紙カード＋アプリのハイブリッド会員制度のご案内",
+   "lead": "紙のスタンプカードとアプリを併用する新しい会員制度を見てみよう。",
+   "text": "ゆたか弁当　紙カード＋アプリのハイブリッド会員制度のご案内\nこれまで紙のスタンプカードだけで運営していた会員制度に、今月からアプリでの管理機能を加える。背景には、紙のカードをなくしてしまう客が多く、スタンプの数を店員が覚えていないと確認できないという混乱があった。\n一方で、高齢の常連客の中には、アプリの操作に不安を感じる人も少なくない。そのため、紙のカードを完全に廃止するのではなく、両方を併用できる仕組みにした。\n【スタンプの加算】\n紙のカードにスタンプを押してもらうか、アプリにレシートの番号を入力すると、どちらでも同じポイントが加算される。\n【アレルギー情報の登録】\nアプリに原材料の情報を登録しておくと、注文のたびに心配な原材料が入っていないか自動で確認できる。紙のカードだけを使う客は、これまでと同じように、注文時に店員へ直接確認する。\n【切り替えの時期】\n当面は両方の方式を併用し、利用状況を見たうえで、将来的な一本化を検討する。店としては、効率化を急ぎすぎて、長年の常連客を置いていくことがないよう、慎重に進めたいと考えている。\n【問い合わせ】\nアプリの操作がわからない場合は、レジの横に置いてある説明用紙を見るか、店員に直接声をかけてほしい。紙のカードとアプリのポイントが一致しているか不安な人は、いつでもレシートの番号から確認できるので、遠慮なく相談してほしい。",
+   "questions": [
+    {
+     "q": "今月からアプリでの管理機能を加えた背景として、正しいものはどれか。",
+     "c": [
+      "紙のカードをなくしてしまう客が多く、スタンプの数を確認できない混乱があったから。",
+      "紙のカードの材料が手に入らなくなったから。",
+      "すべての常連客がアプリの導入を強く求めたから。",
+      "紙のカードを使う制度そのものを、来年までに完全にやめることが既に決まっていたから。"
+     ],
+     "a": 0,
+     "ev": "紙のカードをなくしてしまう客が多く、スタンプの数を店員が覚えていないと確認できないという混乱があった",
+     "why": "The background given is confusion from customers losing their paper cards, making point counts unverifiable.",
+     "ng": [
+      "",
+      "A shortage of card materials is not mentioned.",
+      "The passage does not say all regular customers strongly demanded the app.",
+      "The plan keeps both systems rather than ending the paper one."
+     ]
+    },
+    {
+     "q": "アレルギー情報の確認について、正しいものはどれか。",
+     "c": [
+      "アプリに原材料の情報を登録しておくと、注文のたびに自動で確認できる。",
+      "紙のカードを使う客は、アレルギー情報を確認する方法がなくなった。",
+      "アレルギー情報は、月に一度の店頭確認のときしか確認できない。",
+      "アプリに登録しなくても、全員自動で確認される。"
+     ],
+     "a": 0,
+     "ev": "アプリに原材料の情報を登録しておくと、注文のたびに心配な原材料が入っていないか自動で確認できる",
+     "why": "Registering ingredient information in the app lets each order be checked automatically.",
+     "ng": [
+      "",
+      "Paper-card customers still confirm directly with staff, so the option is not gone.",
+      "No monthly limit on checking is mentioned.",
+      "Automatic checking requires registering the information in the app first."
+     ]
+    }
+   ],
+   "words": []
+  }
+ ]
+}
