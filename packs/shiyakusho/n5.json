@@ -1,0 +1,122 @@
+{
+ "level": "n5",
+ "passages": [
+  {
+   "id": "n5-01",
+   "type": "short",
+   "genre": "お知{し}らせ（みなみ市役所{しやくしょ}シリーズ）",
+   "title": "受付{うけつけ}の休{やす}みの日{ひ}の変更{へんこう}",
+   "lead": "みなみ市役所{しやくしょ}で、休{やす}みの日{ひ}が変{か}わります。",
+   "text": "「お知{し}らせ」\n来月{らいげつ}から、休{やす}みの日{ひ}が変{か}わります。今{いま}は毎週{まいしゅう}水曜日{すいようび}が休{やす}みですが、来月{らいげつ}からは毎週{まいしゅう}木曜日{もくようび}になります。受付{うけつけ}の時間{じかん}は変{か}わりません。",
+   "questions": [
+    {
+     "q": "休{やす}みの日{ひ}について、正{ただ}しいものはどれですか。",
+     "c": [
+      "来月{らいげつ}から、休{やす}みの日{ひ}は毎週{まいしゅう}木曜日{もくようび}になる。",
+      "休{やす}みの日{ひ}は今{いま}のまま、毎週{まいしゅう}水曜日{すいようび}である。",
+      "受付{うけつけ}の時間{じかん}も変{か}わる。",
+      "来月{らいげつ}から、休{やす}みの日{ひ}はなくなる。"
+     ],
+     "a": 0,
+     "ev": "来月からは毎週木曜日になります",
+     "why": "The notice says that starting next month, the city hall's day off changes from every Wednesday to every Thursday.",
+     "ng": [
+      "",
+      "The current day off is Wednesday, but from next month it changes to Thursday.",
+      "The notice says the reception hours do not change.",
+      "The notice is about a change in the day off, not about removing it."
+     ]
+    }
+   ],
+   "words": [
+    ["休み", "やすみ", "day off; holiday"],
+    ["変わる", "かわる", "to change"],
+    ["受付", "うけつけ", "reception; front desk"]
+   ]
+  },
+  {
+   "id": "n5-02",
+   "type": "mid",
+   "genre": "日記{にっき}（みなみ市役所{しやくしょ}シリーズ）",
+   "title": "はじめて市役所{しやくしょ}で住民票{じゅうみんひょう}をもらった日{ひ}",
+   "lead": "きょう、はじめてみなみ市役所{しやくしょ}へ行{い}きました。どんな一日{いちにち}だったでしょうか。",
+   "text": "十月{じゅうがつ}二十日{はつか}（火曜日{かようび}）\nきょう、はじめてみなみ市役所{しやくしょ}へ行{い}きました。朝{あさ}十時{じゅうじ}に市役所{しやくしょ}に着{つ}いて、受付{うけつけ}の人{ひと}に「住民票{じゅうみんひょう}が欲{ほ}しいです」と話{はな}しました。\n受付{うけつけ}の人{ひと}はとてもしんせつでした。「はじめてですか。どの住民票{じゅうみんひょう}にしたいですか」と聞{き}いてくれました。\nさいしょはうまく説明{せつめい}できなくて、どの種類{しゅるい}がいいかわかりませんでした。それから、受付{うけつけ}の人{ひと}が紙{かみ}を見{み}せてくれて、少{すこ}しずつ決{き}めることができました。\nさいごに、きれいな住民票{じゅうみんひょう}をもらって、とてもうれしかったです。帰{かえ}るとき、受付{うけつけ}の人{ひと}が「また来{き}てくださいね」と言{い}ってくれました。\n家{いえ}に着{つ}いてから、すぐに住民票{じゅうみんひょう}を見{み}ました。来月{らいげつ}は、別{べつ}の紙{かみ}ももらいたいです。",
+   "questions": [
+    {
+     "q": "「わたし」は、何{なに}をしに、みなみ市役所{しやくしょ}へ行{い}きましたか。",
+     "c": [
+      "住民票{じゅうみんひょう}をもらいに行{い}った。",
+      "切手{きって}を買{か}いに行{い}った。",
+      "紙{かみ}を売{う}りに行{い}った。",
+      "友{とも}だちに会{あ}いに行{い}った。"
+     ],
+     "a": 0,
+     "ev": "住民票が欲しいです",
+     "why": "The diary says the person went to Minami City Hall for the first time to get a resident certificate.",
+     "ng": [
+      "",
+      "Buying stamps is not mentioned.",
+      "Selling paper is not mentioned.",
+      "Meeting a friend is not mentioned."
+     ]
+    },
+    {
+     "q": "「わたし」は、どの種類{しゅるい}がいいかわからなかったあと、どうなりましたか。",
+     "c": [
+      "受付{うけつけ}の人{ひと}が紙{かみ}を見{み}せてくれて、少{すこ}しずつ決{き}めることができた。",
+      "すぐに住民票{じゅうみんひょう}をもらうのをやめた。",
+      "受付{うけつけ}の人{ひと}に新{あたら}しい紙{かみ}を買{か}ってもらった。",
+      "一{ひと}りで何{なん}回{かい}も考{かんが}えて、すぐに決{き}められた。"
+     ],
+     "a": 0,
+     "ev": "受付の人が紙を見せてくれて、少しずつ決めることができました",
+     "why": "After struggling to choose the kind of certificate, the receptionist showed papers and little by little the person was able to decide.",
+     "ng": [
+      "",
+      "The diary does not say the person immediately gave up on getting the certificate.",
+      "The diary does not mention being bought new paper.",
+      "The diary says the receptionist helped, not that the person decided alone."
+     ]
+    }
+   ],
+   "words": [
+    ["種類", "しゅるい", "kind; type"],
+    ["決める", "きめる", "to decide"],
+    ["別", "べつ", "different; another"]
+   ]
+  },
+  {
+   "id": "n5-03",
+   "type": "info",
+   "genre": "案内{あんない}（みなみ市役所{しやくしょ}シリーズ）",
+   "title": "住民票{じゅうみんひょう}をとるときの料金{りょうきん}",
+   "lead": "みなみ市役所{しやくしょ}の、住民票{じゅうみんひょう}をとるときの料金{りょうきん}を見{み}てみましょう。",
+   "text": "みなみ市役所{しやくしょ}　住民票{じゅうみんひょう}をとるときの料金{りょうきん}\n【種類{しゅるい}と料金{りょうきん}】\n一人{ひとり}分{ぶん}　一回{いっかい}二百円{にひゃくえん}\n家族{かぞく}分{ぶん}　一回{いっかい}三百円{さんびゃくえん}\n全部{ぜんぶ}の記録{きろく}　一回{いっかい}四百円{よんひゃくえん}\n【お知{し}らせ】\n会員{かいいん}カードを持{も}っている人{ひと}は、どの種類{しゅるい}も三十円{さんじゅうえん}安{やす}くなります。受付{うけつけ}でカードを見{み}せてください。\n市役所{しやくしょ}は、月曜日{げつようび}から土曜日{どようび}の午前{ごぜん}九時{くじ}から午後{ごご}五時{ごじ}まで開{あ}いています。日曜日{にちようび}と祝日{しゅくじつ}は休{やす}みです。\n住民票{じゅうみんひょう}をもらう前{まえ}に、受付{うけつけ}で名前{なまえ}を書{か}いてください。予約{よやく}はいりません。",
+   "questions": [
+    {
+     "q": "会員{かいいん}カードを持{も}っている人{ひと}が家族{かぞく}分{ぶん}の住民票{じゅうみんひょう}をもらうとき、料金{りょうきん}はいくらですか。",
+     "c": [
+      "二百七十円{にひゃくななじゅうえん}",
+      "三百円{さんびゃくえん}",
+      "四百円{よんひゃくえん}",
+      "二百円{にひゃくえん}"
+     ],
+     "a": 0,
+     "ev": "どの種類も三十円安くなります",
+     "why": "A family-share certificate is 300 yen, and members with a card get 30 yen off any type, so it is 270 yen for a member.",
+     "ng": [
+      "",
+      "300 yen is the regular price for a family-share certificate, not the member price.",
+      "400 yen is the price of the full-record certificate, not the family-share one.",
+      "200 yen is the price of a one-person certificate, not the family-share one."
+     ]
+    }
+   ],
+   "words": [
+    ["市役所", "しやくしょ", "city hall"],
+    ["料金", "りょうきん", "fee; charge"],
+    ["予約", "よやく", "reservation"]
+   ]
+  }
+ ]
+}
