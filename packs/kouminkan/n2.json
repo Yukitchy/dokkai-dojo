@@ -1,0 +1,113 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（ことぶき公民館{こうみんかん}シリーズ）",
+   "title": "公民館{こうみんかん}の役割{やくわり}が変わってきたことについて",
+   "lead": "ことぶき公民館{こうみんかん}のような施設に求められる役割が、どう変わってきたのだろうか。",
+   "text": "公民館{こうみんかん}はもともと、地域の人々が教養や趣味を学ぶ場として作られた。しかしことぶき公民館{こうみんかん}のような施設に求められる役割は、近年それだけにとどまらなくなってきている。\n一人暮らしの高齢者が増えるにともない、孤立{こりつ}を防ぐ場としての役割が、以前より重視されるようになったことは大きい。近所づきあいが薄くなるにもかかわらず、世代を超えて顔を合わせる場は限られている。公民館は、その数少ない場の一つになっているのだ。\n単に「教室に通う場所」ではなく「つながりを保つ場所」として公民館をとらえ直すことが、今、求められているのではないだろうか。",
+   "questions": [
+    {
+     "q": "この文章で筆者が最も伝えたいことは何か。",
+     "c": [
+      "公民館を、教室に通う場所ではなく、つながりを保つ場所としてとらえ直すべきだということ。",
+      "公民館は、教養や趣味の教室だけに力を入れるべきだということ。",
+      "一人暮らしの高齢者は、公民館を利用しないほうがいいということ。",
+      "世代を超えて顔を合わせる場は、すでに十分にあるということ。"
+     ],
+     "a": 0,
+     "ev": "単に「教室に通う場所」ではなく「つながりを保つ場所」として公民館をとらえ直すことが、今、求められているのではないだろうか",
+     "why": "The writer's main point is that community centers should be reconsidered not as places to attend classes, but as places to maintain connections.",
+     "ng": [
+      "",
+      "The writer argues the opposite — that classes alone are no longer enough.",
+      "The passage discusses elderly residents being isolated, not discouraged from using the center.",
+      "The passage says such places are limited, not sufficient."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "孤立{こりつ}",
+     "こりつ",
+     "isolation"
+    ],
+    [
+     "高齢者{こうれいしゃ}",
+     "こうれいしゃ",
+     "elderly person"
+    ],
+    [
+     "世代{せだい}",
+     "せだい",
+     "generation"
+    ]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（ことぶき公民館{こうみんかん}シリーズ）",
+   "title": "ことぶき公民館{こうみんかん}の運営規則{うんえいきそく}についてのご案内",
+   "lead": "ことぶき公民館{こうみんかん}の運営規則の改定についての、利用者向けの案内である。",
+   "text": "利用者の皆様へ\n\nこのたび、ことぶき公民館{こうみんかん}の運営規則を一部改定いたしましたので、下記の通りご案内いたします。今回の改定は、利用者数の増加にともない、安全な運営を続けるために必要な見直しとして行うものです。\n\n一、部屋の予約方法について\nこれまで電話と窓口のみで受け付けていましたが、今回から、区のウェブサイトからも予約できるようになります。電話での予約を希望する場合は、引き続き受付で対応いたします。\n\n二、キャンセルの連絡について\n予約した部屋を使わなくなった場合は、利用予定日の前日午後五時までに、電話またはウェブサイトの連絡フォームでお知らせください。連絡がないキャンセルが続く場合、次回以降の予約をお断りすることがあります。\n\n三、緊急時の対応について\n地震や火事などの緊急時には、公民館の判断で、利用者の同意を待たず、近隣の避難{ひなん}場所へ案内することがあります。避難{ひなん}先は、後日、館内の掲示板{けいじばん}でお知らせします。\n\n四、個人情報の取り扱いについて\n予約申請に記入いただいた情報は、公民館の運営にのみ使用し、ほかの目的には使用いたしません。\n\n五、開館時間の変更について\n今回の改定にともない、土曜日の開館時間を午前九時から午後五時までに変更します。これまでより三十分早く開館しますので、ご確認ください。\n\nご不明な点がございましたら、受付までお問い合わせください。今後とも、ことぶき公民館をよろしくお願いいたします。",
+   "questions": [
+    {
+     "q": "部屋の予約方法について、今回の改定で新しくできるようになったことは何か。",
+     "c": [
+      "区のウェブサイトから予約できるようになったこと。",
+      "電話での予約が廃止されたこと。",
+      "窓口でしか予約できなくなったこと。",
+      "予約そのものが不要になったこと。"
+     ],
+     "a": 0,
+     "ev": "今回から、区のウェブサイトからも予約できるようになります",
+     "why": "The notice says reservations can now also be made through the ward's website.",
+     "ng": [
+      "",
+      "The notice says phone reservations continue to be handled at reception.",
+      "The notice adds an option; it does not restrict reservations to the counter only.",
+      "Reservations are still required."
+     ]
+    },
+    {
+     "q": "キャンセルの連絡について、この案内の内容と合っているのはどれか。",
+     "c": [
+      "連絡がないキャンセルが続くと、次回以降の予約を断られることがある。",
+      "キャンセルの連絡は、いつでも好きなときにしてよい。",
+      "キャンセルしても、特に問題にはならない。",
+      "キャンセルの連絡は、利用当日にすればよい。"
+     ],
+     "a": 0,
+     "ev": "連絡がないキャンセルが続く場合、次回以降の予約をお断りすることがあります",
+     "why": "The notice states that repeated no-notice cancellations may result in future reservations being refused.",
+     "ng": [
+      "",
+      "The notice sets a deadline of the day before by 5pm, not any time.",
+      "Repeated unnotified cancellations can lead to refused future reservations.",
+      "The deadline is the day before, not the day of use."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "改定{かいてい}",
+     "かいてい",
+     "revision"
+    ],
+    [
+     "避難{ひなん}",
+     "ひなん",
+     "evacuation"
+    ],
+    [
+     "掲示板{けいじばん}",
+     "けいじばん",
+     "bulletin board"
+    ]
+   ]
+  }
+ ]
+}

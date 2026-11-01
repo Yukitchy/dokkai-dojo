@@ -1,0 +1,113 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "コラム（ことぶき公民館{こうみんかん}シリーズ）",
+   "title": "公民館という場所に積み重ねられる時間の意味",
+   "lead": "ことぶき公民館{こうみんかん}の掲示{けいじ}板{ばん}に貼られ続けている古い作品から考える、場所に積み重ねられる時間についての文章である。",
+   "text": "ことぶき公民館{こうみんかん}の掲示{けいじ}板{ばん}には、三十年近く前に開かれた書道教室の優秀作品が、色褪{いろあ}せたまま貼られ続けている。\n場所にも予算にも限りがある以上、残しておくことは効率的とは言いがたい。それでも歴代の館長たちは、剥{は}がすことをためらい続けてきた。\nかつて生徒として通っていた人が、やがて講師として戻ってくる。その循環{じゅんかん}のなかで、公民館という場所自体が、血のつながりを超えた時間の厚みを帯{お}びていく。数字には表れないその価値を、簡単に切{き}り捨{す}てたくはない。",
+   "questions": [
+    {
+     "q": "この文章で筆者が最も伝えたいことは何か。",
+     "c": [
+      "講師として戻ってくる循環{じゅんかん}のなかで積み重なる時間には、数字に表れない価値があるということ。",
+      "色褪{いろあ}せた作品は、場所や予算に限りがあるので、すぐに剥{は}がすべきだということ。",
+      "公民館の予算をもっと増やして、古い作品もすべて新しいものに入れ替えるべきだということ。",
+      "かつての生徒は、講師にはならず、公民館には二度と戻ってこないということ。"
+     ],
+     "a": 0,
+     "ev": "数字には表れないその価値を、簡単に切り捨てたくはない",
+     "why": "The writer's main point is that the time accumulated through the cycle of former students returning as instructors carries a value that doesn't show up in numbers.",
+     "ng": [
+      "",
+      "The passage describes directors resisting removal, not arguing for quick removal.",
+      "Increasing the budget to replace old works is not the writer's point.",
+      "The passage describes a former student returning as an instructor, the opposite of never returning."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "循環{じゅんかん}",
+     "じゅんかん",
+     "cycle/circulation"
+    ],
+    [
+     "帯{お}びる",
+     "おびる",
+     "to take on/carry (a quality)"
+    ],
+    [
+     "切{き}り捨{す}てる",
+     "きりすてる",
+     "to discard/cast aside"
+    ]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告書{ほうこくしょ}（ことぶき公民館{こうみんかん}シリーズ）",
+   "title": "地域高齢者見守りネットワークとの一年間の協力報告",
+   "lead": "ことぶき公民館{こうみんかん}が、昨年から参加している地域高齢者見守りネットワークの、一年間の報告である。",
+   "text": "ことぶき公民館{こうみんかん}　地域高齢者見守りネットワークとの一年間の協力報告\n\n一、連携の背景\nことぶき公民館は、昨年四月より、地域高齢者見守りネットワーク（近隣の診療所、地域包括支援センター、民生委員で構成）に加盟し、情報共有と相互支援の体制を整えてきた。単独の施設では気づきにくい高齢者の変化を、複数の目で見守ることを目的としている。\n\n二、主な取り組み\n月に一度、構成団体の担当者が集まり、支援が必要と思われる高齢者について情報を共有する会議を開いた。会議では個人を特定できる情報の扱いに注意し、守秘{しゅひ}義務{ぎむ}を徹底した。また、民生委員と連携し、公民館を長期間利用していない高齢者への声かけを行った。\n\n三、見えてきた成果\nこの一年で、会議を通じて把握した高齢者のうち、四件については、地域包括支援センターや診療所と連携することで、早期に支援につなげることができた。単独の施設だけでは見過{みす}ごしていた可能性が高い事例も含まれている。\n\n四、今後の課題\n一方で、会議の開催時間が平日の日中に限られており、働く家族本人の参加は難しい。また、情報共有の範囲をどこまで広げるべきか、構成団体の間で判断が分かれる場面もあった。情報を共有しすぎれば本人の負担になり、慎重になりすぎれば必要な支援が遅れる。その線引{せんび}きは、まだ定まっていない。\n\n五、来年度の計画\n来年度は、会議の開催時間を増やし、平日の夜間にも一回設けることを検討している。また、情報共有の範囲については、構成団体で統一した基準を一つ作ることを目指し、改めて協議する予定である。",
+   "questions": [
+    {
+     "q": "この一年の取り組みの成果として、報告書に挙げられているのはどれか。",
+     "c": [
+      "構成団体の担当者が、毎週会議を開くようになったこと。",
+      "会議を通じて把握した高齢者のうち、四件を早期の支援につなげられたこと。",
+      "すべての家族が、会議に直接参加できるようになったこと。",
+      "情報共有の範囲について、構成団体の判断が完全に一致したこと。"
+     ],
+     "a": 1,
+     "ev": "四件については、地域包括支援センターや診療所と連携することで、早期に支援につなげることができた",
+     "why": "The report lists, as an achievement, connecting four elderly residents to early support through cooperation with the support center and clinics.",
+     "ng": [
+      "The report describes monthly meetings, not weekly ones.",
+      "",
+      "The report says daytime meetings make it hard for working family members to attend directly.",
+      "The report says judgment on how far to share information differed among groups, not that it was fully unified."
+     ]
+    },
+    {
+     "q": "今後の課題として、報告書に挙げられているのはどれか。",
+     "c": [
+      "会議の開催時間が平日の日中に限られ、働く家族本人が参加しにくいこと。",
+      "公民館を利用する高齢者の数が減り続けていること。",
+      "民生委員との連携が、制度上禁止されていること。",
+      "情報共有の範囲について、構成団体の間で意見が一度も分かれなかったこと。"
+     ],
+     "a": 0,
+     "ev": "会議の開催時間が平日の日中に限られており、働く家族本人の参加は難しい",
+     "why": "The report raises, as a challenge, that meetings are held only during weekday daytime hours, making it hard for working family members themselves to attend.",
+     "ng": [
+      "",
+      "A decline in the number of elderly users is not mentioned.",
+      "Cooperation with welfare commissioners is described as ongoing, not prohibited.",
+      "The report says judgment differed among the groups, so this is the opposite of what is stated."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "守秘{しゅひ}義務{ぎむ}",
+     "しゅひぎむ",
+     "duty of confidentiality"
+    ],
+    [
+     "見過{みす}ごす",
+     "みすごす",
+     "to overlook"
+    ],
+    [
+     "線引{せんび}き",
+     "せんびき",
+     "drawing the line/setting a boundary"
+    ]
+   ]
+  }
+ ]
+}
