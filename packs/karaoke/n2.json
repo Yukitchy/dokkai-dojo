@@ -1,0 +1,113 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（うたの泉シリーズ）",
+   "title": "カラオケルームの動画をSNSに載せてよいか",
+   "lead": "一人で歌う「ひとりカラオケ」を楽しむ人が増える中、動画をSNSに載せることについて、常連の間で意見が分かれている。",
+   "text": "うたの泉を訪れる一人カラオケの客が増え、自分の歌う様子をSNSに載せる人が目立つようになった。店としては、多くの人に興味を持ってもらえるのはありがたいが、常連客の中には「背景に映る他の客の顔が知らない人に見られるのは落ち着かない」と感じる人もいる。\nそこで店は、自分の歌う動画は自由に撮ってよいが、他の客の顔が映った場合はぼかすか角度を変えて撮るよう頼む張り紙を掲示した。一人カラオケを楽しむ自由と、他の客への配慮の両方を大切にしたいという店長の考えが背景にある。",
+   "questions": [
+    {
+     "q": "うたの泉が張り紙で決めたことは何ですか。",
+     "c": [
+      "一人カラオケの客の入店を禁止する。",
+      "動画の撮影を、完全に禁止する。",
+      "自分の歌う動画は自由に撮ってよいが、他の客の顔が映った場合はぼかすか角度を変えて撮ってほしい。",
+      "動画を撮った人から、その場でお金を取る。"
+     ],
+     "a": 2,
+     "ev": "自分の歌う動画は自由に撮ってよいが、他の客の顔が映った場合はぼかすか角度を変えて撮るよう頼む",
+     "why": "The column states the shop's notice allows free filming of one's own singing but asks visitors to blur or reangle the shot when another customer's face appears.",
+     "ng": [
+      "Solo karaoke customers themselves are not banned.",
+      "Not all filming is banned, only shots capturing other customers are addressed.",
+      "",
+      "Charging money for filming is not mentioned."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "常連客",
+     "じょうれんきゃく",
+     "regular customer"
+    ],
+    [
+     "配慮",
+     "はいりょ",
+     "consideration"
+    ],
+    [
+     "掲示",
+     "けいじ",
+     "posting/notice"
+    ]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（うたの泉シリーズ）",
+   "title": "会員カードの記録とお知らせについて",
+   "lead": "うたの泉の、会員カードの記録とお知らせの仕組みを見てみましょう。",
+   "text": "うたの泉　会員カードの記録とお知らせについて\n【会員カードの記録】\n会員の好きな曲のジャンルや予約の履歴は、紙の記録表と、店のシステムの両方に記録しています。紙の記録表は開店当時から続くもので、古い記録を調べるときに使います。システムの記録は、キャンペーンのお知らせを送るために使います。二つの記録は、毎月一回、内容が合っているかを確認しています。\n【お知らせ】\n誕生日や、よく利用する曜日のキャンペーンが近づくと、登録している電話番号にお知らせの連絡をします。メールでのお知らせも選べます。キャンペーンの種類によって、一か月前と一週間前の二回に分けてお知らせすることもあります。\n【登録の仕方】\n受付で申込書に記入すると、紙とシステムの両方に記録されます。すでに紙の記録表にだけ記録されている方は、システムへの登録を受付で追加できます。登録には、連絡先の確認をお願いすることがあります。\n【お願い】\n電話番号やメールアドレスが変わったときは、早めに受付へご連絡ください。連絡先が古いままだと、お知らせが届きません。\n紙の記録表は、火事や水害に備えて、別の場所にも控えを保管しています。控えの更新は、毎年一回、店長が確認した上で行っています。\n【閲覧について】\n自分の記録を見たい方は、受付で本人であることを確かめたうえで、記録表のコピーをお見せします。他の方の記録は、見ることができません。",
+   "questions": [
+    {
+     "q": "キャンペーンのお知らせは、どのように送られますか。",
+     "c": [
+      "登録している電話番号やメールアドレスに送られる。",
+      "お知らせは、どの方法を使っても送られない。",
+      "毎年、紙の手紙だけで、必ず全員に送られる。",
+      "店長が会員の家まで来て、口頭で直接伝える。"
+     ],
+     "a": 0,
+     "ev": "登録している電話番号にお知らせの連絡をします",
+     "why": "Notices are sent to the registered phone number, with email also available as an option.",
+     "ng": [
+      "",
+      "Notices are sent, not withheld.",
+      "Notices are not limited to an annual paper letter.",
+      "The manager visiting homes in person is not mentioned."
+     ]
+    },
+    {
+     "q": "紙の記録表について、正しいものはどれですか。",
+     "c": [
+      "開店当時にすべて処分された。",
+      "会員であっても受付では見ることができない。",
+      "システムに記録された人は、紙の記録表から必ず消される。",
+      "火事や水害に備えて、別の場所にも控えが保管されている。"
+     ],
+     "a": 3,
+     "ev": "別の場所にも控えを保管しています",
+     "why": "A backup copy of the paper record sheet is kept at another location in case of fire or flood.",
+     "ng": [
+      "The sheet has continued since opening, not been disposed of.",
+      "The sheet is kept at the reception, not hidden from view.",
+      "Being recorded in the system does not remove someone from the paper sheet.",
+      ""
+     ]
+    }
+   ],
+   "words": [
+    [
+     "履歴",
+     "りれき",
+     "history (of usage)"
+    ],
+    [
+     "控え",
+     "ひかえ",
+     "backup copy"
+    ],
+    [
+     "閲覧",
+     "えつらん",
+     "viewing/perusal"
+    ]
+   ]
+  }
+ ]
+}

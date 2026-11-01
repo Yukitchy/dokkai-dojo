@@ -1,0 +1,113 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "随筆（うたの泉シリーズ）",
+   "title": "常連の宴会客と一人カラオケ客の間で",
+   "lead": "外国人観光客も訪れる中、うたの泉はどのように賑やかさと静けさの両方を守っているのか。",
+   "text": "うたの泉に一人カラオケの客が増えたのは、ここ数年のことである。忘年会の賑やかさを求める宴会客と、静かに歌い込みたい客とでは、求めるものが異なる。店長はそのどちらも拒まず、防音の効いた奥の部屋を一人カラオケ専用にすることで両者の求めに応じようとしている。\n効率だけを考えれば、一人カラオケ客を断る方が簡単だろう。しかし店長は、一人で向き合う時間を提供することもまた、この店の役目の一つだと考えている。賑やかさと静けさを同時に大切にする姿勢に、店を続ける難しさと誠実さが表れている。",
+   "questions": [
+    {
+     "q": "店長はどのように、賑やかさと静けさの両方を大切にしようとしていますか。",
+     "c": [
+      "宴会客の入店を人数を決めて制限した。",
+      "一人カラオケ客を去年の秋からやめさせた。",
+      "防音の効いた奥の部屋を一人カラオケ専用にすることで、両者の求めに応じようとしている。",
+      "店を二つに区切り、別々の店にした。"
+     ],
+     "a": 2,
+     "ev": "防音の効いた奥の部屋を一人カラオケ専用にすることで両者の求めに応じようとしている",
+     "why": "The essay says the manager tries to meet both the noise-seeking banquet customers and the solo singers by turning a soundproofed back room into a solo-only space, rather than choosing one over the other.",
+     "ng": [
+      "Banquet customer visits are not described as restricted.",
+      "The essay does not say solo customer visits were stopped entirely.",
+      "",
+      "Splitting the shop into two separate businesses is not mentioned."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "宴会客",
+     "えんかいきゃく",
+     "banquet-party customer"
+    ],
+    [
+     "防音",
+     "ぼうおん",
+     "soundproofing"
+    ],
+    [
+     "姿勢",
+     "しせい",
+     "attitude/stance"
+    ]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告（うたの泉シリーズ）",
+   "title": "うたの泉開店三十周年の節目にあたって",
+   "lead": "うたの泉が開店から三十年を迎えた節目に、これまでの歩みと今後の計画をまとめた。",
+   "text": "うたの泉　開店三十周年の節目にあたっての報告\n【これまでの歩み】\nうたの泉は、昭和の終わりごろに開店したと伝えられている。建物は一度、近くの火事で一部が焼けたが、常連客の協力によって建て直された。平成の不況期には客足が落ち込んだものの、店は営業を続けた。令和に入ってからは、音響設備と防音の改修が行われ、今の姿に近づいた。\n【近年の取り組み】\n近年は、紙の記録とシステムを併用した会員管理や、宴会客と一人カラオケ客の時間帯を分ける工夫など、幅広い客層に向き合う取り組みを続けてきた。また、外国語の案内板を増やし、英語での利用マナーの説明も用意した。\n【今後の計画】\n来年度から、受付とロビーの改修を予定している。工事の期間は、営業時間を短縮する可能性がある。詳しい日程が決まり次第、改めてお知らせする。\nまた、店内の一部を整備し、車いすでも通りやすい通路を増やす計画もある。古い段差の一部も、スロープを付けて通りやすくする予定である。\n【お願い】\n改修のための応援を受け付けている。応援の内容にかかわらず、御礼の品をお送りする。工事の様子は、節目ごとに受付の掲示板で報告する。詳しくは受付にお問い合わせください。\n【節目の行事】\n三十周年を記念するイベントは、来年の春に行う予定である。日時が決まり次第、会員には手紙で、それ以外の方には店の掲示板でお知らせする。",
+   "questions": [
+    {
+     "q": "建物は、これまでにどのようなことがありましたか。",
+     "c": [
+      "昭和の終わりに、国の命令で取り壊された。",
+      "開店されてから、一度も被害を受けていない。",
+      "近くの火事で一部が焼けたが、常連客の協力によって建て直された。",
+      "平成の不況期に、建物全体が完全に取り壊された。"
+     ],
+     "a": 2,
+     "ev": "近くの火事で一部が焼けたが、常連客の協力によって建て直された",
+     "why": "The report says the building was partly burned in a nearby fire and rebuilt with help from regular customers.",
+     "ng": [
+      "Demolition by government order is not mentioned.",
+      "The report does describe damage, not an untouched history.",
+      "",
+      "The building survived the recession, not was torn down because of it."
+     ]
+    },
+    {
+     "q": "今後の計画について、正しいものはどれですか。",
+     "c": [
+      "受付とロビーの改修を予定しており、営業時間が短縮される可能性がある。",
+      "応援の受け付けを、今年度をもって終了する。",
+      "店をいったん取り壊して、まったく新しい建物に建て直す。",
+      "店の広さを、来年度から今の半分に縮小する。"
+     ],
+     "a": 0,
+     "ev": "営業時間を短縮する可能性がある",
+     "why": "The report plans a renovation of the reception and lobby, which may shorten business hours during construction.",
+     "ng": [
+      "",
+      "Support is being accepted, not ended.",
+      "Demolishing and rebuilding the shop is not the plan.",
+      "Shrinking the shop in half is not mentioned."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "改修",
+     "かいしゅう",
+     "renovation"
+    ],
+    [
+     "協力",
+     "きょうりょく",
+     "cooperation"
+    ],
+    [
+     "節目",
+     "ふしめ",
+     "milestone/turning point"
+    ]
+   ]
+  }
+ ]
+}
