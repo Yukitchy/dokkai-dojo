@@ -1,0 +1,113 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（ふれあい商店街シリーズ）",
+   "title": "オンライン注文が増えて変わった商店街の一日",
+   "lead": "ふれあい商店街の各店がオンライン注文を始めてから、一日の流れはどう変わったのでしょうか。",
+   "text": "オンライン注文が増えて変わった商店街の一日\nふれあい商店街の各店がインターネットでの注文受付を始めてから一年が過ぎ、売り上げの三割近くがオンライン経由になった。以前は開店直後から接客に追われていたが、今では注文の確認や配達の準備にその時間を使えるようになった。\n対面でのやり取りが減ったことを寂しく思う店主もいるが、店に来られない高齢の客からの注文が増え、画面の向こうにいる客の暮らしを想像しながら荷物を準備する新しい接客の形が生まれている。",
+   "questions": [
+    {
+     "q": "オンライン注文が増えたことで、店主たちは何に気づきましたか。",
+     "c": [
+      "店に来られない高齢の客からの注文が増えたこと。",
+      "オンライン注文を始めてから、売り上げがまったく変わらなかったこと。",
+      "対面での接客が、以前よりも増えたこと。",
+      "配達の手間が、以前よりも減ったこと。"
+     ],
+     "a": 0,
+     "ev": "店に来られない高齢の客からの注文が増え",
+     "why": "Store owners noticed that orders increased from elderly customers who could not come to the shop in person.",
+     "ng": [
+      "",
+      "Sales rose to nearly 30 percent online, not that they stayed unchanged.",
+      "In-person interaction decreased, not increased.",
+      "Delivery work increased, not decreased."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "配達{はいたつ}",
+     "はいたつ",
+     "delivery"
+    ],
+    [
+     "対面{たいめん}",
+     "たいめん",
+     "face-to-face"
+    ],
+    [
+     "寂{さび}しい",
+     "さびしい",
+     "lonely"
+    ]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（ふれあい商店街シリーズ）",
+   "title": "ふれあい商店街振興組合　新しい規約についてのご案内",
+   "lead": "商店街振興組合が定める新しい規約の内容を見てみましょう。",
+   "text": "ふれあい商店街振興組合　新しい規約についてのご案内\n商店街振興組合は、加盟店の高齢化と空き店舗の増加という課題に対応するため、新しい規約を定めることになりました。\n【空き店舗の活用】\n半年以上空いている店舗については、組合が借り主を募集できることとします。新しく店を開く人には、最初の一年間、賃料の一部を組合が補助します。補助の対象となるのは、商店街に新しい客を呼び込む見込みがあると組合が認めた業種です。\n【加盟店の負担】\n組合費は、各店の売り上げに応じた金額とし、売り上げの少ない店の負担が重くなりすぎないようにします。長年組合に加盟してきた店については、当面の間、負担額の急な上昇を抑える措置をとります。\n【イベントへの参加】\n祭りなど商店街全体のイベントには、原則としてすべての加盟店が参加するものとしますが、人手が足りない店については、他店が手伝う仕組みを作ります。参加が難しい店は、事前に事務局へ相談してください。\n【今後の予定】\n新しい規約の内容については、来月、加盟店向けの説明会を開く予定です。説明会に出席できない店主のために、規約の全文を事務局で配布するほか、質問を受け付ける窓口も、商店街の事務局内に新しく設けます。\n【施行日】\n新しい規約は、来年四月一日から施行します。ご意見やご質問は、組合事務所までお寄せください。",
+   "questions": [
+    {
+     "q": "空き店舗の活用について、正しいものはどれですか。",
+     "c": [
+      "新しく店を開く人には、最初の一年間、賃料の一部が補助される。",
+      "空き店舗は、組合が借り主を募集することはできない。",
+      "補助は、どんな業種にも必ず行われる。",
+      "補助は、五年間続けられる。"
+     ],
+     "a": 0,
+     "ev": "新しく店を開く人には、最初の一年間、賃料の一部を組合が補助します",
+     "why": "The new rule states that the association subsidizes part of the rent for the first year for new shop owners.",
+     "ng": [
+      "",
+      "The association can recruit tenants for vacant shops, contrary to this choice.",
+      "Only businesses the association judges likely to attract new customers qualify.",
+      "The subsidy covers the first year only, not five years."
+     ]
+    },
+    {
+     "q": "イベントへの参加について、正しいものはどれですか。",
+     "c": [
+      "人手が足りない店については、他店が手伝う仕組みが作られる。",
+      "イベントへの参加は、どの加盟店にとっても完全に自由である。",
+      "参加が難しい店は、何も相談せずに不参加を決めてよい。",
+      "イベントの参加について、新しい規約では何も変わらない。"
+     ],
+     "a": 0,
+     "ev": "人手が足りない店については、他店が手伝う仕組みを作ります",
+     "why": "The new rule provides a system where other stores help shops that lack staff for events.",
+     "ng": [
+      "",
+      "Participation is in principle required for all member stores, not fully optional.",
+      "Stores that find it difficult are asked to consult the office beforehand, not decide unilaterally.",
+      "The new rule does change how events are handled, as described above."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "振興{しんこう}組合{くみあい}",
+     "しんこうくみあい",
+     "promotion association"
+    ],
+    [
+     "補助{ほじょ}する",
+     "ほじょする",
+     "to subsidize"
+    ],
+    [
+     "施行{しこう}する",
+     "しこうする",
+     "to put into effect"
+    ]
+   ]
+  }
+ ]
+}

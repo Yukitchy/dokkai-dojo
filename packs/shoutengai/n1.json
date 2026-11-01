@@ -1,0 +1,113 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "コラム（ふれあい商店街シリーズ）",
+   "title": "商店街という場所に積み重ねられる時間の意味",
+   "lead": "長年商店街で店を構えてきた店主たちの感覚について考える。",
+   "text": "商店街という場所に積み重ねられる時間の意味\n長年ふれあい商店街で店を構えてきた店主は、客の顔を見るだけで、その人が今どのような暮らしを送っているかをおおよそ言い当てることができる。買い物の量が減った、子供を連れてくるようになった。そうした小さな変化の積み重ねから、客の人生の節目を読み取っているように見える。\n効率という観点だけで見れば、商店街の多くの店は、大きな施設にかなわない部分が多い。それでも、商店街が長く失われずに残っているのは、そこに積み重ねられた時間そのものに、効率では測れない価値が確かにあるからなのだろう。",
+   "questions": [
+    {
+     "q": "店主たちの「感覚」について、筆者はどのように述べていますか。",
+     "c": [
+      "同じ場所に立ち続け、同じ客と言葉を交わしてきた時間が育てるものだと述べている。",
+      "接客の教科書を読めば、誰でも身につけられるものだと述べている。",
+      "若い店主ほど、自然に身につけているものだと述べている。",
+      "効率を優先する店ほど、早く身につけられるものだと述べている。"
+     ],
+     "a": 0,
+     "ev": "そうした小さな変化の積み重ねから、客の人生の節目を読み取っているように見える",
+     "why": "The writer describes this sense as something built up from accumulated small changes noticed over long years in the same place.",
+     "ng": [
+      "",
+      "The writer never mentions a textbook teaching this sense.",
+      "The writer does not say younger shop owners acquire it more naturally.",
+      "The writer does not link this sense to prioritizing efficiency."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "節目{ふしめ}",
+     "ふしめ",
+     "turning point/milestone"
+    ],
+    [
+     "観点{かんてん}",
+     "かんてん",
+     "viewpoint"
+    ],
+    [
+     "かなわない",
+     "かなわない",
+     "to be no match for"
+    ]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告書（ふれあい商店街シリーズ）",
+   "title": "地域活性化協議会との一年間の協力報告",
+   "lead": "商店街振興組合が地域活性化協議会と進めてきた一年間の取り組みをまとめた報告書。",
+   "text": "地域活性化協議会との一年間の協力報告\nふれあい商店街振興組合は、地域活性化協議会と連携し、空き店舗対策と担い手育成に取り組んできた。この一年間の活動を、以下に報告する。\n協議会との連携により、空き店舗を活用した期間限定の出店事業を四件実施した。出店者のうち二件は、期間終了後も商店街内で営業を続けることを決めており、新規出店につながる一定の成果が見られた。残る二件についても、別の場所での出店に向けた相談が進んでいる。\n担い手育成の面では、商店街で働く若手従業員を対象とした経営の基礎を学ぶ講座を開き、延べ十五名が受講した。受講者からは、接客や仕入れの判断において、以前より自信を持って取り組めるようになったという声が寄せられている。講座の内容は、受講者の意見を反映しながら、次年度も見直していく予定である。\n一方で、空き店舗の数自体はいまだ高水準にあり、出店者の確保は依然として課題である。来年度は、協議会と共同で、出店希望者向けの説明会をこれまでより早い時期に開催し、準備期間を十分に確保できる体制を整える方針である。説明会の案内は、協議会のネットワークを通じて、商店街の外にも広く届けることを目指す。協議会との連携を通じて得られた知見を踏まえ、商店街が持続的に活力を保てる仕組みづくりを、引き続き進めていく。",
+   "questions": [
+    {
+     "q": "空き店舗を活用した期間限定の出店事業について、正しいものはどれですか。",
+     "c": [
+      "出店者のうち二件は、期間終了後も商店街内で営業を続けることを決めた。",
+      "出店事業は、四件のうちどれも商店街内に残らなかった。",
+      "出店事業は、今年度初めて計画されたが、まだ実施されていない。",
+      "出店事業に参加した店は、全件が別の場所に移ることを決めた。"
+     ],
+     "a": 0,
+     "ev": "出店者のうち二件は、期間終了後も商店街内で営業を続けることを決めており",
+     "why": "The report states that two of the four shops decided to continue operating within the shopping street after the trial period ended.",
+     "ng": [
+      "",
+      "The report states that four cases were already implemented, and two of them remained.",
+      "The report describes activities already carried out this year, not merely planned.",
+      "Only the remaining two cases are in talks about moving elsewhere; not all four."
+     ]
+    },
+    {
+     "q": "担い手育成の講座について、正しいものはどれですか。",
+     "c": [
+      "延べ十五名の若手従業員が講座を受講した。",
+      "講座は、商店街の店主だけを対象にしている。",
+      "受講者からは、講座の内容に不満の声しか寄せられていない。",
+      "講座の内容は、今後見直されることはない。"
+     ],
+     "a": 0,
+     "ev": "延べ十五名が受講した",
+     "why": "The report states that a total of fifteen participants attended the course.",
+     "ng": [
+      "",
+      "The course targets young employees working in the shopping street, not only shop owners.",
+      "Participants reported gaining more confidence, not only dissatisfaction.",
+      "The report says the content will be reviewed again next fiscal year."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "担{にな}い手{て}",
+     "にないて",
+     "the person who carries something forward/successor"
+    ],
+    [
+     "依然{いぜん}として",
+     "いぜんとして",
+     "still/as before"
+    ],
+    [
+     "知見{ちけん}",
+     "ちけん",
+     "insight/finding"
+    ]
+   ]
+  }
+ ]
+}
