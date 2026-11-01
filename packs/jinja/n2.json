@@ -1,0 +1,81 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（神社シリーズ）",
+   "title": "御祈祷中の撮影を許可したすずか神社の議論",
+   "lead": "御祈祷中の撮影を許可したすずか神社では、どんな議論があったのだろうか。",
+   "text": "最近、参拝者がSNSに境内の写真を投稿することを歓迎する神社が増えている。撮影できる場所を示すことで、親しみやすさを売りにする神社が多い。\n一方で、すずか神社のような小さな神社にとっては、案内を整える準備にコストがかかるため、導入をためらう傾向がある。実際、すずか神社でも、こうした取り組みをするかどうか、長い間議論が続いた。\n最終的には、参拝者の多くが御祈祷の様子を写真に残したいという声を寄せていたことがわかり、御祈祷中の数分だけ撮影を許可する形に踏み切った。",
+   "questions": [
+    {
+     "q": "すずか神社が御祈祷中の撮影を許可することに踏み切った、最終的な理由は何か。",
+     "c": [
+      "参拝者の多くが御祈祷の様子を写真に残したいという声を寄せていたことがわかったから。",
+      "案内を整える準備のコストがまったくかからないとわかったから。",
+      "近くにある他の神社が、すべて同じ取り組みを一斉に始めていたから。",
+      "撮影を完全に禁止することにしたから。"
+     ],
+     "a": 0,
+     "ev": "参拝者の多くが御祈祷の様子を写真に残したいという声を寄せていたことがわかり",
+     "why": "The deciding factor given is that many visitors had expressed wanting to keep photos of the ritual.",
+     "ng": [
+      "",
+      "The passage says cost is a reason shrines hesitate, not that cost turned out to be zero.",
+      "The passage does not say every other shrine started the same effort at once.",
+      "The shrine allowed photography rather than banning it."
+     ]
+    }
+   ],
+   "words": []
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（神社シリーズ）",
+   "title": "紙カード＋アプリのハイブリッド参拝記録のご案内",
+   "lead": "紙の参拝記録カードとアプリを併用する新しい記録制度を見てみよう。",
+   "text": "すずか神社　紙カード＋アプリのハイブリッド参拝記録のご案内\nこれまで紙の参拝記録カードだけで運営していた記録制度に、今月からアプリでの管理機能を加える。背景には、紙のカードをなくしてしまう参拝者が多く、参拝の回数を巫女が覚えていないと確認できないという混乱があった。\n一方で、高齢の常連の参拝者の中には、アプリの操作に不安を感じる人も少なくない。そのため、紙のカードを完全に廃止するのではなく、両方を併用できる仕組みにした。\n【参拝記録の加算】\n紙のカードにスタンプを押してもらうか、アプリに御朱印帳の番号を入力すると、どちらでも同じ記録が加算される。\n【祈祷内容の登録】\nアプリに過去のご祈祷の内容を登録しておくと、次に申し込むときに前回と同じ内容かどうかを自動で確認できる。紙のカードだけを使う参拝者は、これまでと同じように、申し込み時に巫女へ直接確認する。\n【切り替えの時期】\n当面は両方の方式を併用し、利用状況を見たうえで、将来的な一本化を検討する。神社としては、効率化を急ぎすぎて、長年の常連を置いていくことがないよう、慎重に進めたいと考えている。\n【問い合わせ】\nアプリの操作がわからない場合は、社務所の横に置いてある説明用紙を見るか、巫女に直接声をかけてほしい。紙のカードとアプリの記録が一致しているか不安な人は、いつでも御朱印帳の番号から確認できるので、遠慮なく相談してほしい。",
+   "questions": [
+    {
+     "q": "今月からアプリでの管理機能を加えた背景として、正しいものはどれか。",
+     "c": [
+      "紙のカードをなくしてしまう参拝者が多く、参拝の回数を確認できない混乱があったから。",
+      "紙のカードの材料が手に入らなくなったから。",
+      "すべての常連の参拝者がアプリの導入を強く求めたから。",
+      "紙のカードを使う制度そのものを、来年までに完全にやめることが既に決まっていたから。"
+     ],
+     "a": 0,
+     "ev": "紙のカードをなくしてしまう参拝者が多く、参拝の回数を巫女が覚えていないと確認できないという混乱があった",
+     "why": "The background given is confusion from visitors losing their paper cards, making visit counts unverifiable.",
+     "ng": [
+      "",
+      "A shortage of card materials is not mentioned.",
+      "The passage does not say all regulars strongly demanded the app.",
+      "The plan keeps both systems rather than ending the paper one."
+     ]
+    },
+    {
+     "q": "祈祷内容の確認について、正しいものはどれか。",
+     "c": [
+      "アプリに過去のご祈祷の内容を登録しておくと、次に申し込むときに自動で確認できる。",
+      "紙のカードを使う参拝者は、祈祷内容を確認する方法がなくなった。",
+      "祈祷内容は、月に一度の社務所確認のときしか確認できない。",
+      "アプリに登録しなくても、全員自動で確認される。"
+     ],
+     "a": 0,
+     "ev": "アプリに過去のご祈祷の内容を登録しておくと、次に申し込むときに前回と同じ内容かどうかを自動で確認できる",
+     "why": "Registering past ritual details in the app lets the next application be checked automatically.",
+     "ng": [
+      "",
+      "Paper-card visitors still confirm directly with staff, so the option is not gone.",
+      "No monthly limit on checking is mentioned.",
+      "Automatic checking requires registering the information in the app first."
+     ]
+    }
+   ],
+   "words": []
+  }
+ ]
+}
