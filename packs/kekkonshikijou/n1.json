@@ -1,0 +1,113 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "コラム（はなむすびウェディングホールシリーズ）",
+   "title": "結婚式という儀式に残るもの",
+   "lead": "はなむすびウェディングホールの控え室に残り続けている古い帯から考える、場所に積み重ねられる時間についての文章である。",
+   "text": "はなむすびウェディングホールの控え室には、三十年近く前から変わらない和装の帯が、今も棚の奥に残り続けている。\n需要にも在庫にも限りがある以上、残しておくことは効率的とは言いがたい。それでも歴代の支配人たちは、この帯を手放すことをためらい続けてきた。\nかつてこの帯を締めて誓いを立てた人が、やがて自分の子の式を見に戻ってくる。その循環{じゅんかん}のなかで、一本の帯に、血のつながりを超えた時間の厚みが重なっていく。数字には表れないその価値を、簡単に切り捨てたくはない。",
+   "questions": [
+    {
+     "q": "この文章で筆者が最も伝えたいことは何か。",
+     "c": [
+      "かつて帯を締めた人がやがて戻ってくる循環のなかで積み重なる時間には、数字に表れない価値があるということ。",
+      "古い和装の帯は、棚に限りがあるので、すぐに手放すべきだということ。",
+      "和装の帯の在庫をもっと増やし、古いものも含めてすべて頻繁に新しいものへ入れ替えていくべきだということ。",
+      "かつての新郎新婦が、自分の子の式を見に戻ってくることは二度とないということ。"
+     ],
+     "a": 0,
+     "ev": "数字には表れないその価値を、簡単に切り捨てたくはない",
+     "why": "The writer's main point is that the time accumulated through the cycle of people returning carries a value that doesn't show up in numbers.",
+     "ng": [
+      "",
+      "The passage describes the managers resisting letting go, not arguing for quick disposal.",
+      "Increasing stock to replace old items is not the writer's point.",
+      "The passage describes someone returning, the opposite of never returning."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "循環{じゅんかん}",
+     "じゅんかん",
+     "cycle/circulation"
+    ],
+    [
+     "厚み",
+     "あつみ",
+     "thickness/depth"
+    ],
+    [
+     "切り捨てる",
+     "きりすてる",
+     "to discard/cut off"
+    ]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告書（はなむすびウェディングホールシリーズ）",
+   "title": "地域の花屋との提携に関する一年間の協力報告",
+   "lead": "はなむすびウェディングホールが、昨年から取り組んでいる地域の花屋との提携についての、一年間の報告である。",
+   "text": "はなむすびウェディングホール　地域の花屋との提携に関する一年間の協力報告\n\n一、連携の背景\nはなむすびウェディングホールは、昨年四月より、最寄りの花屋（地域の個人商店三店で構成）と提携し、装花{そうか}の調達体制を整えてきた。大口の卸業者だけでは取りこぼしていた、季節ごとの地域の花を、花屋とともに取り入れることを目的としている。\n\n二、主な取り組み\n月に一度、花屋の代表者が集まり、季節の装花{そうか}の内容について話し合う会議を開いた。会議では新郎新婦の個人情報の扱いに注意し、守秘義務を徹底した。また、庭園の花を花屋に開放し、個人商店が単独では仕入れにくい珍しい品種を、共同で仕入れた。\n\n三、見えてきた成果\nこの一年で、提携を通じて、花屋三店のうち、二店については、ウェディングホールの顧客層に新たに知られることとなり、来店数の増加につながった。大口の卸業者だけでは気づきにくかった地域の需要も含まれている。\n\n四、今後の課題\n一方で、会議の開催時間が平日の日中に限られており、店番を抱える個人商店主本人の参加は難しい。また、仕入れ情報の共有範囲をどこまで広げるべきか、花屋とウェディングホールの間で判断が分かれる場面もあった。情報を共有しすぎれば各店の負担になり、慎重になりすぎれば連携の効果が薄れる。その線引{せんび}きは、まだ定まっていない。\n\n五、来年度の計画\n来年度は、会議の開催時間を増やし、平日の夜間にも一回設けることを検討している。また、仕入れ情報の共有範囲については、花屋とウェディングホールで統一した基準を一つ作ることを目指し、改めて協議する予定である。",
+   "questions": [
+    {
+     "q": "この一年の取り組みの成果として、報告書に挙げられているのはどれか。",
+     "c": [
+      "花屋の代表者が、毎週会議を開くようになったこと。",
+      "提携を通じて、花屋三店のうち二店が来店数の増加につながったこと。",
+      "すべての個人商店主が、会議に直接参加できるようになったこと。",
+      "仕入れ情報の共有範囲について、花屋とウェディングホールの判断が完全に一致したこと。"
+     ],
+     "a": 1,
+     "ev": "花屋三店のうち、二店については、ウェディングホールの顧客層に新たに知られることとなり、来店数の増加につながった",
+     "why": "The report lists, as an achievement, two of the three flower shops gaining increased visitors through the partnership.",
+     "ng": [
+      "The report describes monthly meetings, not weekly ones.",
+      "",
+      "The report says daytime meetings make it hard for shop owners themselves to attend directly.",
+      "The report says judgment on how far to share information differed, not that it was fully unified."
+     ]
+    },
+    {
+     "q": "今後の課題として、報告書に挙げられているのはどれか。",
+     "c": [
+      "会議の開催時間が平日の日中に限られ、店番を抱える個人商店主本人が参加しにくいこと。",
+      "ウェディングホールを利用する客の数が減り続けていること。",
+      "花屋との提携が、制度上禁止されていること。",
+      "仕入れ情報の共有範囲について、花屋とウェディングホールの間で意見が一度も分かれなかったこと。"
+     ],
+     "a": 0,
+     "ev": "会議の開催時間が平日の日中に限られており、店番を抱える個人商店主本人の参加は難しい",
+     "why": "The report raises, as a challenge, that meetings are held only during weekday daytime hours, making it hard for shop owners themselves to attend.",
+     "ng": [
+      "",
+      "A decline in the number of customers is not mentioned.",
+      "Cooperation with the flower shops is described as ongoing, not prohibited.",
+      "The report says judgment differed between the groups, so this is the opposite of what is stated."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "提携",
+     "ていけい",
+     "partnership/tie-up"
+    ],
+    [
+     "装花{そうか}",
+     "そうか",
+     "floral decoration"
+    ],
+    [
+     "線引{せんび}き",
+     "せんびき",
+     "drawing the line/setting a boundary"
+    ]
+   ]
+  }
+ ]
+}
