@@ -1,0 +1,113 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（にじいろデパートシリーズ）",
+   "title": "デパートの役割が変わってきたことについて",
+   "lead": "にじいろデパートのような店に求められる役割の変化について考えた文章である。",
+   "text": "にじいろデパートはもともと、地域の人々が日々の品物を買う場として作られた。しかしにじいろデパートのような店に求められる役割は、近年それだけにとどまらなくなってきている。\nインターネットで物を買う人が増えるにともない、実際に見て、触れて、相談できる場としての役割が、以前より重視されるようになった。画面で見るだけでは、質感や使い心地まではわからないにもかかわらず、ゆっくり相談できる店は限られている。\n単に「物を売る場所」ではなく「体験を提供する場所」として店をとらえ直すことが、今、求められているのではないだろうか。",
+   "questions": [
+    {
+     "q": "この文章で筆者が最も伝えたいことは何か。",
+     "c": [
+      "デパートは「物を売る場所」ではなく「体験を提供する場所」として、とらえ直すことが求められているということ。",
+      "インターネットで物を買う人は、今後も増えることはないということ。",
+      "画面で見るだけで、質感や使い心地が完全にわかるということ。",
+      "相談できる店は、すでに十分に増えているということ。"
+     ],
+     "a": 0,
+     "ev": "単に「物を売る場所」ではなく「体験を提供する場所」として店をとらえ直すことが、今、求められている",
+     "why": "The writer argues department stores need to be rethought as places offering experience, not just selling goods.",
+     "ng": [
+      "",
+      "The passage says online shoppers have been increasing, the opposite of never increasing.",
+      "The passage says screens cannot convey texture or feel, the opposite claim.",
+      "The passage says stores where one can consult slowly are limited, not already plentiful."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "質感",
+     "しっかん",
+     "texture/feel"
+    ],
+    [
+     "とらえ直す",
+     "とらえなおす",
+     "to rethink/reconsider"
+    ],
+    [
+     "重視する",
+     "じゅうしする",
+     "to place importance on"
+    ]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（にじいろデパートシリーズ）",
+   "title": "友の会の会員規約改定のご案内",
+   "lead": "にじいろデパート友の会の会員規約の改定について、利用者に向けて説明した案内文である。",
+   "text": "利用者の皆様へ\n\nこのたび、にじいろデパート友の会の会員規約を一部改定{かいてい}いたしましたので、下記の通りご案内いたします。今回の改定は、会員数の増加にともない、公平で安全な運営を続けるために必要な見直しとして行うものです。\n\n一、ポイントの有効期限について\nこれまでポイントの有効期限は設けておりませんでしたが、今回から、獲得した日から二年間とさせていただきます。期限が近づいた会員の方には、事前にお知らせいたします。\n\n二、カードの再発行について\nカードを紛失{ふんしつ}した場合、これまで無料で再発行しておりましたが、今回から、再発行時に二百円の手数料をいただくことになりました。盗難の場合は、警察への届け出をご提示いただければ、手数料は免除いたします。\n\n三、緊急時の対応について\n地震や火事などの緊急時には、店の判断で、お客様の同意を待たず、近隣の避難{ひなん}場所へ案内することがあります。避難{ひなん}先は、一階の案内に掲示いたします。\n\n四、特典内容の見直しについて\n誕生日のプレゼント券は、これまで全会員に一律の金額でお送りしておりましたが、今回から、前年度の利用金額に応じて金額を変える形に改めます。これは、長くご利用いただいている会員の方へ、感謝の気持ちをより具体的な形でお伝えしたいという考えによるものです。\n\nご不便をおかけしますが、ご理解とご協力をお願いいたします。",
+   "questions": [
+    {
+     "q": "今回の改定で、新しく決められたことはどれか。",
+     "c": [
+      "ポイントの有効期限を、獲得した日から二年間とすること。",
+      "カードの再発行をすべて無料にすること。",
+      "緊急時にも、必ずお客様の同意を得てから避難場所へ案内すること。",
+      "誕生日のプレゼント券を、全会員に同じ金額で送ること。"
+     ],
+     "a": 0,
+     "ev": "今回から、獲得した日から二年間とさせていただきます",
+     "why": "The revision newly sets a two-year expiration on points from the day they are earned.",
+     "ng": [
+      "",
+      "The revision adds a reissue fee, the opposite of making it all free.",
+      "The guide says the store may act without waiting for the customer's consent in emergencies.",
+      "The revision changes the present coupon to vary by last year's spending, not stay uniform."
+     ]
+    },
+    {
+     "q": "カードの再発行の手数料について、正しいものはどれか。",
+     "c": [
+      "盗難の場合、警察への届け出を提示すれば手数料が免除される。",
+      "紛失の場合も盗難の場合も、手数料は一切かからない。",
+      "再発行には、必ず二百円の手数料がかかる。",
+      "手数料は、再発行のたびに値上がりする。"
+     ],
+     "a": 0,
+     "ev": "盗難の場合は、警察への届け出をご提示いただければ、手数料は免除いたします",
+     "why": "The guide says the reissue fee is waived for theft if a police report is shown.",
+     "ng": [
+      "",
+      "The guide sets a fee for loss, so it is not always free.",
+      "The guide says the fee is waived for theft with a police report, so it is not always charged.",
+      "A fee increasing with each reissue is not mentioned."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "紛失{ふんしつ}する",
+     "ふんしつする",
+     "to lose (an item)"
+    ],
+    [
+     "免除{めんじょ}する",
+     "めんじょする",
+     "to exempt/waive"
+    ],
+    [
+     "避難{ひなん}場所",
+     "ひなんばしょ",
+     "evacuation site"
+    ]
+   ]
+  }
+ ]
+}

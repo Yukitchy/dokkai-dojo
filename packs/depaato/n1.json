@@ -1,0 +1,113 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "コラム（にじいろデパートシリーズ）",
+   "title": "デパートの包装紙に込められた意味",
+   "lead": "にじいろデパートの包装コーナーに残り続けている古い包装紙の柄から考える、場所に積み重ねられる時間についての文章である。",
+   "text": "にじいろデパートの包装コーナーには、三十年近く前から変わらない包装紙の柄が、今も棚の奥に残り続けている。\n在庫にも棚にも限りがある以上、残しておくことは効率的とは言いがたい。それでも歴代の店長たちは、この柄を外すことをためらい続けてきた。\nかつて誰かへの贈り物をこの柄で包んでもらった人が、やがて自分の贈り物を選びに戻ってくる。その循環{じゅんかん}のなかで、包装紙という紙一枚に、血のつながりを超えた時間の厚みが重なっていく。数字には表れないその価値を、簡単に切り捨てたくはない。",
+   "questions": [
+    {
+     "q": "この文章で筆者が最も伝えたいことは何か。",
+     "c": [
+      "かつて贈り物を包んでもらった人がやがて戻ってくる循環{じゅんかん}のなかで積み重なる時間には、数字に表れない価値があるということ。",
+      "古い柄の包装紙は、棚に限りがあるので、すぐに外すべきだということ。",
+      "包装紙の在庫をもっと増やし、古い柄も含めてすべての柄を頻繁に新しいものへ入れ替えていくべきだということ。",
+      "かつての客が、自分の贈り物を選びに戻ってくることは二度とないということ。"
+     ],
+     "a": 0,
+     "ev": "数字には表れないその価値を、簡単に切り捨てたくはない",
+     "why": "The writer's main point is that the time accumulated through the cycle of customers returning carries a value that doesn't show up in numbers.",
+     "ng": [
+      "",
+      "The passage describes store managers resisting removal, not arguing for quick removal.",
+      "Increasing stock to replace old patterns is not the writer's point.",
+      "The passage describes a customer returning, the opposite of never returning."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "循環{じゅんかん}",
+     "じゅんかん",
+     "cycle/circulation"
+    ],
+    [
+     "厚{あつ}み",
+     "あつみ",
+     "thickness/depth"
+    ],
+    [
+     "切{き}り捨{す}てる",
+     "きりすてる",
+     "to discard/cut off"
+    ]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告書{ほうこくしょ}（にじいろデパートシリーズ）",
+   "title": "地域商店街との共同イベントに関する一年間の協力報告",
+   "lead": "にじいろデパートが、昨年から取り組んでいる地域商店街との共同イベントについての、一年間の報告である。",
+   "text": "にじいろデパート　地域商店街との共同イベントに関する一年間の協力報告\n\n一、連携の背景\nにじいろデパートは、昨年四月より、最寄りの商店街（近隣の個人商店、青年会、町内会で構成）と連携し、共同イベントの開催体制を整えてきた。大型店単独の集客では取りこぼしていた、地域に根づいた顧客層を、商店街とともに掘り起こすことを目的としている。\n\n二、主な取り組み\n月に一度、商店街の代表者が集まり、共同イベントの企画について話し合う会議を開いた。会議では各店の売上情報の扱いに注意し、守秘{しゅひ}義務{ぎむ}を徹底した。また、三階の催事場を商店街に開放し、個人商店が単独では出しにくい大規模な催事を、共同で開催した。\n\n三、見えてきた成果\nこの一年で、共同イベントを通じて、商店街の個人商店のうち、六店については、デパートの顧客層に新たに知られることとなり、来客数の増加につながった。大型店だけでは気づきにくかった地域の需要も含まれている。\n\n四、今後の課題\n一方で、会議の開催時間が平日の日中に限られており、店番を抱える個人商店主本人の参加は難しい。また、売上情報の共有範囲をどこまで広げるべきか、商店街とデパートの間で判断が分かれる場面もあった。情報を共有しすぎれば各店の負担になり、慎重になりすぎれば連携の効果が薄れる。その線引{せんび}きは、まだ定まっていない。\n\n五、来年度の計画\n来年度は、会議の開催時間を増やし、平日の夜間にも一回設けることを検討している。また、売上情報の共有範囲については、商店街とデパートで統一した基準を一つ作ることを目指し、改めて協議する予定である。",
+   "questions": [
+    {
+     "q": "この一年の取り組みの成果として、報告書に挙げられているのはどれか。",
+     "c": [
+      "商店街の代表者が、毎週会議を開くようになったこと。",
+      "共同イベントを通じて、六店が来客数の増加につながったこと。",
+      "すべての個人商店主が、会議に直接参加できるようになったこと。",
+      "売上情報の共有範囲について、商店街とデパートの判断が完全に一致したこと。"
+     ],
+     "a": 1,
+     "ev": "商店街の個人商店のうち、六店については、デパートの顧客層に新たに知られることとなり、来客数の増加につながった",
+     "why": "The report lists, as an achievement, six shops gaining increased customers through the joint events.",
+     "ng": [
+      "The report describes monthly meetings, not weekly ones.",
+      "",
+      "The report says daytime meetings make it hard for shop owners themselves to attend directly.",
+      "The report says judgment on how far to share information differed, not that it was fully unified."
+     ]
+    },
+    {
+     "q": "今後の課題として、報告書に挙げられているのはどれか。",
+     "c": [
+      "会議の開催時間が平日の日中に限られ、店番を抱える個人商店主本人が参加しにくいこと。",
+      "デパートを利用する客の数が減り続けていること。",
+      "商店街との連携が、制度上禁止されていること。",
+      "売上情報の共有範囲について、商店街とデパートの間で意見が一度も分かれなかったこと。"
+     ],
+     "a": 0,
+     "ev": "会議の開催時間が平日の日中に限られており、店番を抱える個人商店主本人の参加は難しい",
+     "why": "The report raises, as a challenge, that meetings are held only during weekday daytime hours, making it hard for shop owners themselves to attend.",
+     "ng": [
+      "",
+      "A decline in the number of customers is not mentioned.",
+      "Cooperation with the shopping street is described as ongoing, not prohibited.",
+      "The report says judgment differed between the groups, so this is the opposite of what is stated."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "守秘{しゅひ}義務{ぎむ}",
+     "しゅひぎむ",
+     "duty of confidentiality"
+    ],
+    [
+     "掘{ほ}り起{お}こす",
+     "ほりおこす",
+     "to dig up/uncover"
+    ],
+    [
+     "線引{せんび}き",
+     "せんびき",
+     "drawing the line/setting a boundary"
+    ]
+   ]
+  }
+ ]
+}
