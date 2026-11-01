@@ -1,0 +1,113 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "随筆（弁天湯シリーズ）",
+   "title": "ペンキ絵{え}の撮影{さつえい}をめぐって",
+   "lead": "銭湯のペンキ絵の撮影について、議論の末に出した結論。",
+   "text": "最近、銭湯の富士山のペンキ絵をSNSに投稿することを歓迎する店が増えている。絵を描いた日付や画家の名前を示すことで、歴史の深さを売りにする店が多い。\n一方で、弁天湯のような小さな銭湯にとっては、撮影のための案内を整える準備にコストがかかるため、導入をためらう傾向がある。実際、弁天湯でも、こうした取り組みをするかどうか、長い間議論が続いた。\n最終的には、客の多くが絵の前で写真を残したいという声を寄せていたことがわかり、脱衣所を出た通路の一角でだけ撮影を許可する形に踏み切った。",
+   "questions": [
+    {
+     "q": "弁天湯が最終的に出した結論として、正しいものはどれか。",
+     "c": [
+      "脱衣所を出た通路の一角でだけ、撮影を許可することにした。",
+      "どこで撮影してもよいことにした。",
+      "SNSへの投稿を店の判断でいっさい全面的に禁止することにした。",
+      "ペンキ絵そのものを別の絵に描き替えることにした。"
+     ],
+     "a": 0,
+     "ev": "脱衣所を出た通路の一角でだけ撮影を許可する形に踏み切った",
+     "why": "The passage says they settled on allowing photos only in one spot in the corridor outside the changing room.",
+     "ng": [
+      "",
+      "Permission was limited to one spot, not anywhere.",
+      "The passage describes allowing photography, not banning SNS posts.",
+      "Repainting the mural itself is not mentioned."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "投稿",
+     "とうこう",
+     "posting (online)"
+    ],
+    [
+     "脱衣所",
+     "だついじょ",
+     "changing room"
+    ],
+    [
+     "踏み切る",
+     "ふみきる",
+     "to decide to go ahead"
+    ]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（弁天湯シリーズ）",
+   "title": "紙カード＋アプリのハイブリッド記録",
+   "lead": "弁天湯の回数記録に、紙とアプリを併用する仕組みを加える案内。",
+   "text": "弁天湯　紙カード＋アプリのハイブリッド回数記録のご案内\nこれまで紙のスタンプカードだけで運営していた記録制度に、今月からアプリでの管理機能を加える。背景には、紙のカードをなくしてしまう客が多く、来店の回数を番台の係が覚えていないと確認できないという混乱があった。\n一方で、長年通っている年配の常連客の中には、アプリの操作に不安を感じる人も少なくない。そのため、紙のカードを完全に廃止するのではなく、両方を併用できる仕組みにした。\n【回数の加算】\n紙のカードにスタンプを押してもらうか、アプリに会員番号を入力すると、どちらでも同じ記録に加算される。\n【特典の確認】\nアプリに来店履歴を登録しておくと、次に来たときに前回から何日たったかを自動で確認できる。紙のカードだけを使う客は、これまでと同じように、来店時に番台へ直接確認する。\n【切り替えの時期】\n当面は両方の方式を併用し、利用状況を見たうえで、将来的な一本化を検討する。銭湯としては、効率化を急ぎすぎて、長年の常連を置いていくことがないよう、慎重に進めたいと考えている。\n【問い合わせ】\nアプリの操作がわからない場合は、受付の横に置いてある説明用紙を見るか、番台の係に直接声をかけてほしい。紙のカードとアプリの記録が一致しているか不安な人は、いつでも会員番号から確認できるので、遠慮なく相談してほしい。",
+   "questions": [
+    {
+     "q": "アプリでの管理機能を加えることになった背景として、正しいものはどれか。",
+     "c": [
+      "紙のカードをなくしてしまう客が多く、来店回数の確認が混乱していたこと。",
+      "紙のカードを今月から、すぐにためらわず完全に廃止することにした。",
+      "アプリを導入しないと、国の法律に違反することになっていたこと。",
+      "すべての常連客が、紙のカードの廃止を強く求めていたこと。"
+     ],
+     "a": 0,
+     "ev": "紙のカードをなくしてしまう客が多く、来店の回数を番台の係が覚えていないと確認できないという混乱があった",
+     "why": "The confusion of customers losing their paper cards, with no way to confirm visit counts, is the stated background.",
+     "ng": [
+      "",
+      "Printing costs are not mentioned as the reason.",
+      "A legal requirement is not mentioned.",
+      "The passage says some older regulars are uneasy about the app, the opposite of unanimous demand to end paper cards."
+     ]
+    },
+    {
+     "q": "この案内の方針として、正しいものはどれか。",
+     "c": [
+      "紙のカードを完全に廃止せず、当面はアプリと両方を併用する。",
+      "今月から紙のカードをすぐに完全に廃止する。",
+      "年配の常連客だけ、紙のカードの使用を禁止する。",
+      "アプリの利用者には、入浴料を特別に安くする。"
+     ],
+     "a": 0,
+     "ev": "紙のカードを完全に廃止するのではなく、両方を併用できる仕組みにした",
+     "why": "The policy keeps the paper card system rather than abolishing it, running both side by side for now.",
+     "ng": [
+      "",
+      "Paper cards are not abolished immediately this month.",
+      "The passage does not say older regulars specifically are banned from paper cards.",
+      "A discount tied to app use is not mentioned."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "併用",
+     "へいよう",
+     "joint use"
+    ],
+    [
+     "加算",
+     "かさん",
+     "addition (to a total)"
+    ],
+    [
+     "慎重",
+     "しんちょう",
+     "cautious"
+    ]
+   ]
+  }
+ ]
+}

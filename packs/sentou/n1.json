@@ -1,0 +1,113 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "評論（弁天湯シリーズ）",
+   "title": "番台のこれからを考える",
+   "lead": "銭湯の無人化が進むなかで、番台に人を置き続ける理由を考える。",
+   "text": "全国的に銭湯の数が減るなかで、弁天湯のように番台に人を置く店は少なくなりつつある。多くの店は券売機と無人の受付に切り替え、人件費を抑えて存続を図っている。\n弁天湯の店主は、無人化による効率化を否定しない。だが、番台に人がいることで生まれる客同士のやり取りや、あいさつまで機械に委ねることには、慎重であるべきだと考えている。\n経営を続けるためには、効率化を避けて通ることはできない。店主が今も考え続けているのは、速さと温かみを対立する手段としてではなく、互いを支え合うものとして捉え直せるかどうか、という一点に尽きる。",
+   "questions": [
+    {
+     "q": "弁天湯の店主が今も考え続けていることとして、筆者が挙げているものは何か。",
+     "c": [
+      "速さと温かみを対立するものではなく、互いを支え合うものとして捉え直せるかどうかということ。",
+      "効率化をいっさいやめ、すべてを人の手に戻すべきかということ。",
+      "番台の係をこれ以上増やすべきかどうかということ。",
+      "券売機への切り替えを、ほかの店より先に済ませるべきかということ。"
+     ],
+     "a": 0,
+     "ev": "速さと温かみを対立する手段としてではなく、互いを支え合うものとして捉え直せるかどうか",
+     "why": "The passage frames the owner's ongoing question as reconceiving speed and warmth as mutually supporting rather than opposing.",
+     "ng": [
+      "",
+      "Abandoning efficiency entirely is not what the owner is described as weighing.",
+      "Increasing staff numbers is not mentioned as the owner's concern.",
+      "Racing other shops to switch to ticket machines is not mentioned."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "人件費",
+     "じんけんひ",
+     "labor cost"
+    ],
+    [
+     "委ねる",
+     "ゆだねる",
+     "to entrust"
+    ],
+    [
+     "尽きる",
+     "つきる",
+     "to come down to / be exhausted"
+    ]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告（弁天湯シリーズ）",
+   "title": "創業六十周年の報告",
+   "lead": "弁天湯の創業六十周年にあたり、客数や設備の変遷を数字でまとめた報告。",
+   "text": "弁天湯　創業六十周年の報告\n弁天湯は本年、創業から六十年を迎えた。この機会に、これまでの歩みを数字でまとめて報告する。\n【客数の変化】\n創業当初、一日の客数はおおむね四百人前後だったと伝えられている。その後、各家庭に風呂が普及するにつれて客数は減少を続け、二十年前には一日あたり百人を下回る時期もあった。近年はサウナ愛好者の増加や、銭湯巡りを楽しむ若い客層の広がりもあり、一日の客数は百五十人前後まで持ち直している。\n【設備の変遷】\n創業時は薪で湯を沸かしていたが、三十年前にボイラーへ切り替えた。十年前には下駄箱とロッカーをICカード方式に変更し、昨年にはサウナを新設した。富士山のペンキ絵は創業時から数えて三代目にあたり、数年ごとに同じ画家の弟子が描き直している。脱衣所の鏡や扇風機も、壊れるたびに少しずつ新しいものへ入れ替えてきた。\n【従業員の変化】\n創業時は店主の家族のみで運営していたが、客数の増加に合わせて番台の係を雇うようになった。現在は店主のほかに、アルバイトを含めて五人で運営しており、学生から定年後の人まで年齢の幅も広い。\n【今後の方針】\n店主は、設備の更新は続けながらも、番台に人を置く形は変えない方針を明らかにしている。数字だけを見れば無人化のほうが効率的だが、客との短いやり取りを失いたくないという判断によるものだという。七十周年に向けては、設備の老朽化にどう向き合うかが課題になるとみている。",
+   "questions": [
+    {
+     "q": "一日の客数の変化について、報告に書かれている内容として正しいものはどれか。",
+     "c": [
+      "創業当初の約四百人から減り続け、二十年前には百人を下回る時期もあったが、近年は百五十人前後まで持ち直している。",
+      "創業当初から現在まで、一日の客数はほとんど変わらず四百人前後を保っている。",
+      "二十年前がもっとも客数が多く、近年になるほど客数は減り続けている。",
+      "サウナを新設した昨年から、客数が一気に四百人まで戻った。"
+     ],
+     "a": 0,
+     "ev": "二十年前には一日あたり百人を下回る時期もあった。近年はサウナ愛好者の増加や、銭湯巡りを楽しむ若い客層の広がりもあり、一日の客数は百五十人前後まで持ち直している",
+     "why": "The report traces a decline to under 100 a day twenty years ago, followed by a recent recovery to around 150 a day.",
+     "ng": [
+      "",
+      "The report describes a decline and partial recovery, not a flat 400 throughout.",
+      "The report says twenty years ago was a low point, not the peak.",
+      "The report does not say the count jumped straight back to 400 last year."
+     ]
+    },
+    {
+     "q": "店主が番台に人を置く方針を変えない理由として、報告に書かれているものはどれか。",
+     "c": [
+      "数字だけを見れば無人化のほうが効率的だが、客との短いやり取りを失いたくないという判断によるもの。",
+      "無人化のための機械を買うお金が、どうしても用意できないから。",
+      "常連客の全員が、無人化に強く反対しているから。",
+      "番台に人を置くほうが、無人化より明らかに効率的だから。"
+     ],
+     "a": 0,
+     "ev": "数字だけを見れば無人化のほうが効率的だが、客との短いやり取りを失いたくないという判断によるものだという",
+     "why": "The report attributes the decision to not wanting to lose brief exchanges with customers, despite unmanned operation being more efficient by the numbers.",
+     "ng": [
+      "",
+      "A lack of funds for machines is not given as the reason.",
+      "Unanimous customer opposition is not mentioned.",
+      "The report explicitly says unmanned operation would be more efficient by the numbers, not less."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "創業",
+     "そうぎょう",
+     "founding (of a business)"
+    ],
+    [
+     "老朽化",
+     "ろうきゅうか",
+     "aging / deterioration"
+    ],
+    [
+     "持ち直す",
+     "もちなおす",
+     "to recover"
+    ]
+   ]
+  }
+ ]
+}
