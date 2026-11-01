@@ -1,0 +1,113 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "随筆（常盤寺シリーズ）",
+   "title": "静けさと開かれた寺の間で",
+   "lead": "外国人観光客が増える中、常盤寺はどのように静けさを守りながら門戸を開いているのか。",
+   "text": "常盤寺に外国人観光客の姿が増えたのは、ここ数年のことである。境内の静けさを求めて来る檀家と、写真を撮りたい観光客とでは、求めているものが異なる。住職はそのどちらも拒まず、参拝の時間帯を分けることで両者の求めに応じようとしている。\n効率だけを考えれば、観光客の受け入れを制限し、静けさを優先する方が簡単だろう。しかし住職は、開かれた寺であることもまた、長く続いてきたこの寺の役目の一つだと考えている。静けさと開放性という、一見相反する二つを同時に大切にしようとする姿勢に、寺を守り続けることの難しさと誠実さが表れている。",
+   "questions": [
+    {
+     "q": "住職はどのように、静けさと開放性の両方を大切にしようとしていますか。",
+     "c": [
+      "檀家の参拝を、一日あたりの人数を決めて厳しく制限した。",
+      "観光客の受け入れを、去年の秋から完全にやめてしまった。",
+      "参拝の時間帯を分けることで、檀家と観光客それぞれの求めに応じようとしている。",
+      "境内を二つに区切って、檀家用と観光客用の別々のお寺にした。"
+     ],
+     "a": 2,
+     "ev": "参拝の時間帯を分けることで両者の求めに応じようとしている",
+     "why": "The essay says the priest tries to meet both the quiet-seeking parishioners and the photo-taking tourists by separating their visiting hours rather than choosing one over the other.",
+     "ng": [
+      "Parishioner visits are not described as restricted.",
+      "The essay does not say tourist visits were stopped entirely.",
+      "",
+      "Splitting the grounds into two separate temples is not mentioned."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "開放性",
+     "かいほうせい",
+     "openness"
+    ],
+    [
+     "誠実さ",
+     "せいじつさ",
+     "sincerity"
+    ],
+    [
+     "姿勢",
+     "しせい",
+     "attitude/stance"
+    ]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告（常盤寺シリーズ）",
+   "title": "常盤寺三百年の節目にあたって",
+   "lead": "常盤寺が創建から三百年を迎えた節目に、これまでの歩みと今後の計画をまとめた。",
+   "text": "常盤寺　創建三百年の節目にあたっての報告\n【これまでの歩み】\n常盤寺は、江戸時代の中ごろに創建されたと伝えられている。本堂は一度、火事で焼失したが、檀家の寄付によって再建された。昭和の戦災では、境内の一部が被害を受けたものの、本堂は焼け残った。平成に入ってからは、山門と鐘楼の修復が行われ、今の姿に近づいた。\n【近年の取り組み】\n近年は、紙の記録とシステムを併用した法要の管理や、参拝の時間帯を分ける工夫など、檀家と観光客の両方に向き合う取り組みを続けてきた。また、外国語の案内板を増やし、英語での参拝マナーの説明も用意した。\n【今後の計画】\n来年度から、本堂の屋根の修復を予定している。工事の期間は、参拝時間を短縮する可能性がある。詳しい日程が決まり次第、改めてお知らせする。\nまた、境内の一部を整備し、車いすでも通りやすい通路を増やす計画もある。古い石段の一部も、手すりを付けて歩きやすくする予定である。\n【お願い】\n修復のための寄付を受け付けている。寄付の額にかかわらず、御礼の品をお送りする。工事の様子は、節目ごとに受付の掲示板で報告する。詳しくは受付にお問い合わせください。\n【節目の行事】\n三百年を記念する法要は、来年の春に行う予定である。日時が決まり次第、檀家には手紙で、それ以外の方にはお寺の掲示板でお知らせする。",
+   "questions": [
+    {
+     "q": "本堂は、これまでにどのようなことがありましたか。",
+     "c": [
+      "江戸時代の終わりに、幕府の命令で取り壊された。",
+      "創建されてから、一度も被害を受けていない。",
+      "一度火事で焼失し、檀家の寄付によって再建された。",
+      "昭和の戦災で、本堂を含む建物全体が完全に焼失した。"
+     ],
+     "a": 2,
+     "ev": "火事で焼失したが、檀家の寄付によって再建された",
+     "why": "The report says the main hall was once destroyed by fire and rebuilt with donations from parishioners.",
+     "ng": [
+      "Demolition in the Edo period is not mentioned.",
+      "The report does describe damage, not an untouched history.",
+      "",
+      "The main hall survived the wartime damage, not was destroyed by it."
+     ]
+    },
+    {
+     "q": "今後の計画について、正しいものはどれですか。",
+     "c": [
+      "本堂の屋根の修復を予定しており、参拝時間が短縮される可能性がある。",
+      "寄付の受け付けを、今年度をもって終了する。",
+      "本堂をいったん取り壊して、まったく新しい建物に建て直す。",
+      "境内の広さを、来年度から今の半分に縮小する。"
+     ],
+     "a": 0,
+     "ev": "参拝時間を短縮する可能性がある",
+     "why": "The report plans roof restoration work, which may shorten visiting hours during construction.",
+     "ng": [
+      "",
+      "Donations are being accepted, not ended.",
+      "Demolishing and rebuilding the main hall is not the plan.",
+      "Shrinking the grounds in half is not mentioned."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "創建",
+     "そうけん",
+     "founding"
+    ],
+    [
+     "再建",
+     "さいけん",
+     "reconstruction"
+    ],
+    [
+     "修復",
+     "しゅうふく",
+     "restoration"
+    ]
+   ]
+  }
+ ]
+}

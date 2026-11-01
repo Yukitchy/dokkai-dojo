@@ -1,0 +1,113 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（常盤寺シリーズ）",
+   "title": "お墓やご本尊の写真をSNSに載せてよいか",
+   "lead": "観光で訪れた人が本堂やお墓の写真をSNSに載せることについて、檀家の間で意見が分かれている。",
+   "text": "常盤寺を訪れる観光客が増えるにつれて、本堂やご本尊、檀家の墓の写真をSNSに載せる人が目立つようになった。寺としては、多くの人に興味を持ってもらえるのはありがたいが、檀家の中には「お墓の写真が知らない人に見られるのは落ち着かない」と感じる人もいる。\nそこで常盤寺は、本堂とご本尊の写真は自由に撮ってよいが、墓地の写真は撮らないようにお願いする張り紙を出した。すべての希望に応えることはできないが、信仰の場としての落ち着きと、開かれたお寺でありたいという思いの、どちらも大切にしたいという住職の考えが背景にある。",
+   "questions": [
+    {
+     "q": "常盤寺が張り紙で決めたことは何ですか。",
+     "c": [
+      "観光客そのものの境内への立ち入りを全面的に禁止する。",
+      "境内のすべての写真を、理由を問わず完全に禁止する。",
+      "写真を撮った人からは、必ずその場でお金を取る。",
+      "本堂とご本尊の写真は自由に撮ってよいが、墓地の写真は撮らないでほしい。"
+     ],
+     "a": 3,
+     "ev": "墓地の写真は撮らないようにお願いする張り紙を出した",
+     "why": "The column states the temple's notice allows free photos of the main hall and principal image but asks visitors not to photograph the graves.",
+     "ng": [
+      "Visitor entry itself is not restricted.",
+      "Not all photography is banned, only grave photos are discouraged.",
+      "Charging money for photos is not mentioned.",
+      ""
+     ]
+    }
+   ],
+   "words": [
+    [
+     "檀家",
+     "だんか",
+     "parishioner"
+    ],
+    [
+     "信仰",
+     "しんこう",
+     "faith"
+    ],
+    [
+     "背景",
+     "はいけい",
+     "background"
+    ]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（常盤寺シリーズ）",
+   "title": "位牌の記録と法要のお知らせについて",
+   "lead": "常盤寺の、位牌の記録と法要のお知らせの仕組みを見てみましょう。",
+   "text": "常盤寺　位牌の記録と法要のお知らせについて\n【位牌の記録】\n檀家の位牌は、紙の記録帳と、お寺のシステムの両方に記録しています。紙の記録帳は江戸時代から続くもので、古い記録を調べるときに使います。システムの記録は、法要の日が近づくとお知らせを送るために使います。二つの記録は、毎月一回、内容が合っているかを確認しています。\n【法要のお知らせ】\n一周忌、三回忌などの法要が近づくと、登録している電話番号にお知らせの連絡をします。メールでのお知らせも選べます。法要の種類によって、一か月前と一週間前の二回に分けてお知らせすることもあります。\n【登録の仕方】\n受付で申込書に記入すると、紙とシステムの両方に記録されます。すでに紙の記録帳にだけ記録されている方は、システムへの登録を受付で追加できます。登録には、位牌の写真を一枚お預かりすることがあります。\n【お願い】\n電話番号やメールアドレスが変わったときは、早めに受付へご連絡ください。連絡先が古いままだと、お知らせが届きません。\n紙の記録帳は、火事や水害に備えて、別の場所にも控えを保管しています。控えの更新は、毎年一回、住職が確認した上で行っています。\n【閲覧について】\n自分の家の記録を見たい方は、受付で本人であることを確かめたうえで、記録帳のコピーをお見せします。他の家の記録は、見ることができません。",
+   "questions": [
+    {
+     "q": "法要のお知らせは、どのように送られますか。",
+     "c": [
+      "登録している電話番号やメールアドレスに送られる。",
+      "お知らせは、どの方法を使っても送られない。",
+      "毎年、紙の手紙だけで、必ず全員に送られる。",
+      "住職が檀家の家まで来て、口頭で直接伝える。"
+     ],
+     "a": 0,
+     "ev": "登録している電話番号にお知らせの連絡をします",
+     "why": "Notices are sent to the registered phone number, with email also available as an option.",
+     "ng": [
+      "",
+      "Notices are sent, not withheld.",
+      "Notices are not limited to an annual paper letter.",
+      "The priest visiting homes in person is not mentioned."
+     ]
+    },
+    {
+     "q": "紙の記録帳について、正しいものはどれですか。",
+     "c": [
+      "江戸時代にすべて処分された。",
+      "檀家であっても受付では見ることができない。",
+      "システムに記録された人は、紙の記録帳から必ず消される。",
+      "火事や水害に備えて、別の場所にも控えが保管されている。"
+     ],
+     "a": 3,
+     "ev": "別の場所にも控えを保管しています",
+     "why": "A backup copy of the paper ledger is kept at another location in case of fire or flood.",
+     "ng": [
+      "The ledger has continued since the Edo period, not been disposed of.",
+      "The ledger is kept at the reception, not hidden from view.",
+      "Being recorded in the system does not remove someone from the paper ledger.",
+      ""
+     ]
+    }
+   ],
+   "words": [
+    [
+     "位牌",
+     "いはい",
+     "memorial tablet"
+    ],
+    [
+     "法要",
+     "ほうよう",
+     "Buddhist memorial rite"
+    ],
+    [
+     "控え",
+     "ひかえ",
+     "backup copy"
+    ]
+   ]
+  }
+ ]
+}
