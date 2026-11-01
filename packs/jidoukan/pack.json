@@ -1,11 +1,13 @@
 {
  "name": "Jidoukan",
  "title": "Dokkai Dojo",
- "lead": "JLPT reading drills N5-N1 set at a fictional neighborhood children's hall (Donguri Jidoukan).",
+ "lead": "JLPT reading drills N5-N1 set at a fictional neighborhood children's after-school hall (Donguri Jidoukan): a notice about snack time changing, a first day working part-time there, a usage guide, a craft-event notice, a things-to-bring guide, a lesson learned about talking to children thoughtfully, teaching a new staff member the allergy-safe snack routine, an essay on why usage grew, an event calendar, a column on how the role of after-school childcare has changed, a notice of revised operating rules, a reflection on the meaning of time accumulated at a children's hall, and a one-year cooperation report with a local childcare support network. Original texts, answers with the reason for every choice.",
  "levels": [
   "n5",
   "n4",
-  "n3"
+  "n3",
+  "n2",
+  "n1"
  ],
  "allow": [
   "どんぐり",
