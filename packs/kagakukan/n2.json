@@ -1,0 +1,89 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（ほしぞら科学館シリーズ）",
+   "title": "展示内容が多様化してきたことについて",
+   "lead": "ほしぞら科学館のような施設に求められる展示の形の変化について考えた文章である。",
+   "text": "ほしぞら科学館の展示は、以前は天文や物理といった分野に限られていたが、近年は生物や環境など、扱う分野が大きく広がってきた。\nこのような多様化の背景には、来館者の関心が一つの分野にとどまらず、幅広い科学へと向かうようになったことがある。かつては天体望遠鏡や模型を並べるだけで十分だったが、今は生きた生物を観察できる水槽や、環境問題を体感できる展示も求められるようになった。\n単に「知識を並べる場」ではなく「関心の広がりを支える場」として展示をとらえ直すことが、今、求められているのではないだろうか。",
+   "questions": [
+    {
+     "q": "この文章で筆者が最も伝えたいことは何か。",
+     "c": [
+      "展示は「知識を並べる場」ではなく「関心の広がりを支える場」として、とらえ直すことが求められているということ。",
+      "来館者の関心は、今後、天文や物理だけに戻っていくということ。",
+      "天体望遠鏡や模型の充実だけで、すべての来館者の関心に完全に応えられるということ。",
+      "分野を広げる取り組みは、すでに十分に進んでいるということ。"
+     ],
+     "a": 0,
+     "ev": "単に「知識を並べる場」ではなく「関心の広がりを支える場」として展示をとらえ直すことが、今、求められている",
+     "why": "The writer argues exhibits need to be rethought as places supporting the spread of visitors' interests, not just a place to line up knowledge.",
+     "ng": [
+      "",
+      "The passage says interests have been spreading beyond astronomy and physics, the opposite of narrowing back.",
+      "The passage says telescopes and models alone cannot necessarily meet every visitor's interest, the opposite claim.",
+      "The passage says this kind of rethinking is only now becoming more valued, not already sufficiently advanced."
+     ]
+    }
+   ],
+   "words": [
+    ["多様化", "たようか", "diversification"],
+    ["観察", "かんさつ", "observation"],
+    ["とらえ直す", "とらえなおす", "to rethink/reconsider"]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（ほしぞら科学館シリーズ）",
+   "title": "体験教室の予約規約改定のご案内",
+   "lead": "ほしぞら科学館の体験教室の予約規約の改定について、利用者に向けて説明した案内文である。",
+   "text": "利用者の皆様へ\n\nこのたび、ほしぞら科学館の体験教室予約規約{きやく}を一部改定{かいてい}いたしましたので、下記の通りご案内いたします。今回の改定は、近年の申込み状況の変化にともない、公平で安定した運営を続けるために必要な見直しとして行うものです。\n\n一、キャンセルの受付時期について\nこれまでキャンセルは開催日の前日まで受け付けておりましたが、今回から、開催の三日前までとさせていただきます。期日が近づいた方には、事前にお知らせいたします。\n\n二、予約の変更について\n予約内容の変更は、これまで電話のみで受け付けておりましたが、今回から、ホームページからの変更も可能になりました。\n\n三、荒天時の対応について\n台風や大雪などの荒天により、科学館の判断で、申込者の同意を待たず、開催日時の変更や中止を行うことがあります。\n\n四、キャンセル料の金額の見直しについて\nキャンセル料は、これまで参加料金の全額を一律にいただいておりましたが、今回から、キャンセルの時期に応じて金額を変える形に改めます。これは、早めにキャンセルを決めた方へ、負担をより具体的な形で軽くしたいという考えによるものです。\n\n五、団体予約について\n予約規約の改定にともない、団体での参加予約についても、今回から、前日までのキャンセルを可能にいたします。\n\nご不便をおかけしますが、ご理解とご協力をお願いいたします。",
+   "questions": [
+    {
+     "q": "今回の改定で、新しく決められたことはどれか。",
+     "c": [
+      "キャンセルの受付が、開催の三日前までになること。",
+      "予約の変更を電話でしかできなくすること。",
+      "荒天時にも、必ず申込者の同意を得てから開催日時を変えること。",
+      "キャンセル料を、全額一律のまま変えないこと。"
+     ],
+     "a": 0,
+     "ev": "今回から、開催の三日前までとさせていただきます",
+     "why": "The revision newly sets cancellation to be accepted only up until three days before the event.",
+     "ng": [
+      "",
+      "The revision adds a website option, the opposite of limiting to phone only.",
+      "The guide says the museum may act without waiting for the applicant's consent in severe weather.",
+      "The revision changes the fee to vary by timing, not stay uniform."
+     ]
+    },
+    {
+     "q": "予約の変更について、正しいものはどれか。",
+     "c": [
+      "ホームページからの変更も可能になった。",
+      "変更は、電話でしかできない。",
+      "変更は、いかなる場合もできない。",
+      "変更には、必ず手数料がかかる。"
+     ],
+     "a": 0,
+     "ev": "今回から、ホームページからの変更も可能になりました",
+     "why": "The guide says making changes via the website has newly become possible.",
+     "ng": [
+      "",
+      "The guide adds the website option, so it is no longer phone-only.",
+      "The guide describes changes becoming possible in more ways, not prohibited.",
+      "A fee for the change itself is not mentioned here."
+     ]
+    }
+   ],
+   "words": [
+    ["規約", "きやく", "rules/terms"],
+    ["改定", "かいてい", "revision"],
+    ["負担", "ふたん", "burden/cost"]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "コラム（ほしぞら科学館シリーズ）",
+   "title": "科学館に残り続けるもの",
+   "lead": "ほしぞら科学館の入口に残り続けている古い望遠鏡から考える、場所に積み重ねられる時間についての文章である。",
+   "text": "ほしぞら科学館の入口には、三十年近く前から変わらない真鍮{しんちゅう}製の小さな望遠鏡が、今も展示され続けている。\n性能の面では、最新のデジタル望遠鏡のほうがはるかに精密で、わざわざこの古い望遠鏡を残す必要はないと言いがたい。それでも歴代の館長たちは、この望遠鏡を撤去することをためらい続けてきた。\nかつてこの望遠鏡で星を見た子どもが、やがて自分の子を連れて戻ってくる。その循環{じゅんかん}のなかで、一つの望遠鏡に、血のつながりを超えた時間の厚みが重なっていく。数字には表れないその価値を、簡単に切り捨てたくはない。",
+   "questions": [
+    {
+     "q": "この文章で筆者が最も伝えたいことは何か。",
+     "c": [
+      "かつて望遠鏡で星を見た子どもがやがて戻ってくる循環のなかで積み重なる時間には、数字に表れない価値があるということ。",
+      "古い真鍮製の望遠鏡は、デジタル望遠鏡に劣るので、すぐに撤去すべきだということ。",
+      "望遠鏡の数をもっと増やし、古いものも含めてすべて頻繁に新しいものへ入れ替えていくべきだということ。",
+      "かつての来館者が、自分の子を連れて戻ってくることは二度とないということ。"
+     ],
+     "a": 0,
+     "ev": "数字には表れないその価値を、簡単に切り捨てたくはない",
+     "why": "The writer's main point is that the time accumulated through the cycle of visitors returning carries a value that doesn't show up in numbers.",
+     "ng": [
+      "",
+      "The passage describes the directors resisting removal, not arguing for quick disposal.",
+      "Increasing the number of telescopes to replace old ones is not the writer's point.",
+      "The passage describes someone returning, the opposite of never returning."
+     ]
+    }
+   ],
+   "words": [
+    ["真鍮{しんちゅう}", "しんちゅう", "brass"],
+    ["循環{じゅんかん}", "じゅんかん", "cycle/circulation"],
+    ["切り捨てる", "きりすてる", "to discard/cut off"]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告書（ほしぞら科学館シリーズ）",
+   "title": "地域の小学校との提携に関する一年間の協力報告",
+   "lead": "ほしぞら科学館が、昨年から取り組んでいる地域の小学校との提携についての、一年間の報告である。",
+   "text": "ほしぞら科学館　地域の小学校との提携に関する一年間の協力報告\n\n一、連携の背景\nほしぞら科学館は、昨年四月より、最寄りの小学校三校と提携し、児童への科学教育の体制を整えてきた。学校の授業だけでは取りこぼしていた、実物に触れる体験を、科学館とともに取り入れることを目的としている。\n\n二、主な取り組み\n月に一度、各校の担当教員が集まり、授業と連動した体験教室の内容について話し合う会議を開いた。会議では児童の個人情報の扱いに注意し、守秘義務を徹底した。また、科学館の職員を学校に派遣し、各校単独では用意しにくい実験の出張授業を、共同で実施した。\n\n三、見えてきた成果\nこの一年で、提携を通じて、三校のうち、二校については、児童の理科への関心が高まったという報告が担当教員から寄せられ、休日の来館者増加にもつながった。学校の授業だけでは気づきにくかった児童の関心も含まれている。\n\n四、今後の課題\n一方で、出張授業の開催時間が平日の授業時間内に限られており、担当教員本人の立ち会いが毎回必要になる。また、体験教室の参加人数をどこまで増やすべきか、学校と科学館の間で判断が分かれる場面もあった。参加人数を増やしすぎれば各校の負担になり、慎重になりすぎれば連携の効果が薄れる。その線引{せんび}きは、まだ定まっていない。\n\n五、来年度の計画\n来年度は、出張授業の回数を増やし、長期休み中にも一回設けることを検討している。また、参加人数については、学校と科学館で統一した基準を一つ作ることを目指し、改めて協議する予定である。",
+   "questions": [
+    {
+     "q": "この一年の取り組みの成果として、報告書に挙げられているのはどれか。",
+     "c": [
+      "担当教員が、毎週会議を開くようになったこと。",
+      "提携を通じて、三校のうち二校で児童の理科への関心が高まったという報告が寄せられたこと。",
+      "すべての担当教員が、出張授業に毎回立ち会わなくてよくなったこと。",
+      "体験教室の参加人数について、学校と科学館の判断が完全に一致したこと。"
+     ],
+     "a": 1,
+     "ev": "三校のうち、二校については、児童の理科への関心が高まったという報告が担当教員から寄せられ",
+     "why": "The report lists, as an achievement, two of the three schools reporting that children's interest in science increased through the partnership.",
+     "ng": [
+      "The report describes monthly meetings, not weekly ones.",
+      "",
+      "The report says the teacher in charge must attend every time, the opposite of no longer needing to.",
+      "The report says judgment on the number of participants differed, not that it was fully unified."
+     ]
+    },
+    {
+     "q": "今後の課題として、報告書に挙げられているのはどれか。",
+     "c": [
+      "出張授業の開催時間が平日の授業時間内に限られ、担当教員本人の立ち会いが毎回必要になること。",
+      "科学館を利用する児童の数が減り続けていること。",
+      "小学校との提携が、制度上禁止されていること。",
+      "体験教室の参加人数について、学校と科学館の間で意見が一度も分かれなかったこと。"
+     ],
+     "a": 0,
+     "ev": "出張授業の開催時間が平日の授業時間内に限られており、担当教員本人の立ち会いが毎回必要になる",
+     "why": "The report raises, as a challenge, that the outreach classes are held only during weekday class hours, requiring the teacher in charge to attend every time.",
+     "ng": [
+      "",
+      "A decline in the number of children using the museum is not mentioned.",
+      "Partnering with elementary schools is described as ongoing, not prohibited.",
+      "The report says judgment differed between the groups, so this is the opposite of what is stated."
+     ]
+    }
+   ],
+   "words": [
+    ["提携", "ていけい", "partnership/tie-up"],
+    ["派遣", "はけん", "dispatch (sending staff out)"],
+    ["線引{せんび}き", "せんびき", "drawing the line/setting a boundary"]
+   ]
+  }
+ ]
+}
