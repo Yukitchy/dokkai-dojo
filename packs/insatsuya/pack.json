@@ -1,0 +1,17 @@
+{
+ "name": "Insatsuya",
+ "title": "Dokkai Dojo",
+ "lead": "JLPT reading drills N5-N1 set at a fictional neighborhood print shop: a business-card printing service announcement, a first day helping print flyers, a menu and price list with a point-card bonus, a large-poster printing service notice, a bookbinding-service comparison, a column on learning to ask customers about paper types, a part-timer lesson on basic printer operation, an explainer on why a photo-print corner started, a graduation-album printing application guide, a column on how more online orders changed the shop's day, a busy-season reception rule, a column on the meaning of a print shop's craft, and a one-year cooperation report with a nearby paper manufacturer.",
+ "levels": ["n5", "n4", "n3", "n2", "n1"],
+ "allow": [
+  "あおば", "印刷", "印刷機", "印刷屋", "名刺", "チラシ", "ポスター", "製本", "用紙", "紙", "表紙",
+  "写真プリント", "卒業アルバム", "オンライン注文", "繁忙期", "受付", "窓口", "申し込む", "申し込み",
+  "お知らせ", "問い合わせ", "比較", "対応", "期間", "内容", "場合", "変わる", "答え", "断る",
+  "値段", "代金", "仕入れ先", "需要", "来店", "受け取り", "笑顔", "手伝い", "先輩", "店長",
+  "上手", "越す", "最後", "使い切る", "余裕", "湿気", "機械", "できあがり", "仕上がる",
+  "違和感", "にじみ", "遜色ない", "製紙会社", "納品量", "見込み", "専用", "器", "都合",
+  "声", "好み", "目安", "相談", "確認", "優先", "先着順", "追加", "向き合い方", "仕組み",
+  "提出", "客", "お客", "届く", "料金", "もう一度", "よく", "書く", "計る", "お断り",
+  "増やす", "店員", "注文", "減らす", "無料", "仕上がり"
+ ]
+}

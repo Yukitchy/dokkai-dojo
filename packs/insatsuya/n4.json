@@ -1,0 +1,113 @@
+{
+ "level": "n4",
+ "passages": [
+  {
+   "id": "n4-01",
+   "type": "short",
+   "genre": "お知{し}らせ（あおば印刷{いんさつ}シリーズ）",
+   "title": "大{おお}きいポスターの印刷{いんさつ}サービス開始{かいし}のお知{し}らせ",
+   "lead": "あおば印刷{いんさつ}で、大{おお}きいポスターの印刷{いんさつ}サービスが始{はじ}まります。",
+   "text": "「お知{し}らせ」\nあおば印刷{いんさつ}では、来月{らいげつ}から、大{おお}きいポスターの印刷{いんさつ}サービスを始{はじ}めます。「イベントの前{まえ}に大{おお}きいポスターを作{つく}りたい」というお客{きゃく}さんの声{こえ}が多{おお}かったためです。\nポスターの印刷{いんさつ}は、レジの窓口{まどぐち}で申{もう}し込{こ}むことができます。申{もう}し込{こ}んでから、仕上{しあ}がるまで二十分{にじゅっぷん}ほどかかります。",
+   "questions": [
+    {
+     "q": "このお知{し}らせについて、正{ただ}しいものはどれですか。",
+     "c": [
+      "ポスターの印刷{いんさつ}サービスは、もう終{お}わる。",
+      "来月{らいげつ}から、大{おお}きいポスターの印刷{いんさつ}ができるようになる。",
+      "ポスターは、ホームページでしか申{もう}し込{こ}めない。",
+      "申{もう}し込{こ}んだらすぐに仕上{しあ}がる。"
+     ],
+     "a": 1,
+     "ev": "大きいポスターの印刷サービスを始めます",
+     "why": "Starting next month, printing of large posters will begin.",
+     "ng": [
+      "The notice is about starting the service, not ending it.",
+      "",
+      "The notice says it can be applied for at the register counter, not only the website.",
+      "The notice says it takes about 20 minutes to finish, not that it is ready right away."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "窓口",
+     "まどぐち",
+     "counter; window"
+    ],
+    [
+     "声",
+     "こえ",
+     "voice; opinion"
+    ],
+    [
+     "仕上がる",
+     "しあがる",
+     "to be finished; to be completed"
+    ]
+   ]
+  },
+  {
+   "id": "n4-02",
+   "type": "info",
+   "genre": "案内{あんない}（あおば印刷{いんさつ}シリーズ）",
+   "title": "製本{せいほん}サービスの比較{ひかく}",
+   "lead": "あおば印刷{いんさつ}の、製本{せいほん}サービスの二{ふた}つの種類{しゅるい}を比{くら}べてみましょう。",
+   "text": "あおば印刷{いんさつ}　製本{せいほん}サービスの比較{ひかく}\n【無料{むりょう}製本{せいほん}】\n料金{りょうきん}：無料{むりょう}\n期間{きかん}：注文{ちゅうもん}したその場{ば}\n内容{ないよう}：紙{かみ}の束{たば}をホチキスで留{と}める対応{たいおう}です。\n【特製{とくせい}製本{せいほん}】\n料金{りょうきん}：三百円{さんびゃくえん}\n期間{きかん}：注文{ちゅうもん}した次{つぎ}の日{ひ}\n内容{ないよう}：普通{ふつう}の製本{せいほん}と同{おな}じ対応{たいおう}を、表紙{ひょうし}もつけて行{おこな}います。\nどちらも、注文{ちゅうもん}するときに店員{てんいん}に伝{つた}えてください。紙{かみ}の枚数{まいすう}が大{おお}きく変{か}わる場合{ばあい}は、お断{ことわ}りすることもあります。\n【よくある質問{しつもん}】\n質問{しつもん}：特製{とくせい}製本{せいほん}の間{あいだ}、紙{かみ}はどうなりますか。\n答{こた}え：注文{ちゅうもん}してから仕上{しあ}がるまで、普通{ふつう}より少{すこ}し時間{じかん}がかかります。お時間{じかん}に余裕{よゆう}を持{も}ってお越{こ}しください。\n質問{しつもん}：製本{せいほん}ができない場合{ばあい}はありますか。\n答{こた}え：最後{さいご}の表紙{ひょうし}用紙{ようし}を使{つか}い切{き}っている場合{ばあい}は、枚数{まいすう}を増{ふ}やすと対応{たいおう}できないため、お断{ことわ}りすることがあります。",
+   "questions": [
+    {
+     "q": "特製{とくせい}製本{せいほん}は、無料{むりょう}製本{せいほん}と比{くら}べて、何{なに}が違{ちが}いますか。",
+     "c": [
+      "対応{たいおう}の内容{ないよう}が全{まった}く違{ちが}う。",
+      "料金{りょうきん}と表紙{ひょうし}の有無{ゆうむ}が違{ちが}う。",
+      "店員{てんいん}に伝{つた}えなくてもよい。",
+      "お断{ことわ}りされることがない。"
+     ],
+     "a": 1,
+     "ev": "普通の製本と同じ対応を、表紙もつけて行います",
+     "why": "The price and whether a cover is included are different, but the explanation says the work itself is the same, just with a cover added.",
+     "ng": [
+      "The explanation says the work is the same, just with a cover added.",
+      "",
+      "Both services say to tell the staff when ordering.",
+      "The explanation says a large change in paper count may still be refused for either service."
+     ]
+    },
+    {
+     "q": "製本{せいほん}ができない場合{ばあい}があるのは、どんなときですか。",
+     "c": [
+      "お店{みせ}が休{やす}みのとき。",
+      "最後{さいご}の表紙{ひょうし}用紙{ようし}を使{つか}い切{き}っていて、枚数{まいすう}が大{おお}きく変{か}わるとき。",
+      "特製{とくせい}製本{せいほん}を選{えら}んだとき。",
+      "紙{かみ}が湿{しめ}っていないとき。"
+     ],
+     "a": 1,
+     "ev": "最後の表紙用紙を使い切っている場合は、枚数を増やすと対応できないため、お断りすることがあります",
+     "why": "When the last cover sheet has been used up, a large increase in page count may be refused.",
+     "ng": [
+      "Store holidays are not mentioned as a reason for refusal.",
+      "",
+      "Choosing the special binding is not given as a reason for refusal.",
+      "Whether the paper is dry is not mentioned as a reason for refusal."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "比較",
+     "ひかく",
+     "comparison"
+    ],
+    [
+     "表紙",
+     "ひょうし",
+     "cover"
+    ],
+    [
+     "場合",
+     "ばあい",
+     "case; situation"
+    ]
+   ]
+  }
+ ]
+}
