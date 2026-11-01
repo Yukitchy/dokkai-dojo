@@ -1,0 +1,113 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（とめとめ駐輪場シリーズ）",
+   "title": "定期券のネット申し込みが増えて変わった一日の流れ",
+   "lead": "申し込みが増えたことで、とめとめ駐輪場の一日はどう変わったのか。",
+   "text": "定期券のネット申し込みが増えて変わった一日の流れ\nネットでの定期券申し込みを導入してから二年がたち、今では申し込みの七割以上がインターネット経由になった。以前は、月末になると窓口に長い行列ができ、受付担当者は対応に追われていた。今はその時間を、自転車の並べ直しや放置自転車の点検に使えるようになった。\n申し込みの時間帯が窓口からネットに移ったことで、窓口を必要とするお客さんには、以前よりゆっくり話を聞けるようになった。件数をさばく仕事から、一人ひとりに向き合う仕事へと役割が変わりつつある。",
+   "questions": [
+    {
+     "q": "定期券のネット申し込みが増えて、受付担当者の仕事はどう変わったか。",
+     "c": [
+      "申し込み対応より、自転車の並べ直しや点検に時間を使うようになった。",
+      "申し込み対応の仕事が増えた。",
+      "自転車の台数を減らす仕事が中心になった。",
+      "申し込み管理を外部の会社に委託するようになった。"
+     ],
+     "a": 0,
+     "ev": "自転車の並べ直しや放置自転車の点検に使えるようになった",
+     "why": "The text says staff now spend time on bicycle arrangement and inspection, rather than handling applications as before.",
+     "ng": [
+      "",
+      "The text says this kind of work decreased, not increased.",
+      "Reducing the number of bicycles is not mentioned.",
+      "Outsourcing to another company is not mentioned."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "導入{どうにゅう}",
+     "どうにゅう",
+     "introduction"
+    ],
+    [
+     "対応{たいおう}",
+     "たいおう",
+     "response/handling"
+    ],
+    [
+     "役割{やくわり}",
+     "やくわり",
+     "role"
+    ]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（とめとめ駐輪場シリーズ）",
+   "title": "年末年始の利用ルールの新基準について",
+   "lead": "年末年始の混雑に向けた、新しい利用の基準を見てみましょう。",
+   "text": "年末年始の利用ルールの新基準について\nとめとめ駐輪場では、年末年始の混雑に対応するため、利用ルールの新しい基準を定めた。従来は当日受付を基本としていたが、十二月二十九日から一月三日までの期間は、定期券を持つ人を優先して受け付ける体制に切り替える。\nこの期間は、一日あたりの新規受付台数の上限を通常の六割に減らし、既存の定期券利用者の場所を確保することを優先する。あわせて、放置自転車の撤去作業も一時的に停止し、混雑時にかぎの受け渡しでトラブルが相次ぐ事態を防ぐため、受付の人員を通常より一人増やすことにした。\nスタッフの体制についても、繁忙期にかかわらず自転車の列の安全確認を怠らないよう、毎朝の点検時間を確保することにした。売り上げを優先するあまり安全確認を省略することがないよう、基準づくりの段階から地域の防犯協会の意見も取り入れている。\n過去には、年末年始の混雑時に自転車の列が崩れ、通路をふさいでしまったこともあったという。そうした経験をふまえ、スタッフ同士で混雑状況を細かく報告し合う体制も合わせて整えた。繁忙期だからこそ気づきにくくなる小さな変化を、見逃さない仕組みをつくることが目的である。\nお客さんの側からも、安全確認への理解を求める案内を増やし、便利さと安全の両立を目指している。今後も、利用者数と安全のバランスを見ながら、基準を毎年見直していく方針である。",
+   "questions": [
+    {
+     "q": "年末年始の新基準について、正しいものはどれか。",
+     "c": [
+      "十二月二十九日から一月三日までは、定期券を持つ人を優先して受け付ける。",
+      "この期間は、新規受付台数の上限が増える。",
+      "この期間は、放置自転車の撤去作業をいつもより増やす。",
+      "受付の人員は、通常より減らす。"
+     ],
+     "a": 0,
+     "ev": "定期券を持つ人を優先して受け付ける体制に切り替える",
+     "why": "From December 29 to January 3, the facility switches to prioritizing people with commuter passes.",
+     "ng": [
+      "",
+      "The text says the new-registration cap is reduced to 60%, not increased.",
+      "The text says removal work is temporarily paused, not increased.",
+      "The text says staffing is increased by one, not decreased."
+     ]
+    },
+    {
+     "q": "この新基準を作るとき、何を大切にしたか。",
+     "c": [
+      "便利さだけでなく、安全確認にも配慮すること。",
+      "できるだけ多くの自転車を一度に受け付けること。",
+      "スタッフの休憩時間を増やすこと。",
+      "防犯協会の意見をすべて無視すること。"
+     ],
+     "a": 0,
+     "ev": "売り上げを優先するあまり安全確認を省略することがないよう",
+     "why": "The standard was built so that prioritizing sales or convenience would not lead to skipping safety checks.",
+     "ng": [
+      "",
+      "The text reduces the registration cap rather than maximizing it.",
+      "Staff rest time is not the focus described here.",
+      "The text says the crime-prevention association's opinions were incorporated, not ignored."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "基準{きじゅん}",
+     "きじゅん",
+     "standard"
+    ],
+    [
+     "優先{ゆうせん}",
+     "ゆうせん",
+     "priority"
+    ],
+    [
+     "両立{りょうりつ}",
+     "りょうりつ",
+     "balance"
+    ]
+   ]
+  }
+ ]
+}

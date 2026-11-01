@@ -1,0 +1,113 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "コラム（とめとめ駐輪場シリーズ）",
+   "title": "駐輪場という場所で積み重ねられる経験の意味",
+   "lead": "長年現場で働いてきた先輩の判断力が、何によって育てられたのかを考える。",
+   "text": "駐輪場という場所で積み重ねられる経験の意味\n長年とめとめ駐輪場で働いてきた先輩は、自転車の止め方を一目見るだけで、その人がどれくらいこの駅を使い慣れているかを言い当てることができる。ハンドルの向きやスタンドの立て方のわずかな違いから、利用者の生活のリズムまで読み取っているように見える。\nこうした感覚は、マニュアルに書き起こせるものではない。現場で積み重ねた時間だけが育てる判断力があるのだと、先輩の後ろ姿を見るたびに思い知らされる。",
+   "questions": [
+    {
+     "q": "この文章で、先輩の判断力について筆者はどう述べているか。",
+     "c": [
+      "マニュアルでは伝えられない、現場での時間が育てたものだ。",
+      "新人でもすぐに身につけられる単純な技術だ。",
+      "効率化によって、今後は不要になっていく力だ。",
+      "自転車の種類を覚えるだけで得られるものだ。"
+     ],
+     "a": 0,
+     "ev": "現場で積み重ねた時間だけが育てる判断力",
+     "why": "The writer describes the senior staff's judgment as something built only by time accumulated on the job, not something a manual can convey.",
+     "ng": [
+      "",
+      "The text does not say newcomers immediately notice or acquire this.",
+      "The text does not suggest this kind of experience is becoming unnecessary.",
+      "The text is not about memorizing bicycle types."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "判断力{はんだんりょく}",
+     "はんだんりょく",
+     "judgment/discernment"
+    ],
+    [
+     "読{よ}み取{と}る",
+     "よみとる",
+     "to read/discern"
+    ],
+    [
+     "厚{あつ}み",
+     "あつみ",
+     "depth/richness"
+    ]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告書（とめとめ駐輪場シリーズ）",
+   "title": "地域の駅前放置自転車対策協議会との一年間の協力報告",
+   "lead": "地域の協議会との一年間の連携による、放置自転車対策の成果と課題の報告。",
+   "text": "地域の駅前放置自転車対策協議会との一年間の協力報告\nとめとめ駐輪場は、市役所・警察・商店会の代表で構成される駅前放置自転車対策協議会と連携し、放置自転車の削減に取り組んできた。本報告は、発足から一年を経た現時点での成果と課題をまとめたものである。\n【取り組みの概要】\n協議会発足以前は、駐輪場単独で撤去作業を行っていたが、撤去した自転車の保管場所や、持ち主への連絡方法に限界があった。協議会発足後は、市役所が保管所の拡充を担い、警察が盗難車両との照合を行い、駐輪場が現場での撤去とイベントによる再利用を担う、という役割分担が明確になった。\n【一年間の成果】\n駅前通りの放置自転車は、取り組み開始前と比べて約四割減少した。持ち主への連絡がつき、無料で引き取られた自転車は五十台を超える。商店会からも、歩行者が増え、通りの印象が変わったという声が寄せられている。\n【残された課題】\n一方で、撤去から保管、引き渡しまでの手続きにかかる時間は、依然として長い。特に、連絡先が変わっていて持ち主に届かないケースへの対応は、今後も検討が必要である。また、学生の長期休みの前後には放置自転車が一時的に増える傾向があり、季節による対策の強弱をどう設計するかも課題として残っている。\n協議会は、来年度も同じ体制を継続しつつ、保管期間の見直しと、持ち主への連絡手段の多様化について、関係機関と協議を重ねていく方針である。",
+   "questions": [
+    {
+     "q": "協議会発足前と後で、駐輪場の役割はどう変わったか。",
+     "c": [
+      "現場での撤去とイベントによる再利用を担うことに役割が明確になった。",
+      "保管所の拡充という仕事についても、すべて駐輪場だけが単独で担うようになった。",
+      "盗難車両の照合を駐輪場が担うようになった。",
+      "駐輪場は撤去作業から完全に手を引いた。"
+     ],
+     "a": 0,
+     "ev": "駐輪場が現場での撤去とイベントによる再利用を担う",
+     "why": "After the council was formed, the parking lot's role became focused on on-site removal and reuse events, while the city handles storage expansion and police handle theft matching.",
+     "ng": [
+      "",
+      "Storage expansion is handled by the city office, not the parking lot.",
+      "Matching stolen vehicles is handled by the police, not the parking lot.",
+      "The text does not say the parking lot withdrew from removal work."
+     ]
+    },
+    {
+     "q": "一年間の取り組みで、残された課題として挙げられているのは何か。",
+     "c": [
+      "連絡先が変わっていて持ち主に届かないケースへの対応。",
+      "放置自転車が完全になくなったこと。",
+      "商店会からの協力がまったくないこと。",
+      "市役所と警察の役割分担がまだ決まっていないこと。"
+     ],
+     "a": 0,
+     "ev": "連絡先が変わっていて持ち主に届かないケースへの対応は、今後も検討が必要である",
+     "why": "One remaining issue named is handling cases where contact information has changed and owners cannot be reached.",
+     "ng": [
+      "",
+      "The report says a reduction occurred, not complete elimination.",
+      "The report describes cooperation from the merchants' association, not its absence.",
+      "Role division between the city and police is already described as settled, not undecided."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "協議会{きょうぎかい}",
+     "きょうぎかい",
+     "council"
+    ],
+    [
+     "連携{れんけい}",
+     "れんけい",
+     "collaboration"
+    ],
+    [
+     "削減{さくげん}",
+     "さくげん",
+     "reduction"
+    ]
+   ]
+  }
+ ]
+}
