@@ -1,0 +1,113 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（ひまわり学習塾シリーズ）",
+   "title": "オンライン申し込みが増えて変わった塾の一日",
+   "lead": "オンライン申し込みが増えたことで、塾の一日はどう変わったのだろうか。",
+   "text": "オンライン申し込みが増えて変わった塾の一日\nひまわり学習塾で模擬試験のオンライン申し込みを始めてから一年がたち、申し込みの八割近くがインターネット経由になった。以前は、締め切り間際になると受付の電話が鳴りやまず、対応に追われる日が続いていたが、今ではその時間を、生徒一人一人の学習記録を見直す作業に使えるようになった。\n申し込みの手間が減ったことで、受付の先生たちは、電話や窓口での対応にもっと時間をかけられるようになったという。システムの導入は負担を減らすだけでなく、生徒と向き合う時間を増やすことにもつながったようだ。",
+   "questions": [
+    {
+     "q": "オンライン申し込みが増えたことで、受付の先生たちにはどのような変化があったか。",
+     "c": [
+      "電話や窓口での対応にもっと時間をかけられるようになった。",
+      "電話や窓口での対応をする時間が、以前よりなくなった。",
+      "生徒と話す時間が、以前よりも減った。",
+      "システムの導入によって、仕事が以前より増えた。"
+     ],
+     "a": 0,
+     "ev": "電話や窓口での対応にもっと時間をかけられるようになった",
+     "why": "With fewer phone calls about applications, reception staff could spend more time on phone and counter interactions.",
+     "ng": [
+      "",
+      "The passage says staff gained more time for these interactions, not less.",
+      "The passage says staff could spend more time with students via these interactions, not less.",
+      "The passage frames the system as reducing burden, not increasing it."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "対応{たいおう}",
+     "たいおう",
+     "response/handling"
+    ],
+    [
+     "導入{どうにゅう}",
+     "どうにゅう",
+     "introduction"
+    ],
+    [
+     "負担{ふたん}",
+     "ふたん",
+     "burden"
+    ]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内{あんない}（ひまわり学習塾シリーズ）",
+   "title": "冬期講習の新しい基準について",
+   "lead": "クラス編成の基準が、来月から変わるようだ。",
+   "text": "ひまわり学習塾　冬期講習の新しい基準について\n今年の冬期講習から、クラス編成の基準をいくつか見直すことになった。これまでは学年だけでクラスを分けていたが、学年が同じでも得意な教科と苦手な教科には大きな差があり、授業の内容が合わない生徒が一定数いることが、保護者からの意見を通じて明らかになっていた。\nそこで、今回からは、入塾時の確認テストの結果に基づいて、学年にかかわらず教科ごとに三段階のクラスに分ける方式を試みる。基礎クラスは、その教科の土台を固めることに重点を置き、標準クラスは学校の進度に合わせた演習を中心に行う。発展クラスは、入試を見据えた応用問題に取り組む。\nこの方式は、すでに姉妹校で半年間の試験運用を行っており、その結果、教科ごとにクラスを分けた生徒の方が、学年だけで分けた生徒よりも、定期試験の点数の伸びが大きかったという報告が上がっている。一方で、確認テストの回数が増えることで、生徒の負担が増すのではないかという懸念の声も一部の保護者から寄せられている。\n塾としては、確認テストはあくまで生徒に合ったクラスを見つけるための手段であり、順位を競わせる目的ではないことを、今後の説明会で丁寧に伝えていく方針だ。授業料については、クラスの数が増える分、運営の手間も増えるが、保護者の負担が増えないよう、現在の料金体系を維持することを決めている。\nクラスの移動は、一か月に一度行われる確認テストの結果をもとに、必要に応じて行われる。無理に上のクラスへ移すことはせず、生徒本人の希望と担当講師の判断を合わせて決めるという方針だ。\nこの新しい基準について、保護者説明会を来月の第一土曜日に開く。出席できない保護者には、説明資料を後日配布する予定である。",
+   "questions": [
+    {
+     "q": "新しいクラス編成の基準は、何に基づいて決まるか。",
+     "c": [
+      "入塾時の確認テストの結果に基づいて、教科ごとに三段階に分ける。",
+      "学年だけに基づいて、二段階に分ける。",
+      "生徒の希望する教科だけに基づいて分ける。",
+      "保護者の職業に基づいて分ける。"
+     ],
+     "a": 0,
+     "ev": "入塾時の確認テストの結果に基づいて、学年にかかわらず教科ごとに三段階のクラスに分ける",
+     "why": "The new placement is based on results of an entry confirmation test, dividing students into three levels per subject regardless of grade.",
+     "ng": [
+      "",
+      "The old system used grade alone with no subject-based division; the new one changes this.",
+      "The passage does not say placement is based solely on the subject a student wants.",
+      "The passage does not mention parents' occupations."
+     ]
+    },
+    {
+     "q": "この新しい基準について、塾はどのような方針を説明するとしているか。",
+     "c": [
+      "確認テストは生徒に合ったクラスを見つけるための手段であり、順位を競わせる目的ではないこと。",
+      "確認テストの結果は、本人にも保護者にも一切知らせず、クラスだけを一方的に決めてしまうこと。",
+      "確認テストで良い成績を取った生徒だけを特別待遇すること。",
+      "確認テストをやめて、全員同じクラスにすること。"
+     ],
+     "a": 0,
+     "ev": "確認テストはあくまで生徒に合ったクラスを見つけるための手段であり、順位を競わせる目的ではない",
+     "why": "The school plans to explain that the confirmation test is a means of finding the right class for each student, not a way to rank them against each other.",
+     "ng": [
+      "",
+      "The passage does not say results are kept entirely from parents; a briefing session is planned instead.",
+      "The passage does not mention special treatment for high scorers.",
+      "The passage describes adding tests, not removing them."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "編成{へんせい}",
+     "へんせい",
+     "organization/formation"
+    ],
+    [
+     "基{き}づく",
+     "きづく",
+     "to be based on"
+    ],
+    [
+     "方針{ほうしん}",
+     "ほうしん",
+     "policy"
+    ]
+   ]
+  }
+ ]
+}

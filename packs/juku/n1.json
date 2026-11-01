@@ -1,0 +1,113 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "コラム（ひまわり学習塾シリーズ）",
+   "title": "学習塾という場所で積み重ねられる経験の意味",
+   "lead": "長年教えてきた講師には、どのような感覚が育っているのだろうか。",
+   "text": "学習塾という場所で積み重ねられる経験の意味\n長年ひまわり学習塾で教えてきた講師は、生徒がノートに書いた一行を見るだけで、その生徒がどこで迷い、どこであきらめかけているかを言い当てることができる。筆跡の乱れや消した跡の多さから、生徒の心の揺れまで読み取っているように見える。\nこうした感覚は、指導書に書き起こせるものではない。現場で積み重ねた時間だけが育てる勘があるのだと、講師の教え方を見ていて実感させられる。",
+   "questions": [
+    {
+     "q": "長年教えてきた講師について、文章は何を述べているか。",
+     "c": [
+      "生徒のノートの一行を見るだけで、生徒の迷いやあきらめを言い当てることができる。",
+      "生徒のノートをどれだけ丁寧に見ても、生徒の状態はまったくわからない。",
+      "筆跡を見るだけで、生徒の成績を言い当てることができる。",
+      "指導書に書かれた方法だけで、生徒を指導している。"
+     ],
+     "a": 0,
+     "ev": "生徒がどこで迷い、どこであきらめかけているかを言い当てることができる",
+     "why": "The essay says the teacher can tell from a single line in a student's notebook where the student is struggling or starting to give up.",
+     "ng": [
+      "",
+      "The essay says the opposite: much can be read from the notebook.",
+      "The essay is about discerning confusion and discouragement, not grades specifically.",
+      "The essay explicitly says this sense cannot be written down in a manual."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "勘{かん}",
+     "かん",
+     "intuition"
+    ],
+    [
+     "筆跡{ひっせき}",
+     "ひっせき",
+     "handwriting"
+    ],
+    [
+     "実感{じっかん}",
+     "じっかん",
+     "to truly feel"
+    ]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告{ほうこく}書{しょ}（ひまわり学習塾シリーズ）",
+   "title": "地域学習支援協議会との一年間の協力報告",
+   "lead": "地域の協議会との連携事業は、一年間でどのような結果になったのだろうか。",
+   "text": "地域学習支援協議会との一年間の協力報告\nひまわり学習塾は、昨年四月より、地域学習支援協議会との連携事業に参加し、経済的な事情で塾に通うことが難しい家庭の生徒を対象に、無料の学習支援教室を月に二回、開催してきた。この一年間で、延べ三百四十人の生徒が参加し、当初の想定を大きく上回る利用があった。\n費用の面では、教材費の一部を協議会が負担し、会場費と人件費は当塾が引き受ける形で事業を支えている。当初は、無料という条件に見合う質の授業を提供できるか、講師の間でも不安の声があったが、実際に始めてみると、生徒たちの反応は想像以上に熱心なもので、むしろ通常クラスの指導にも良い影響を与える結果となった。\n協力関係を築く過程では、協議会側が想定していた「学習の遅れを取り戻す場」という位置づけと、当塾が重視する「生徒が学ぶことへの抵抗感を減らす場」という位置づけの間に、少なからぬずれがあった。幾度かの意見交換を経て、両者の目的は対立するものではなく、むしろ相互に補完し合うものであるという理解に至った。\n実施にあたっては、通常の授業を担当する講師とは別に、この事業専任の講師を二名配置し、学習面だけでなく、生徒の生活面の小さな変化にも目を配るよう努めた。結果として、参加した生徒の七割以上が、半年後の面談で「学校の授業が以前よりわかるようになった」と答えている。\n来年度は、対象を中学生だけでなく小学生にも広げることを検討しており、協議会との協議を継続していく予定である。",
+   "questions": [
+    {
+     "q": "この一年間の連携事業について、正しいものはどれですか。",
+     "c": [
+      "延べ三百四十人の生徒が、無料の学習支援教室に参加した。",
+      "参加した生徒は、全員が有料でこの教室に通った。",
+      "この事業は、今年度で終了することが決まっている。",
+      "教材費も会場費も、すべて協議会が負担している。"
+     ],
+     "a": 0,
+     "ev": "延べ三百四十人の生徒が参加し",
+     "why": "The report states that a cumulative total of 340 students took part in the free tutoring program over the year.",
+     "ng": [
+      "",
+      "The program is explicitly free, not paid.",
+      "The report discusses expanding the program next year, not ending it.",
+      "The report says the association covers only part of the material costs, while the school covers venue and staff costs."
+     ]
+    },
+    {
+     "q": "協議会と当塾の位置づけの違いについて、どのような理解に至ったか。",
+     "c": [
+      "両者の目的は対立するものではなく、相互に補完し合うものであるという理解。",
+      "協議会の位置づけのほうが正しく、当塾の位置づけは誤りだったという理解。",
+      "当塾の位置づけのほうが正しく、協議会の位置づけは誤りだったという理解。",
+      "両者の位置づけは、意見交換をする前から、最初から完全に一致していたという理解。"
+     ],
+     "a": 0,
+     "ev": "両者の目的は対立するものではなく、むしろ相互に補完し合うものであるという理解に至った",
+     "why": "After exchanging views, both sides came to understand that their two framings were not in conflict but complemented each other.",
+     "ng": [
+      "",
+      "The passage does not say one side's framing was simply judged wrong.",
+      "The passage does not say the school's framing was judged correct and the association's wrong.",
+      "The passage describes an initial gap between the two framings, not an original perfect match."
+     ]
+    }
+   ],
+   "words": [
+    [
+     "連携{れんけい}",
+     "れんけい",
+     "cooperation/collaboration"
+    ],
+    [
+     "負担{ふたん}",
+     "ふたん",
+     "burden"
+    ],
+    [
+     "位置{いち}づけ",
+     "いちづけ",
+     "positioning/framing"
+    ]
+   ]
+  }
+ ]
+}
