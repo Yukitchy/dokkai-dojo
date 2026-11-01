@@ -1,0 +1,89 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（のぞみ園シリーズ）",
+   "title": "利用者の暮らしの個別化が進んできたことについて",
+   "lead": "のぞみ園のような施設に求められる、利用者一人ひとりへの対応の変化について考えた文章である。",
+   "text": "のぞみ園での暮らしは、以前は起床{きしょう}や入浴、食事の時間が、全員同じスケジュールで決められていた。しかし近年、利用者それぞれの生活のペースを尊重{そんちょう}する方向へと、運営の考え方が変わってきた。\n朝型の人には早めの入浴を、夜型の人には遅めの食事を用意するなど、細かな調整を重ねることが、結果として利用者本人の落ち着きにつながっている。\n施設の運営において、効率だけを優先するのではなく、一人ひとりの暮らし方に寄{よ}り添{そ}う視点こそが、これからますます重視されていくのではないだろうか。",
+   "questions": [
+    {
+     "q": "この文章で筆者が最も伝えたいことは何か。",
+     "c": [
+      "効率だけを優先せず、一人ひとりの暮らし方に寄り添う視点が、これから重視されていくだろうということ。",
+      "全員同じスケジュールで管理するこれまでの方法を、今後も変える必要はないということ。",
+      "朝型と夜型の利用者の区別は、実際には意味がないということ。",
+      "施設の運営において、効率を優先することがすでに十分に進んでいるということ。"
+     ],
+     "a": 0,
+     "ev": "一人ひとりの暮らし方に寄り添う視点こそが、これからますます重視されていくのではないだろうか",
+     "why": "The writer argues that a perspective respecting each person's own way of living, rather than prioritizing efficiency alone, will matter more going forward.",
+     "ng": [
+      "",
+      "The passage describes the uniform schedule as the old approach being moved away from, the opposite of keeping it unchanged.",
+      "The passage treats the distinction between morning and night types as meaningful, not meaningless.",
+      "The passage says this kind of shift is only now becoming more valued, not already sufficiently advanced."
+     ]
+    }
+   ],
+   "words": [
+    ["尊重", "そんちょう", "respect (for someone's wishes)"],
+    ["寄り添う", "よりそう", "to stay close to/be attentive to"],
+    ["視点", "してん", "viewpoint/perspective"]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内（のぞみ園シリーズ）",
+   "title": "デイサービス利用契約規約改定のご案内",
+   "lead": "のぞみ園のデイサービス利用契約規約の改定について、利用者に向けて説明した案内文である。",
+   "text": "利用者様・ご家族様へ\n\nこのたび、のぞみ園デイサービス利用契約規約{きやく}を一部改定{かいてい}いたしましたので、下記の通りご案内いたします。今回の改定は、近年の利用状況の変化にともない、公平で安定した運営を続けるために必要な見直しとして行うものです。\n\n一、キャンセルの受付時期について\nこれまでキャンセルは利用日の前日まで受け付けておりましたが、今回から、利用日の二日前までとさせていただきます。期日が近づいた方には、事前にお知らせいたします。\n\n二、利用日の変更について\n利用日の変更は、これまで電話のみで受け付けておりましたが、今回から、専用アプリからの変更も可能になりました。\n\n三、荒天時の対応について\n台風や大雪などの荒天により、のぞみ園の判断で、利用者様の同意を待たず、送迎時間の変更や利用の中止を行うことがあります。\n\n四、キャンセル料の金額の見直しについて\nキャンセル料は、これまで利用料金の全額を一律{いちりつ}にいただいておりましたが、今回から、キャンセルの時期に応じて金額を変える形に改めます。これは、早めにキャンセルを決めた方へ、負担{ふたん}をより具体的な形で軽くしたいという考えによるものです。\n\n五、体験利用について\n規約の改定にともない、デイサービスの体験利用についても、今回から、前日までのキャンセルを可能にいたします。\n\nご不便をおかけしますが、ご理解とご協力をお願いいたします。",
+   "questions": [
+    {
+     "q": "今回の改定で、新しく決められたことはどれか。",
+     "c": [
+      "キャンセルの受付が、利用日の二日前までになること。",
+      "利用日の変更を電話でしかできなくすること。",
+      "荒天時にも、必ず利用者様の同意を得てから送迎時間を変えること。",
+      "キャンセル料を、全額一律のまま変えないこと。"
+     ],
+     "a": 0,
+     "ev": "今回から、利用日の二日前までとさせていただきます",
+     "why": "The revision newly sets cancellation to be accepted only up until two days before the day of use.",
+     "ng": [
+      "",
+      "The revision adds an app option, the opposite of limiting to phone only.",
+      "The guide says the facility may act without waiting for the user's consent in severe weather.",
+      "The revision changes the fee to vary by timing, not stay uniform."
+     ]
+    },
+    {
+     "q": "利用日の変更について、正しいものはどれか。",
+     "c": [
+      "専用アプリからの変更も可能になった。",
+      "変更は、電話でしかできない。",
+      "変更は、いかなる場合もできない。",
+      "変更には、必ず手数料がかかる。"
+     ],
+     "a": 0,
+     "ev": "今回から、専用アプリからの変更も可能になりました",
+     "why": "The guide says making changes via the dedicated app has newly become possible.",
+     "ng": [
+      "",
+      "The guide adds the app option, so it is no longer phone-only.",
+      "The guide describes changes becoming possible in more ways, not prohibited.",
+      "A fee for the change itself is not mentioned here."
+     ]
+    }
+   ],
+   "words": [
+    ["規約", "きやく", "rules/terms"],
+    ["改定", "かいてい", "revision"],
+    ["負担", "ふたん", "burden/cost"]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "level": "n1",
+ "passages": [
+  {
+   "id": "n1-01",
+   "type": "short",
+   "genre": "コラム（のぞみ園シリーズ）",
+   "title": "のぞみ園の庭に残り続けるもの",
+   "lead": "のぞみ園の庭に立つ一本の桜の木から考える、場所に積み重ねられる時間についての文章である。",
+   "text": "のぞみ園の庭には、開設当初から変わらず立ち続ける一本の桜の木がある。\n樹齢{じゅれい}は植え替えを検討してもよいほどに古く、毎年の剪定{せんてい}にも手間がかかる。それでも、歴代の施設長たちは、この木を切ることをためらい続けてきた。\nかつてこの木の下で花見をした利用者が、やがてこの世を去り、その家族が墓参りの帰りに立ち寄っては、同じ木の下に立つ。その積み重ねのなかで、一本の桜の木に、血のつながりを超えた時間の厚みが重なっていく。効率では測れないその価値を、簡単に切り捨てたくはない。",
+   "questions": [
+    {
+     "q": "この文章で筆者が最も伝えたいことは何か。",
+     "c": [
+      "かつて花見をした利用者の家族が立ち寄る積み重ねのなかで、一本の桜の木に、効率では測れない価値が重なっていくということ。",
+      "古い桜の木は、植え替えたほうが見た目がよくなるので、すぐに植え替えるべきだということ。",
+      "木の数をもっと増やし、古いものも含めてすべて頻繁に新しいものへ植え替えていくべきだということ。",
+      "かつての利用者の家族が、庭に立ち寄ることは二度とないということ。"
+     ],
+     "a": 0,
+     "ev": "一本の桜の木に、血のつながりを超えた時間の厚みが重なっていく。効率では測れないその価値を",
+     "why": "The writer's main point is that the accumulated time carried by the tree, through families who return, holds a value that cannot be measured by efficiency.",
+     "ng": [
+      "",
+      "The passage describes directors resisting replacement, not arguing for a quick one for appearance.",
+      "Increasing the number of trees to replace old ones is not the writer's point.",
+      "The passage describes families returning, the opposite of never returning."
+     ]
+    }
+   ],
+   "words": [
+    ["樹齢", "じゅれい", "age of a tree"],
+    ["剪定", "せんてい", "pruning"],
+    ["切り捨てる", "きりすてる", "to discard/cut off"]
+   ]
+  },
+  {
+   "id": "n1-02",
+   "type": "info",
+   "genre": "報告書（のぞみ園シリーズ）",
+   "title": "地域のボランティア団体との協力に関する一年間の協力報告",
+   "lead": "のぞみ園が、昨年から取り組んでいる地域のボランティア団体との協力についての、一年間の報告である。",
+   "text": "のぞみ園　地域のボランティア団体との協力に関する一年間の報告\n\n一、連携の背景\nのぞみ園は、昨年四月より、地域の傾聴ボランティア団体と提携{ていけい}し、利用者への声かけ・傾聴活動の体制を整えてきた。職員だけでは行き届きにくかった、ゆっくり話を聞く時間を、ボランティアとともに取り入れることを目的としている。\n\n二、主な取り組み\n月に一度、担当のボランティアコーディネーターと職員が集まり、活動内容について話し合う会議を開いた。会議では利用者の個人情報の扱いに注意し、守秘義務を徹底した。また、ボランティアを各フロアに派遣{はけん}し、職員だけでは手の回らなかった個別の対話の時間を、共同で実施した。\n\n三、見えてきた成果\nこの一年で、提携を通じて、三つのフロアのうち、二つのフロアについては、利用者の表情が明るくなったという報告が担当職員から寄せられ、面会時の家族からの評価にもつながった。日々の業務だけでは気づきにくかった利用者の変化も含まれている。\n\n四、今後の課題\n一方で、ボランティアの活動時間が平日の日中に限られており、担当職員本人の立ち会いが毎回必要になる。また、傾聴活動の対象をどこまで広げるべきか、のぞみ園とボランティア団体の間で判断が分かれる場面もあった。対象を広げすぎれば職員の負担になり、慎重になりすぎれば連携の効果が薄れる。その線引{せんび}きは、まだ定まっていない。\n\n五、来年度の計画\n来年度は、ボランティアの活動日を増やし、週末にも一回設けることを検討している。また、活動の対象については、のぞみ園とボランティア団体で統一した基準を一つ作ることを目指し、改めて協議する予定である。",
+   "questions": [
+    {
+     "q": "この一年の取り組みの成果として、報告書に挙げられているのはどれか。",
+     "c": [
+      "提携を通じて、三つのフロアのうち二つで利用者の表情が明るくなったという報告が寄せられたこと。",
+      "担当のボランティアコーディネーターが、毎週会議を開くようになったこと。",
+      "すべての担当職員が、ボランティアの活動に立ち会わなくてよくなったこと。",
+      "傾聴活動の対象について、のぞみ園とボランティア団体の判断が完全に一致したこと。"
+     ],
+     "a": 0,
+     "ev": "提携を通じて、三つのフロアのうち、二つのフロアについては、利用者の表情が明るくなったという報告が担当職員から寄せられ",
+     "why": "The report lists, as an achievement, two of the three floors reporting that residents' expressions became brighter through the partnership.",
+     "ng": [
+      "",
+      "The report describes monthly meetings, not weekly ones.",
+      "The report says the staff member in charge must attend every time, the opposite of no longer needing to.",
+      "The report says judgment on the scope differed, not that it was fully unified."
+     ]
+    },
+    {
+     "q": "今後の課題として、報告書に挙げられているのはどれか。",
+     "c": [
+      "ボランティアの活動時間が平日の日中に限られ、担当職員本人の立ち会いが毎回必要になること。",
+      "のぞみ園を利用する人の数が減り続けていること。",
+      "ボランティア団体との提携が、制度上禁止されていること。",
+      "傾聴活動の対象について、のぞみ園とボランティア団体の間で意見が一度も分かれなかったこと。"
+     ],
+     "a": 0,
+     "ev": "ボランティアの活動時間が平日の日中に限られており、担当職員本人の立ち会いが毎回必要になる",
+     "why": "The report raises, as a challenge, that volunteer activity hours are limited to weekday daytime, requiring the staff member in charge to attend every time.",
+     "ng": [
+      "",
+      "A decline in the number of people using the facility is not mentioned.",
+      "Partnering with the volunteer group is described as ongoing, not prohibited.",
+      "The report says judgment differed between the groups, so this is the opposite of what is stated."
+     ]
+    }
+   ],
+   "words": [
+    ["提携", "ていけい", "partnership/tie-up"],
+    ["派遣", "はけん", "dispatch (sending someone out)"],
+    ["線引{せんび}き", "せんびき", "drawing the line/setting a boundary"]
+   ]
+  }
+ ]
+}
