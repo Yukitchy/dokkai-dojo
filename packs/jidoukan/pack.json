@@ -1,0 +1,43 @@
+{
+ "name": "Jidoukan",
+ "title": "Dokkai Dojo",
+ "lead": "JLPT reading drills N5-N1 set at a fictional neighborhood children's hall (Donguri Jidoukan).",
+ "levels": [
+  "n5",
+  "n4",
+  "n3"
+ ],
+ "allow": [
+  "どんぐり",
+  "児童館",
+  "児童",
+  "指導員",
+  "お知らせ",
+  "変わる",
+  "お願い",
+  "しん",
+  "よく",
+  "よろしく",
+  "書く",
+  "覚える",
+  "配る",
+  "利用",
+  "小学生",
+  "必ず",
+  "祝日",
+  "開館",
+  "お金",
+  "参加",
+  "工作",
+  "早め",
+  "材料",
+  "申し込む",
+  "おかし",
+  "お茶",
+  "すべて",
+  "のり",
+  "はさむ",
+  "保護",
+  "必要"
+ ]
+}

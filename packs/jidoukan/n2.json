@@ -1,0 +1,89 @@
+{
+ "level": "n2",
+ "passages": [
+  {
+   "id": "n2-01",
+   "type": "short",
+   "genre": "コラム（どんぐり児童館{じどうかん}シリーズ）",
+   "title": "学童保育の役割が変わってきたことについて",
+   "lead": "どんぐり児童館{じどうかん}のような学童保育の施設に求められる役割は、どう変わってきたのだろうか。",
+   "text": "学童保育はもともと、保護者が働いている間、子どもを安全に過ごせる場所として作られた。しかし近年、どんぐり児童館{じどうかん}のような施設に求められる役割は、それだけにとどまらなくなってきている。\n子どもの孤立{こりつ}を防ぐ場としての役割が、以前より重視{じゅうし}されるようになったことは大きい。地域のつながりが薄{うす}くなるにもかかわらず、学校以外で友人関係を築く場所は限られている。学童保育は、その数少ない場の一つになっているのだ。\n単に「待つ場所」ではなく「育つ場所」として学童保育をとらえ直{なお}すことが、今、求められているのではないだろうか。",
+   "questions": [
+    {
+     "q": "この文章で、学童保育の役割について筆者が指摘していることは何か。",
+     "c": [
+      "保護者が働く間、子どもを安全に見守るという役割だけが重要だということ。",
+      "子どもを待つだけでなく、子どもが育つ場としての役割が重視されるようになってきたこと。",
+      "地域のつながりが強くなったので、学童保育の必要性は下がっていること。",
+      "学童保育は学校の代わりになるべきだということ。"
+     ],
+     "a": 1,
+     "ev": "単に「待つ場所」ではなく「育つ場所」として学童保育をとらえ直すことが、今、求められているのではないだろうか",
+     "why": "The writer points out that after-school childcare is increasingly expected to be a place where children grow, not merely a place where they wait.",
+     "ng": [
+      "The passage says the role goes beyond just safely watching children while parents work.",
+      "",
+      "The passage says community ties have weakened, not strengthened.",
+      "The passage never claims after-school care should replace school."
+     ]
+    }
+   ],
+   "words": [
+    ["孤立{こりつ}", "こりつ", "isolation"],
+    ["重視{じゅうし}", "じゅうし", "emphasis/to value highly"],
+    ["とらえ直{なお}す", "とらえなおす", "to reconsider/re-examine"]
+   ]
+  },
+  {
+   "id": "n2-02",
+   "type": "info",
+   "genre": "案内{あんない}（どんぐり児童館{じどうかん}シリーズ）",
+   "title": "どんぐり児童館{じどうかん}の運営規則変更のご案内",
+   "lead": "どんぐり児童館{じどうかん}の運営規則が、一部改定{かいてい}されることになった。",
+   "text": "保護者の皆様へ\n\nこのたび、どんぐり児童館{じどうかん}の運営規則を一部改定{かいてい}いたしましたので、下記の通りご案内いたします。今回の改定{かいてい}は、利用者数の増加にともない、安全な運営を続けるために必要な見直しとして行うものです。\n\n一、利用申請の方法について\nこれまで紙の申請書のみで受け付けていましたが、今回から、区のウェブサイトからも申請できるようになります。紙の申請書を希望する場合は、引き続き児童館の受付でお渡しします。\n\n二、欠席の連絡について\n体調不良などで欠席する場合は、利用予定日の午前九時までに、電話またはウェブサイトの連絡フォームでお知らせください。連絡がない欠席が続く場合、面談をお願いすることがあります。\n\n三、緊急時の対応について\n地震や火事などの緊急時には、児童館の判断で、保護者への引{ひ}き渡{わた}しを待たず、近隣の避難{ひなん}場所へ子どもを移動させることがあります。移動先は、後日、連絡網{れんらくもう}でお知らせします。\n\n四、個人情報の取り扱いについて\n申請書に記入いただいた情報は、児童館の運営にのみ使用し、ほかの目的には使用いたしません。\n\n五、開館時間の変更について\n今回の改定{かいてい}にともない、土曜日の開館時間を午前九時から午後五時までに変更します。これまでより三十分早く開館しますので、ご確認ください。\n\nご不明な点がございましたら、児童館の受付までお問い合わせください。今後とも、どんぐり児童館{じどうかん}をよろしくお願いいたします。",
+   "questions": [
+    {
+     "q": "欠席の連絡について、正しいものはどれか。",
+     "c": [
+      "欠席の連絡は、利用予定日の前日までにすればよい。",
+      "欠席の連絡は、利用予定日の午前九時までにする必要がある。",
+      "欠席の連絡は、児童館に直接行って伝えなければならない。",
+      "欠席の連絡をしなくても、特に問題はない。"
+     ],
+     "a": 1,
+     "ev": "利用予定日の午前九時までに、電話またはウェブサイトの連絡フォームでお知らせください",
+     "why": "The notice says absence must be reported by 9 am on the day of use, by phone or the website contact form.",
+     "ng": [
+      "The notice specifies the morning of the day itself, not the day before.",
+      "",
+      "The notice allows phone or website contact, not only an in-person visit.",
+      "The notice says repeated unreported absences may lead to a meeting request, so it is not treated as no problem."
+     ]
+    },
+    {
+     "q": "この案内全体の内容として、正しいものはどれか。",
+     "c": [
+      "緊急時には、保護者の引{ひ}き渡{わた}しを待ってから子どもを避難{ひなん}させる。",
+      "緊急時には、保護者への引{ひ}き渡{わた}しを待たずに子どもを避難{ひなん}させることがある。",
+      "申請書の個人情報は、児童館以外の目的にも自由に使用される。",
+      "土曜日の開館時間は、今回の改定{かいてい}で変更されない。"
+     ],
+     "a": 1,
+     "ev": "保護者への引き渡しを待たず、近隣の避難場所へ子どもを移動させることがあります",
+     "why": "The notice says that in an emergency, the center may move children to a nearby evacuation site without waiting for parents to pick them up.",
+     "ng": [
+      "The notice explicitly says the center does not wait for parent pickup in an emergency.",
+      "",
+      "The notice says personal information is used only for running the center, not for other purposes.",
+      "The notice says Saturday hours are changed by this revision."
+     ]
+    }
+   ],
+   "words": [
+    ["改定{かいてい}", "かいてい", "revision"],
+    ["引{ひ}き渡{わた}し", "ひきわたし", "handing over"],
+    ["避難{ひなん}", "ひなん", "evacuation"]
+   ]
+  }
+ ]
+}
